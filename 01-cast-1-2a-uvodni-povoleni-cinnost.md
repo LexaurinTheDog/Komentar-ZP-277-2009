@@ -61,17 +61,37 @@ Legislativní zkratka „jiný členský stát" definovaná v písm. b) zahrnuje
 
 > **§ 2**
 >
-> *(1) Tento zákon se nevztahuje na provádění nemocenského pojištění, důchodového pojištění, penzijního připojištění se státním příspěvkem, důchodového spoření, doplňkového penzijního spoření, zaměstnaneckého penzijního pojištění, úrazového pojištění zaměstnanců a veřejného zdravotního pojištění.*
+> *(1) Tento zákon se nevztahuje na provádění nemocenského pojištění, důchodového pojištění, penzijního připojištění se státním příspěvkem, důchodového spoření, doplňkového penzijního spoření, zaměstnaneckého penzijního pojištění, úrazového pojištění zaměstnanců a veřejného zdravotního pojištění2).*
 >
 > *(2) Tento zákon se dále nevztahuje na činnost*
 >
-> *- a) pojišťoven vykonávajících svoji činnost na principu vzájemnosti (dále jen „vzájemná pojišťovna"), u kterých se plnění mění podle dostupných zdrojů a které vyžadují, aby každý z jejich členů platil stejný příspěvek,*
+> *- a) pojišťoven vykonávajících svoji činnost na principu vzájemnosti (dále jen „vzájemná pojišťovna“), u kterých se plnění mění podle dostupných zdrojů a které vyžadují, aby každý z jejich členů platil stejný příspěvek,*
 >
-> *- b) institucí jiných než pojišťoven spočívající v poskytování plnění zaměstnancům a osobám samostatně výdělečně činným patřícím do jednoho obchodního závodu nebo podnikatelského seskupení (...),*
+> *- b) institucí jiných než pojišťoven spočívající v poskytování plnění zaměstnancům a osobám samostatně výdělečně činným patřícím do jednoho obchodního závodu nebo podnikatelského seskupení nebo do jednoho ekonomického oboru nebo skupiny oborů, a to pro případ smrti nebo dožití se stanoveného věku anebo pro případ přerušení nebo omezení činnosti, bez ohledu na to, jsou-li k závazkům vyplývajícím z této činnosti vytvářeny technické rezervy,*
 >
 > *- c) institucí jiných než pojišťoven spočívající v uzavírání závazků poskytnout plnění pouze v případě smrti, jestliže toto plnění nepřesáhne průměrné náklady na pohřeb nebo jestliže je poskytováno nepeněžní plnění,*
 >
-> *(...)*
+> *- d) vzájemné pojišťovny vykonávající činnosti neživotního pojištění, která uzavřela s jinou vzájemnou pojišťovnou dohodu, na jejímž základě jsou závazky z jí uzavřených pojistných smluv plně zajištěny, nebo podle které jiná pojišťovna přebírá závazky vyplývající z těchto smluv,*
+>
+> *- e) institucí a pojišťoven se sídlem v jiném členském státě vyňatých z působnosti směrnice Evropské unie upravující přístup k pojišťovací a zajišťovací činnosti a její výkon a na operace vyloučené touto směrnicí,*
+>
+> *- f) institucí jiných než pojišťoven spočívající v poskytnutí pomoci v případě poruchy nebo nehody silničního vozidla, ke které dojde na území České republiky, a jedná-li se o*
+>
+> *- 1. opravu na místě, pokud poskytovatel služby využívá k této činnosti převážně vlastních zaměstnanců a vlastního vybavení,*
+>
+> *- 2. převoz vozidla do nejbližšího nebo nejvhodnějšího místa opravy a přeprava řidiče a spolucestujících do nejbližšího místa, ze kterého mohou pokračovat ve své cestě jinými prostředky,*
+>
+> *- 3. převoz vozidla, popřípadě řidiče a spolucestujících do místa jejich bydliště, do místa jejich odjezdu, je-li odlišné od místa jejich bydliště, nebo do cílového místa ve stejném státu Evropské unie nebo státu tvořícího Evropský hospodářský prostor (dále jen „členský stát“),*
+>
+> *- g) uskupení bez právní osobnosti spočívající v poskytování vzájemného zabezpečení pro své členy, a to bez povinnosti platit pojistné nebo vytvářet technické rezervy,*
+>
+> *- h) spočívající v pojištění exportních úvěrů na účet státu nebo se zárukou státu nebo, je-li stát pojistitelem, nestanoví-li jiný právní předpis jinak,*
+>
+> *- i) Garančního systému finančního trhu a jím spravovaných fondů podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu a zákona upravujícího činnost bank4),*
+>
+> *- j) Garančního fondu obchodníků s cennými papíry5).*
+>
+> *(3) Podmínka, že k poruše nebo nehodě silničního vozidla dojde na území České republiky, neplatí v případě podle odstavce 2 písm. f) bodů 1 a 2, jestliže oprava vozidla na místě nebo jeho převoz jsou poskytovány institucí na území jiného státu bez povinnosti zaplatit jakoukoliv dodatečnou platbu recipročně proti předložení členské karty instituce, jíž je oprávněná osoba členem, a to na základě dohod mezi takovými institucemi.*
 >
 > *(4) Tento zákon se nevztahuje také na zajišťovací činnost prováděnou nebo plně zaručenou Českou republikou provozovanou z důvodu veřejného zájmu na pojistné ochraně, kdy charakter pojistného rizika nebo situace na trhu neumožňují získat odpovídající soukromé zajištění.*
 
@@ -104,65 +124,193 @@ Klíčová výjimka pro **„state-backed reinsurance of last resort"** — typi
 
 > **§ 3**
 >
-> *Vymezení pojmů*
->
 > *(1) Pro účely tohoto zákona se rozumí*
 >
-> *- a) pojišťovnou tuzemská pojišťovna, pojišťovna z jiného členského státu nebo pojišťovna z třetího státu (...),*
+> *- a) pojišťovnou tuzemská pojišťovna, pojišťovna z jiného členského státu nebo pojišťovna z třetího státu, s výjimkou pojišťovny, která je vyjmuta z působnosti směrnice Evropské unie upravující přístup k pojišťovací a zajišťovací činnosti a její výkon,*
 >
 > *- b) tuzemskou pojišťovnou právnická osoba se sídlem na území České republiky, které bylo Českou národní bankou uděleno povolení k provozování pojišťovací činnosti podle tohoto zákona,*
 >
-> *(...)*
+> *- c) pojišťovnou z jiného členského státu právnická osoba se sídlem na území jiného členského státu, které bylo v tomto jiném členském státě uděleno povolení k provozování pojišťovací činnosti,*
 >
-> *- e) kaptivní pojišťovnou pojišťovna, kterou ovládá osoba z finančního sektoru jiná než pojišťovna nebo zajišťovna nebo jiná osoba než pojišťovací holdingová osoba nebo pojišťovací holdingová osoba se smíšenou činností anebo, kterou ovládá jiná osoba, která není osobou z finančního sektoru, pokud se činnost této pojišťovny výhradně omezuje na poskytování pojištění pojistných rizik osoby nebo osob společně tvořících podnikatelské seskupení,*
+> *- d) pojišťovnou z třetího státu právnická osoba se sídlem na území třetího státu, která je v souladu s právem země svého sídla oprávněna provozovat pojišťovací činnost,*
+>
+> *- e) kaptivní pojišťovnou pojišťovna, kterou ovládá osoba z finančního sektoru6) jiná než pojišťovna nebo zajišťovna nebo jiná osoba než pojišťovací holdingová osoba nebo pojišťovací holdingová osoba se smíšenou činností anebo, kterou ovládá jiná osoba, která není osobou z finančního sektoru, pokud se činnost této pojišťovny výhradně omezuje na poskytování pojištění pojistných rizik osoby nebo osob společně tvořících podnikatelské seskupení,*
 >
 > *- f) pojišťovací činností přebírání pojistných rizik na základě uzavřených pojistných smluv a plnění z nich, přičemž součástí pojišťovací činnosti jsou činnosti přímo vyplývající z povolené pojišťovací činnosti, zejména činnosti související se vznikem pojištění a jeho správou, likvidace pojistných událostí, poskytování asistenčních služeb, investování, uzavírání smluv pojišťovnou se zajišťovnami o zajištění závazků pojišťovny vyplývajících z jí uzavřených pojistných smluv a činnost směřující k předcházení vzniku škod a zmírňování jejich následků,*
 >
-> *(...)*
+> *- g) zajišťovnou tuzemská zajišťovna, zajišťovna z jiného členského státu nebo zajišťovna z třetího státu, s výjimkou zajišťovny, která je vyjmuta z působnosti směrnice Evropské unie upravující přístup k pojišťovací a zajišťovací činnosti a její výkon,*
 >
-> *- l) zajišťovací činností přebírání pojistných rizik na základě uzavřených smluv, kterými se zajišťovna zavazuje poskytnout pojišťovně ve sjednaném rozsahu plnění, nastane-li nahodilá událost ve smlouvě blíže označená (...) ,*
+> *- h) tuzemskou zajišťovnou právnická osoba se sídlem na území České republiky, které bylo Českou národní bankou uděleno povolení k provozování zajišťovací činnosti podle tohoto zákona,*
 >
-> *- o) domovským členským státem členský stát, ve kterém se nachází sídlo pojišťovny (...),*
+> *- i) zajišťovnou z jiného členského státu právnická osoba se sídlem na území jiného členského státu, které bylo v tomto členském státě uděleno povolení k provozování zajišťovací činnosti,*
 >
-> *- p) hostitelským členským státem členský stát, ve kterém má pojišťovna nebo zajišťovna pobočku nebo, ve kterém dočasně poskytuje služby (...) ,*
+> *- j) zajišťovnou z třetího státu právnická osoba se sídlem na území třetího státu, která je v souladu s právem země svého sídla oprávněna provozovat zajišťovací činnost,*
+>
+> *- k) kaptivní zajišťovnou zajišťovna, kterou ovládá osoba z finančního sektoru6) jiná než pojišťovna nebo zajišťovna nebo jiná osoba než pojišťovací holdingová osoba nebo pojišťovací holdingová osoba se smíšenou činností anebo, kterou ovládá jiná osoba, která není osobou z finančního sektoru, pokud se činnost této zajišťovny výhradně omezuje na poskytování zajištění pojistných rizik osoby nebo osob s ní vzájemně propojených,*
+>
+> *- l) zajišťovací činností přebírání pojistných rizik na základě uzavřených smluv, kterými se zajišťovna zavazuje poskytnout pojišťovně ve sjednaném rozsahu plnění, nastane-li nahodilá událost ve smlouvě blíže označená, a pojistitel se zavazuje platit zajistiteli ve smlouvě určenou část pojistného (dále jen „zajistné“) z pojistných smluv uzavřených pojistitelem, které jsou předmětem této smlouvy (dále jen „zajišťovací smlouva“), plnění z těchto smluv a uzavírání zajišťovacích smluv mezi zajistiteli, přičemž součástí zajišťovací činnosti jsou činnosti přímo vyplývající z povolené zajišťovací činnosti, zejména činnosti související se vznikem zajištění a jeho správou, investování, poskytování statistického nebo pojistněmatematického poradenství v pojišťovnictví, analýza a průzkum pojistných rizik, činnost holdingové osoby a činnosti ve finančním sektoru podle zákona upravujícího doplňkový dohled nad finančními konglomeráty; zajišťovací činností se rozumí i uzavírání zajišťovacích smluv s institucemi zaměstnaneckého penzijního pojištění se sídlem v členských státech Evropské unie, kterým bylo uděleno povolení k činnosti provozování zaměstnaneckého penzijního pojištění v souladu s právem Evropské unie,*
+>
+> *- m) investováním nakládání s veškerými aktivy v majetku pojišťovny nebo zajišťovny,*
+>
+> *- n) likvidací pojistné události soubor činností počínající šetřením směřujícím k určení povinnosti pojišťovny plnit z události vyvolané pojistným nebezpečím, stanovení výše tohoto plnění a končící jeho výplatou oprávněné osobě nebo poškozenému, anebo sdělením, že tato povinnost nevznikla,*
+>
+> *- o) domovským členským státem členský stát, ve kterém se nachází sídlo*
+>
+> *- 1. pojišťovny, u které je pojištěno pojistné riziko z neživotního pojištění,*
+>
+> *- 2. pojišťovny, u které je pojištěn závazek ze životního pojištění,*
+>
+> *- 3. zajišťovny, jedná-li se o zajištění,*
+>
+> *- p) hostitelským členským státem členský stát, ve kterém má pojišťovna nebo zajišťovna pobočku nebo, ve kterém dočasně poskytuje služby; v případě životního pojištění se členským státem, ve kterém pojišťovna poskytuje služby, rozumí členský stát závazku a v případě neživotního pojištění se takovým členským státem rozumí členský stát, ve kterém se nachází pojistné riziko, pokud je takový závazek nebo riziko pojištěno pojišťovnou nebo její pobočkou, která se nachází v jiném členském státě,*
+>
+> *- r) pobočkou každá trvalá přítomnost pojišťovny nebo zajišťovny na území jiného než domovského členského státu, bez ohledu na to, zda má tato přítomnost formu organizační složky pojišťovny nebo zajišťovny, nebo se jedná o zastoupení této pojišťovny nebo zajišťovny třetí osobou, která má trvalé pověření jednat za pojišťovnu nebo zajišťovnu, jaké by měla její organizační složka; jedná-li se o pobočku pojišťovny nebo zajišťovny z třetího státu zřízenou na území České republiky, rozumí se jí odštěpný závod podle občanského zákoníku,*
 >
 > *- s) svobodou dočasně poskytovat služby právo provozovat pojišťovací nebo zajišťovací činnost na území hostitelského členského státu, a to v rozsahu povolení uděleného orgánem dohledu domovského členského státu, jestliže tato činnost nemá charakter trvalé přítomnosti na území hostitelského členského státu,*
 >
-> *- t) orgánem dohledu orgán vykonávající dohled nad pojišťovací nebo zajišťovací činností (...),*
+> *- t) orgánem dohledu orgán vykonávající dohled nad pojišťovací nebo zajišťovací činností pojišťovny nebo nad zajišťovací činností zajišťovny,*
 >
 > *- u) Evropským orgánem dohledu Evropský orgán pro pojišťovnictví a zaměstnanecké penzijní pojištění,*
 >
-> *(...)*
+> *- v) údajem o osobě jméno, popřípadě jména, příjmení, datum narození a adresa bydliště fyzické osoby, v případě fyzické osoby podnikající též místo jejího podnikání, nebo obchodní firma nebo název a sídlo právnické osoby.*
 >
-> *(2) (...)*
+> *(2) Pro účely tohoto zákona se dále rozumí*
 >
-> *- a) životním pojištěním pojistná odvětví uvedená v části A přílohy č. 1 (...) ,*
+> *- a) životním pojištěním pojistná odvětví uvedená v části A přílohy č. 1 k tomuto zákonu,*
 >
-> *- b) neživotním pojištěním pojistná odvětví uvedená v části B přílohy č. 1 (...) ,*
+> *- b) neživotním pojištěním pojistná odvětví uvedená v části B přílohy č. 1 k tomuto zákonu,*
+>
+> *- c) životním zajištěním přebírání rizik vyplývajících z pojistných smluv životního pojištění,*
+>
+> *- d) neživotním zajištěním přebírání rizik vyplývajících z pojistných smluv neživotního pojištění,*
 >
 > *- e) solventností schopnost pojišťovny nebo zajišťovny zabezpečit vlastními zdroji trvalou splnitelnost závazků z pojišťovací nebo zajišťovací činnosti,*
 >
-> *(...)*
+> *- f) správou pojištění nebo zajištění činnosti zabezpečující trvání a aktualizaci stavu pojistných nebo zajišťovacích smluv,*
 >
-> *(6)*
+> *- g) pojistným kmenem souhrn závazků pojišťovny vyplývajících z pojistných smluv, včetně závazků z bezdůvodného obohacení nebo z protiprávních činů souvisejících s těmito smlouvami,*
 >
-> *- e) kvalifikovanou účastí přímý nebo nepřímý podíl na základním kapitálu nebo hlasovacích právech právnické osoby nebo jejich součet, který představuje alespoň 10 % nebo umožňuje vykonávat významný vliv na řízení této právnické osoby (...) ,*
+> *- h) příslušenstvím pojistného kmene práva a povinnosti, které vyplývají z uzavřených pojistných smluv, a aktiva odpovídající tomuto kmeni,*
 >
-> *- k) osobou s klíčovou funkcí osoba, která skutečně řídí pojišťovnu nebo zajišťovnu nebo kontroluje činnost pojišťovny nebo zajišťovny nebo osoba odpovědná za řízení rizik, kontrolu zajišťování shody s předpisy, vnitřní audit nebo pojistněmatematické činnosti (...),*
+> *- i) kmenem zajišťovacích smluv souhrn závazků zajišťovny vyplývajících ze zajišťovacích smluv, včetně závazků z bezdůvodného obohacení nebo z protiprávních činů souvisejících s těmito smlouvami,*
 >
-> *(7)*
+> *- j) příslušenstvím kmene zajišťovacích smluv práva a povinnosti, které vyplývají z uzavřených zajišťovacích smluv, a aktiva odpovídající tomuto kmeni,*
+>
+> *- k) pojistnými podmínkami smluvní podmínky zpracované pojišťovnou pro uzavírání pojistných smluv pro jednotlivá pojistná odvětví, pro skupiny těchto odvětví nebo pro jednotlivé typy pojištění sjednávaných v rámci pojistného odvětví, zejména všeobecné pojistné podmínky, zvláštní nebo doplňkové pojistné podmínky,*
+>
+> *- l) asistenčními službami pomoc poskytovaná osobám, které se dostanou do nesnází během cestování nebo při pobytu mimo místo svého bydliště, která spočívá v závazku pojišťovny, která provozuje pojišťovací činnost podle pojistného odvětví uvedeného v části B bodě 18 přílohy č. 1 k tomuto zákonu, poskytnout na základě předchozí úhrady pojistného okamžitě dostupnou pomoc osobě oprávněné podle pojistné smlouvy, pokud se tato osoba dostane do nesnází v důsledku pojistné události, přičemž pomoc může mít formu peněžitého nebo věcného plnění a věcné plnění může být poskytováno na základě smluvního vztahu osobou odlišnou od pojišťovny; za asistenční službu se nepovažuje servis nebo údržba vozidla ani informace o poskytování této služby nebo její zprostředkování,*
+>
+> *- m) členským státem, ve kterém se nachází pojistné riziko pojištěné pojistnou smlouvou týkající se neživotního pojištění, členský stát,*
+>
+> *- 1. na jehož území se nacházejí pojištěné budovy, jejich součásti, příslušenství a věci, které se v nich nacházejí, jsou-li pojištěny stejnou pojistnou smlouvou,*
+>
+> *- 2. kde je registrován pojištěný dopravní prostředek bez ohledu na jeho typ; jde-li o vozidlo odeslané z jednoho členského státu do jiného, pokládá se za členský stát, ve kterém se nachází riziko, v závislosti na rozhodnutí provozovatele vozidla, buď členský stát registrace, nebo cílový členský stát, a to bezprostředně od převzetí vozidla kupujícím po dobu 30 dnů, přestože vozidlo nebylo v cílovém členském státě registrováno,*
+>
+> *- 3. kde pojistník uzavřel pojistnou smlouvu na dobu 4 a méně měsíců, která se týká pojistných rizik spojených s cestováním bez ohledu na pojistné odvětví, nebo*
+>
+> *- 4. ve kterém má pojistník jako fyzická osoba bydliště, nebo jako právnická osoba svůj odštěpný závod, ke kterému se pojištění vztahuje, jedná-li se o případy, které nejsou uvedeny v bodech 1 až 3,*
+>
+> *- n) členským státem závazku členský stát, ve kterém má pojistník, který uzavřel pojistnou smlouvu týkající se životního pojištění, bydliště, nebo je-li pojistník právnickou osobou, členský stát, ve kterém se nachází sídlo nebo pobočka této právnické osoby, ke kterým se smlouva vztahuje,*
+>
+> *- o) externím zajištěním činností ujednání pojišťovny nebo zajišťovny s poskytovatelem služby, procesu nebo činnosti, jehož prostřednictvím, a to buď přímo nebo prostřednictvím jejich dalšího externího zajištění, bez ohledu na to, zda činnost poskytovatele podléhá dohledu, si pojišťovna nebo zajišťovna zabezpečuje výkon služby, procesu nebo činnosti, kterou by jinak vykonávala sama.*
+>
+> *(3) Pro účely tohoto zákona se ovládající osobou rozumí osoba, která*
+>
+> *- a) disponuje většinou hlasovacích práv společníků nebo členů v jiné obchodní korporaci; není-li prokázáno, že jiná osoba disponuje stejným nebo vyšším množstvím hlasovacích práv, má se za to, že osoba, která disponuje alespoň 40 % hlasovacích práv v určité osobě, je ovládající osobou, a že osoby jednající ve shodě, které disponují alespoň 40 % hlasovacích práv v určité osobě, jsou ovládajícími osobami,*
+>
+> *- b) má právo jmenovat, volit či odvolat většinu členů statutárního nebo kontrolního orgánu jiné obchodní korporace a je zároveň společníkem nebo členem takové korporace,*
+>
+> *- c) má právo uplatňovat rozhodující vliv v jakékoliv jiné obchodní korporaci, jejíž je společníkem nebo členem, na základě smlouvy, kterou s ní uzavřela, nebo podle jejích stanov, společenské nebo zakladatelské smlouvy, umožňuje-li právo, jímž se taková korporace řídí, aby se těmto smlouvám nebo stanovám, společenským nebo zakladatelským smlouvám podřídila,*
+>
+> *- d) je společníkem nebo členem jakékoli jiné obchodní korporace a*
+>
+> *- 1. většina členů statutárního nebo kontrolního orgánu této korporace byla jmenována výhradně pomocí využití jejích hlasovacích práv, nemá-li však jiná osoba vůči této ovládané osobě práva uvedená v písmenech a), b) nebo c), nebo*
+>
+> *- 2. vykonává na základě dohody uzavřené s ostatními společníky nebo členy této korporace většinu hlasovacích práv společníků nebo členů v této korporaci, nebo*
+>
+> *- e) jinak než podle písmen a) až d) skutečně uplatňuje rozhodující vliv v jiné osobě.*
+>
+> *(4) Pro účely odstavce 3*
+>
+> *- a) písm. a), b) a d) musí být k hlasovacím, jmenovacím a odvolacím právům ovládající osoby přičtena práva všech ostatních ovládaných osob a práva náležející kterékoli osobě jednající vlastním jménem, ale na účet ovládající osoby nebo jiné ovládané osoby,*
+>
+> *- b) písm. a), b) a d) se od práv uvedených v odstavci 3 musí odečíst práva*
+>
+> *- 1. příslušející k akciím nebo podílům drženým na účet jakékoli osoby jiné než ovládající osoby nebo některé ovládané osoby, nebo*
+>
+> *- 2. příslušející k akciím nebo podílům drženým jako záruka, jsou-li tato práva vykonávána v souladu s přijatými pokyny nebo je-li držení těchto akcií nebo podílů pro držící obchodní závod součástí běžné obchodní činnosti ve spojitosti s poskytováním půjček, za podmínky, že hlasovací práva jsou vykonávána v zájmu osoby poskytující záruku,*
+>
+> *- c) písm. a) a d) musí být od souhrnu hlasovacích práv společníků ovládané osoby odečtena hlasovací práva příslušející k akciím nebo podílům, které jsou v držení této osoby, jí ovládané osoby nebo osoby jednající vlastním jménem, ale na účet těchto osob.*
+>
+> *(5) Při posuzování přímého nebo nepřímého podílu se nepřihlíží k hlasovacím právům ani podílům drženým bankami, spořitelními a úvěrními družstvy nebo obchodníky s cennými papíry v důsledku upsání nebo umístění finančních nástrojů na základě pevného závazku převzetí7), pokud práva spojená s tímto podílem nejsou vykonávána ani jinak využívána k zasahování do řízení emitenta a pokud do jednoho roku ode dne jejich nabytí dojde ke změně jejich vlastníka.*
+>
+> *(6) Pro účely tohoto zákona se dále rozumí*
+>
+> *- a) ovládanou osobou osoba, vůči níž je jiná osoba v postavení ovládající osoby; všechny ovládané osoby ovládaných osob jsou rovněž považovány za ovládané osoby ovládající osoby, která je v čele těchto osob,*
+>
+> *- b) osobou s účastí na jiné osobě*
+>
+> *- 1. ovládající osoba,*
+>
+> *- 2. jiná než ovládající osoba, která drží účast na jiné osobě,*
+>
+> *- 3. osoba propojená s jinou osobou vztahem jednotného řízení, nebo*
+>
+> *- 4. osoba, která má během účetního období s jinou osobou převážně tytéž osoby s funkcí člena statutárního nebo kontrolního orgánu, aniž by mezi nimi byl vztah ovládání nebo jednotného řízení,*
+>
+> *- c) přidruženou osobou*
+>
+> *- 1. ovládaná osoba,*
+>
+> *- 2. jiná než ovládaná osoba, ve které drží jiná osoba účast,*
+>
+> *- 3. řízená osoba propojená s jinou osobou vztahem jednotného řízení, nebo*
+>
+> *- 4. osoba, která má během účetního období s jinou osobou převážně tytéž osoby s funkcí člena statutárního nebo kontrolního orgánu nebo osoby s účastí na jejich řízení, aniž by mezi nimi byl vztah ovládání nebo jednotného řízení,*
+>
+> *- d) účastí přímý nebo nepřímý podíl posuzovaný samostatně nebo jejich součet představující alespoň 20 % na základním kapitálu nebo hlasovacích právech jiné osoby,*
+>
+> *- e) kvalifikovanou účastí přímý nebo nepřímý podíl na základním kapitálu nebo hlasovacích právech právnické osoby nebo jejich součet, který představuje alespoň 10 % nebo umožňuje vykonávat významný vliv na řízení této právnické osoby; podíl se posuzuje obdobně jako podíl na hlasovacích právech emitenta podle zákona upravujícího podnikání na kapitálovém trhu,*
+>
+> *- f) nepřímým podílem podíl držený prostřednictvím ovládané osoby nebo skupiny osob jednajících ve shodě včetně podílu na hlasovacích právech z cenných papírů,*
+>
+> *- g) pojišťovací holdingovou osobou ovládající osoba, která není smíšenou finanční holdingovou osobou podle zákona upravujícího doplňkový dohled nad finančními konglomeráty a jejíž hlavní činností je získávat a držet podíly v ovládaných osobách, které jsou výlučně nebo převážně pojišťovnami nebo zajišťovnami, přičemž alespoň jedna z těchto ovládaných osob je tuzemskou pojišťovnou nebo tuzemskou zajišťovnou,*
+>
+> *- h) pojišťovací holdingovou osobou se smíšenou činností ovládající osoba jiná než pojišťovna nebo zajišťovna, pojišťovací holdingová osoba nebo smíšená finanční holdingová osoba podle zákona upravujícího finanční konglomeráty, jejíž alespoň jedna ovládaná osoba je tuzemskou pojišťovnou nebo tuzemskou zajišťovnou,*
+>
+> *- i) skupinou 2 nebo více osob, mezi kterými existuje úzké propojení,*
+>
+> *- j) úzkým propojením vztah, kdy jsou 2 nebo více osob propojeny takovým způsobem, že*
+>
+> *- 1. jedna z osob je přidruženou osobou jiné osoby, a to přímo nebo prostřednictvím jiné osoby nebo osob,*
+>
+> *- 2. 2 osoby jsou ovládanými osobami téže ovládající osoby, a to přímo nebo prostřednictvím jiné osoby nebo osob, nebo*
+>
+> *- 3. většinu členů statutárních nebo kontrolních orgánů jedné osoby tvoří po většinu účetního období osoby, které jsou ve statutárních nebo kontrolních orgánech jiné osoby nebo osob, které jsou s jinou osobou v úzkém propojení podle bodů 1 až 3, ledaže jde o osoby, které vykonávají takovou funkci v rámci svého podnikání na profesionálním základě a není-li účelem výkonu jejich funkce vzájemné propojení aktivit osob, v nichž je funkce člena statutárního, řídícího nebo dozorčího orgánu vykonávána,*
+>
+> *- k) osobou s klíčovou funkcí osoba, která skutečně řídí pojišťovnu nebo zajišťovnu nebo kontroluje činnost pojišťovny nebo zajišťovny nebo osoba odpovědná za řízení rizik, kontrolu zajišťování shody s předpisy, vnitřní audit nebo pojistněmatematické činnosti, anebo osoba odpovědná za výkon jiné činnosti určené pojišťovnou nebo zajišťovnou jako klíčové; jde-li o monistický systém vnitřní struktury tuzemské pojišťovny nebo zajišťovny, je osobou, která ji řídí, také člen její správní rady,*
+>
+> *- l) operací uvnitř skupiny transakce, v jejímž důsledku se pojišťovna nebo zajišťovna stává při úhradě svého dluhu nebo splnění pohledávky přímo či nepřímo závislou na rozhodování jiných osob ve stejné skupině nebo na rozhodování jiné osoby úzce propojené s osobami v této skupině.*
+>
+> *(7) Pro účely tohoto zákona se dále rozumí*
 >
 > *- a) upisovacím rizikem riziko ztráty nebo změny vyvolávající ztrátu hodnoty závazku z pojištění nebo zajištění způsobené nepřiměřenými předpoklady při stanovení výše pojistného, zajistného nebo technických rezerv,*
 >
 > *- b) tržním rizikem riziko ztráty nebo nepříznivé změny ve finanční situaci vyplývající přímo nebo nepřímo z kolísání úrovně a volatility tržních cen aktiv, závazků a finančních nástrojů,*
 >
-> *- c) úvěrovým rizikem riziko ztráty nebo nepříznivé změny ve finanční situaci vyplývající z kolísání úvěrového hodnocení (...) ,*
+> *- c) úvěrovým rizikem riziko ztráty nebo nepříznivé změny ve finanční situaci vyplývající z kolísání úvěrového hodnocení emitentů cenných papírů, protistran a jakýchkoli dlužníků, jimž jsou pojišťovny a zajišťovny vystaveny, v podobě rizika selhání protistrany nebo rizika kreditního rozpětí nebo koncentrace tržních rizik,*
 >
 > *- d) operačním rizikem riziko ztráty vyplývající z nepřiměřenosti nebo selhání vnitřních procesů, zaměstnanců nebo osob činných pro pojišťovnu nebo zajišťovnu, systémů nebo z vnějších událostí,*
 >
 > *- e) rizikem likvidity riziko neschopnosti pojišťovny nebo zajišťovny zpeněžit své investice a další aktiva určená k úhradě svých dluhů v okamžiku, kdy se stávají splatnými,*
 >
-> *(...).*
+> *- f) rizikem koncentrace všechna vystavení rizikům s možnou ztrátou, která je dostatečně velká, aby ohrozila solventnost nebo finanční situaci pojišťovny nebo zajišťovny,*
+>
+> *- g) technikami snižování rizik všechny techniky, které umožňují pojišťovně nebo zajišťovně přenést část nebo všechna jejich rizika na jinou smluvní stranu,*
+>
+> *- h) mírou rizika matematická funkce, která přiřazuje peněžní částku dané prognóze rozdělení pravděpodobnosti a monotónně roste s úrovní vystavení rizikům, která jsou podkladem dané prognózy rozdělení pravděpodobnosti,*
+>
+> *- i) externí ratingovou agenturou právnická osoba vydávající úvěrové hodnocení na základě povolení uděleného v souladu s přímo použitelným předpisem Evropské unie upravujícím ratingové agentury41) nebo centrální banka vydávající úvěrové hodnocení, na kterou se nevztahuje tento přímo použitelný předpis.*
 
 **Výklad:**
 
@@ -265,9 +413,9 @@ Velmi důležitý je **riziko likvidity** (písm. e) — toto riziko se v SCR ex
 >
 > *(1) Provozovat na území České republiky pojišťovací činnost může pouze tuzemská pojišťovna a pojišťovna z třetího státu, které bylo Českou národní bankou uděleno povolení k provozování této činnosti, nebo pojišťovna z jiného členského státu, a to na základě práva zřizovat pobočky nebo na základě svobody dočasně poskytovat služby.*
 >
-> *(2) Provozovat na území České republiky zajišťovací činnost může pouze tuzemská zajišťovna a, nestanoví-li tento zákon jinak, zajišťovna z třetího státu, které bylo Českou národní bankou uděleno povolení k provozování této činnosti, nebo zajišťovna z jiného členského státu (...).*
+> *(2) Provozovat na území České republiky zajišťovací činnost může pouze tuzemská zajišťovna a, nestanoví-li tento zákon jinak, zajišťovna z třetího státu, které bylo Českou národní bankou uděleno povolení k provozování této činnosti, nebo zajišťovna z jiného členského státu, a to na základě práva zřizovat pobočky nebo na základě svobody dočasně poskytovat služby.*
 >
-> *(3) Provozovat na území České republiky zajišťovací činnost může také tuzemská pojišťovna a, nestanoví-li tento zákon jinak, pojišťovna z třetího státu (...) nebo pojišťovna z jiného členského státu (...).*
+> *(3) Provozovat na území České republiky zajišťovací činnost může také tuzemská pojišťovna a, nestanoví-li tento zákon jinak, pojišťovna z třetího státu, které bylo Českou národní bankou uděleno povolení k provozování této činnosti, nebo pojišťovna z jiného členského státu, a to na základě práva zřizovat pobočky nebo na základě svobody dočasně poskytovat služby.*
 >
 > *(4) Žádost o udělení povolení k činnosti nebo o nabytí účasti upravená tímto zákonem nesmí být Českou národní bankou posuzována s ohledem na ekonomické potřeby trhu. Česká národní banka povolení udělí, jestliže jsou splněny podmínky stanovené tímto zákonem.*
 >
@@ -303,9 +451,9 @@ Ustanovení transponuje čl. 20 Solvency II — **head office requirement**. Poj
 
 > **§ 5**
 >
-> *(1) Tuzemská pojišťovna uvede ve své obchodní firmě slovo „pojišťovna". Tuzemská zajišťovna uvede ve své obchodní firmě slovo „zajišťovna".*
+> *(1) Tuzemská pojišťovna uvede ve své obchodní firmě slovo „pojišťovna“. Tuzemská zajišťovna uvede ve své obchodní firmě slovo „zajišťovna“.*
 >
-> *(2) Slovo „pojišťovna", jeho překlad nebo slova, v jejichž základě se tato slova nebo jejich tvary vyskytují, je oprávněna užívat v obchodní firmě pouze právnická osoba, která je oprávněna provozovat pojišťovací činnost (...). Slovo „zajišťovna" (...) je oprávněna užívat v obchodní firmě pouze právnická osoba, která je oprávněna provozovat zajišťovací činnost (...).*
+> *(2) Slovo „pojišťovna“, jeho překlad nebo slova, v jejichž základě se tato slova nebo jejich tvary vyskytují, je oprávněna užívat v obchodní firmě pouze právnická osoba, která je oprávněna provozovat pojišťovací činnost, s výjimkou pojišťovny, jejíž činnost je upravena jiným právním předpisem a s výjimkou pojišťovacího zprostředkovatele a samostatného likvidátora pojistných událostí. Slovo „zajišťovna“, jeho překlad nebo slova, v jejichž základě se toto slovo nebo jeho tvar vyskytuje, je oprávněna užívat v obchodní firmě pouze právnická osoba, která je oprávněna provozovat zajišťovací činnost, s výjimkou pojišťovacího zprostředkovatele oprávněného provozovat zprostředkování zajištění.*
 
 **Výklad:**
 
@@ -321,19 +469,19 @@ Výjimky v § 5 odst. 2 (závěr): slovo „pojišťovna" v obchodní firmě moh
 >
 > *(1) Pojišťovna nebo zajišťovna je oprávněna provozovat pouze pojišťovací nebo zajišťovací činnost v rozsahu povolení uděleného jí orgánem dohledu. Tuto činnost je pojišťovna nebo zajišťovna povinna provozovat s odbornou péčí a obezřetně.*
 >
-> *(2) Provozování činnosti s odbornou péčí zejména znamená, že pojišťovna nebo zajišťovna jedná kvalifikovaně, čestně a spravedlivě a pojišťovna při provozování pojišťovací činnosti též s přihlédnutím k nejlepšímu zájmu pojistníků, pojištěných a oprávněných osob (...).*
+> *(2) Provozování činnosti s odbornou péčí zejména znamená, že pojišťovna nebo zajišťovna jedná kvalifikovaně, čestně a spravedlivě a pojišťovna při provozování pojišťovací činnosti též s přihlédnutím k nejlepšímu zájmu pojistníků, pojištěných a oprávněných osob; tím nejsou dotčeny povinnosti pojišťovny podle zákona upravujícího distribuci pojištění a zajištění.*
 >
-> *(3) Provozování činnosti obezřetně zejména znamená, že pojišťovna nebo zajišťovna neprovádí tuto činnost způsobem, který poškozuje její majetek či majetek jí svěřený třetími osobami nebo ohrožuje její bezpečnost nebo stabilitu (...) .*
+> *(3) Provozování činnosti obezřetně zejména znamená, že pojišťovna nebo zajišťovna neprovádí tuto činnost způsobem, který poškozuje její majetek či majetek jí svěřený třetími osobami nebo ohrožuje její bezpečnost nebo stabilitu nebo bezpečnost nebo stabilitu osob s ní propojených.*
 >
-> *(4) Za účelem plnění povinností podle odstavců 1 až 3 je tuzemská pojišťovna, pojišťovna z třetího státu, tuzemská zajišťovna a zajišťovna z třetího státu povinna vytvořit a po celou dobu své činnosti udržovat funkční a efektivní řídicí a kontrolní systém (...).*
+> *(4) Za účelem plnění povinností podle odstavců 1 až 3 je tuzemská pojišťovna, pojišťovna z třetího státu, tuzemská zajišťovna a zajišťovna z třetího státu povinna vytvořit a po celou dobu své činnosti udržovat funkční a efektivní řídicí a kontrolní systém, pravidelně z něj vyhodnocovat informace a včas přijímat odpovídající opatření.*
 >
-> *(5) Tuzemská pojišťovna a tuzemská zajišťovna nesmí být neomezeně ručícím společníkem obchodní korporace (...).*
+> *(5) Tuzemská pojišťovna a tuzemská zajišťovna nesmí být neomezeně ručícím společníkem obchodní korporace, včetně korporace se sídlem na území jiného státu, než je Česká republika.*
 >
 > *(6) Tuzemská pojišťovna nebo tuzemská zajišťovna založená jako akciová společnost vydává akcie, s nimiž je spojeno hlasovací právo, pouze v zaknihované podobě.*
 >
 > *(7) Pojišťovna a zajišťovna postupuje ve své činnosti tak, aby nedocházelo ke ztížení nebo znemožnění výkonu dohledu podle tohoto zákona.*
 >
-> *(8) Pojišťovna a zajišťovna při provozování pojišťovací nebo zajišťovací činnosti zpracovává osobní údaje včetně rodných čísel; takové zpracování osobních údajů se považuje za zpracování nezbytné pro dodržení právní povinnosti správce podle zákona upravujícího ochranu osobních údajů.*
+> *(8) Pojišťovna a zajišťovna při provozování pojišťovací nebo zajišťovací činnosti zpracovává osobní údaje včetně rodných čísel; takové zpracování osobních údajů se považuje za zpracování nezbytné pro dodržení právní povinnosti správce podle zákona upravujícího ochranu osobních údajů11).*
 
 **Výklad:**
 
@@ -389,9 +537,9 @@ Odst. 8 řeší vztah k **GDPR** (nařízení (EU) 2016/679): zpracování osobn
 >
 > *(2) Řídicí a kontrolní systém je přiměřený povaze, rozsahu a složitosti činností tuzemské pojišťovny nebo tuzemské zajišťovny a je předmětem pravidelného vnitřního přezkumu.*
 >
-> *(3) Tuzemská pojišťovna a tuzemská zajišťovna musí mít svým statutárním orgánem schválenou písemnou koncepci, pokud jde alespoň o řízení rizik, vnitřní kontrolu, vnitřní audit, případně též, pokud jde o externí zajištění činností (...).*
+> *(3) Tuzemská pojišťovna a tuzemská zajišťovna musí mít svým statutárním orgánem schválenou písemnou koncepci, pokud jde alespoň o řízení rizik, vnitřní kontrolu, vnitřní audit, případně též, pokud jde o externí zajištění činností, a zajistí, aby byla tato koncepce naplňována; jde-li o monistický systém vnitřní struktury pojišťovny nebo zajišťovny, rozumí se pro účely tohoto zákona statutárním orgánem správní rada. Pravidelně, nejméně však jednou ročně, přezkoumává její funkčnost. Její úpravu je povinna provést v souvislosti s jakoukoli významnou změnou ve svém řídicím a kontrolním systému nebo v některé oblasti své činnosti.*
 >
-> *(4) K zajištění kontinuity a řádného a obezřetného výkonu svých činností tuzemská pojišťovna a tuzemská zajišťovna přijme vhodná opatření, včetně vypracování pohotovostních plánů. K tomuto účelu používá vhodné a přiměřené systémy, zdroje a postupy a zavede a řídí sítě a informační systémy. Požadavky na sítě a informační systémy upravuje přímo použitelný předpis Evropské unie upravující digitální provozní odolnost finančního sektoru.*
+> *(4) K zajištění kontinuity a řádného a obezřetného výkonu svých činností tuzemská pojišťovna a tuzemská zajišťovna přijme vhodná opatření, včetně vypracování pohotovostních plánů. K tomuto účelu používá vhodné a přiměřené systémy, zdroje a postupy a zavede a řídí sítě a informační systémy. Požadavky na sítě a informační systémy upravuje přímo použitelný předpis Evropské unie upravující digitální provozní odolnost finančního sektoru45).*
 
 **Výklad:**
 
@@ -471,7 +619,7 @@ Pojišťovna musí každou změnu osoby s klíčovou funkcí oznámit ČNB **bez
 
 > **§ 7b**
 >
-> *(1) Tuzemská pojišťovna a tuzemská zajišťovna musí mít účinný systém řízení rizik zahrnující strategie a postupy hlášení nezbytné pro soustavnou identifikaci, měření, sledování, správu a vnitřní ohlašování rizik, kterým je nebo by mohla být vystavena. Systém řízení rizik musí umožňovat vyhodnocování rizik jednotlivě i v jejich souhrnu, včetně vyhodnocování jejich vzájemných závislostí (...).*
+> *(1) Tuzemská pojišťovna a tuzemská zajišťovna musí mít účinný systém řízení rizik zahrnující strategie a postupy hlášení nezbytné pro soustavnou identifikaci, měření, sledování, správu a vnitřní ohlašování rizik, kterým je nebo by mohla být vystavena. Systém řízení rizik musí umožňovat vyhodnocování rizik jednotlivě i v jejich souhrnu, včetně vyhodnocování jejich vzájemných závislostí. Systém řízení rizik je vhodně začleněn do organizační struktury pojišťovny nebo zajišťovny a osoby uvedené v § 7a odst. 1 jej musí v rozhodovacích procesech náležitě respektovat.*
 >
 > *(2) Systém řízení rizik se vztahuje na rizika zahrnutá do výpočtu solventnostního kapitálového požadavku podle § 74 a na rizika, která nejsou zahrnuta nebo nejsou plně zahrnuta do jeho výpočtu; systém řízení rizik se vztahuje nejméně na*
 >
@@ -487,13 +635,41 @@ Pojišťovna musí každou změnu osoby s klíčovou funkcí oznámit ČNB **bez
 >
 > *- f) zajištění a další techniky snižování rizik.*
 >
-> *(3) Písemná koncepce podle § 7 odst. 3 zahrnuje postupy a techniky řízení rizik podle odstavců 2 a 6 a v případě uplatnění koeficientu volatility také kritéria jejího použití. Součástí této koncepce je plán likvidity zohledňující peněžní toky ve vztahu k aktivům a závazkům, podléhají-li vyrovnávací úpravě podle § 54b nebo koeficientu volatility podle § 54c a 54d (...).*
+> *(3) Písemná koncepce podle § 7 odst. 3 zahrnuje postupy a techniky řízení rizik podle odstavců 2 a 6 a v případě uplatnění koeficientu volatility také kritéria jejího použití. Součástí této koncepce je plán likvidity zohledňující peněžní toky ve vztahu k aktivům a závazkům, podléhají-li vyrovnávací úpravě podle § 54b nebo koeficientu volatility podle § 54c a 54d. V případě investičního rizika, které zahrnuje zejména riziko tržní, úvěrové riziko a riziko likvidity, je tuzemská pojišťovna a tuzemská zajišťovna povinna České národní bance prokázat dodržení postupu podle § 60 a 61.*
 >
 > *(4) Používá-li tuzemská pojišťovna nebo tuzemská zajišťovna při výpočtu technických rezerv a solventnostního kapitálového požadavku hodnocení úvěrového rizika zpracovaného externí ratingovou agenturou, nespoléhá pouze na takové hodnocení a použije, je-li to možné, současně i jiný vhodný způsob tohoto hodnocení.*
 >
-> *(5) Pokud tuzemská pojišťovna nebo tuzemská zajišťovna používá nebo hodlá používat částečný nebo úplný interní model pro výpočet solventnostního kapitálového požadavku podle § 77, vztahuje se řízení rizik také na povinnost [...] navrhnout, zavést, testovat, dokumentovat, analyzovat a vykazovat funkčnost interního modelu.*
+> *(5) Pokud tuzemská pojišťovna nebo tuzemská zajišťovna používá nebo hodlá používat částečný nebo úplný interní model pro výpočet solventnostního kapitálového požadavku podle § 77, vztahuje se řízení rizik také na povinnost*
 >
-> *(6) Řízení aktiv a pasiv podle odstavce 2 písm. b) zahrnuje pravidelné vyhodnocování citlivosti technických rezerv a použitelného kapitálu (...).*
+> *- a) navrhnout a zavést daný model,*
+>
+> *- b) testovat a ověřit platnost modelu,*
+>
+> *- c) vést dokumentaci k modelu a jeho změnám,*
+>
+> *- d) analyzovat funkčnost modelu a vypracovávat o něm souhrnné zprávy a*
+>
+> *- e) informovat statutární nebo kontrolní orgán o funkčnosti interního modelu, o oblastech, ve kterých je nutno zajistit zlepšení, a podávat tomuto orgánu informace o postupu a výsledcích odstraňování zjištěných nedostatků.*
+>
+> *(6) Řízení aktiv a pasiv podle odstavce 2 písm. b) zahrnuje pravidelné vyhodnocování citlivosti technických rezerv a použitelného kapitálu*
+>
+> *- a) vůči předpokladům extrapolace příslušné bezrizikové výnosové křivky a*
+>
+> *- b) v případě použití vyrovnávací úpravy podle § 54b*
+>
+> *- 1. vůči předpokladům, na kterých je založen její výpočet, včetně výpočtu základního rozpětí, a možného vlivu nuceného prodeje aktiv na použitelný kapitál,*
+>
+> *- 2. vůči změnám složení přiřazeného portfolia aktiv a*
+>
+> *- 3. na snížení vyrovnávací úpravy na nulovou hodnotu, nebo*
+>
+> *- c) v případě použití koeficientu volatility podle § 54c také*
+>
+> *- 1. vůči předpokladům pro výpočet koeficientu volatility včetně možného dopadu nuceného prodeje aktiv na použitelný kapitál a*
+>
+> *- 2. na snížení koeficientu volatility na nulovou hodnotu.*
+>
+> *(7) Pravidla a četnost vyhodnocování podle odstavce 6 stanoví prováděcí právní předpis.*
 
 **Výklad:**
 
@@ -549,13 +725,13 @@ Pojišťovna může pro výpočet SCR použít buď **standardní vzorec** (§ 7
 >
 > *- c) rozsah, kterým se rizikový profil pojišťovny nebo zajišťovny odchyluje od předpokladů k solventnostnímu kapitálovému požadavku podle § 73, vypočítanému podle standardního vzorce podle § 76 nebo prostřednictvím částečného nebo úplného interního modelu podle § 77.*
 >
-> *(2) Pro účely odstavce 1 písm. a) tuzemská pojišťovna nebo tuzemská zajišťovna zavede, udržuje a uplatňuje postupy, které jsou přiměřené povaze, rozsahu a složitosti rizik spojených s její činností (...).*
+> *(2) Pro účely odstavce 1 písm. a) tuzemská pojišťovna nebo tuzemská zajišťovna zavede, udržuje a uplatňuje postupy, které jsou přiměřené povaze, rozsahu a složitosti rizik spojených s její činností a které jí umožňují dostatečně spolehlivě zjišťovat a posuzovat rizika, kterým je nebo by mohla být vystavena v krátkodobém a dlouhodobém výhledu. Oprávněnost používaných metod vlastního posouzení rizik a solventnosti musí být prokazatelná.*
 >
-> *(...)*
+> *(3) V případě podle odstavce 1 písm. c), pokud tuzemská pojišťovna nebo tuzemská zajišťovna používá interní model, provede posouzení spolu s opětovnou kalibrací, která přizpůsobí interní hodnoty rizika míře rizika a kalibraci solventnostního kapitálového požadavku.*
 >
 > *(4) Vlastní posuzování rizik a solventnosti tvoří nedílnou součást celkové strategie tuzemské pojišťovny nebo tuzemské zajišťovny, které jej zohledňují ve svých strategických rozhodnutích. Pojišťovna nebo zajišťovna prokazuje České národní bance vhodnost metod použitých k tomuto posuzování.*
 >
-> *(5) Pojišťovna a zajišťovna provádí posouzení rizik a solventnosti pravidelně a neprodleně po jakékoli významné změně ve svém rizikovém profilu a o výsledcích každého posouzení informuje Českou národní banku. Posouzení rizik a solventnosti neslouží k výpočtu kapitálového požadavku.*
+> *(5) Pojišťovna a zajišťovna provádí posouzení rizik a solventnosti pravidelně a neprodleně po jakékoli významné změně ve svém rizikovém profilu a o výsledcích každého posouzení informuje Českou národní banku. Posouzení rizik a solventnosti neslouží k výpočtu kapitálového požadavku. Solventnostní kapitálový požadavek lze upravit pouze v souladu s § 90a, 91c, 95a a 95b.*
 
 **Výklad:**
 
@@ -664,7 +840,7 @@ Statutární orgán (nebo kontrolní orgán) je povinen **přijmout opatření k
 >
 > *- j) posuzování souladu rozdělení výnosů z investování s ujednáním pojistné smlouvy.*
 >
-> *(2) Výkonem činností podle odstavce 1 může pojišťovna nebo zajišťovna pověřit pouze osobu, která prokáže znalosti z oblasti pojistné a finanční matematiky a odborné znalosti a zkušenosti s profesními a dalšími standardy odpovídajícími vykonávané činnosti (...).*
+> *(2) Výkonem činností podle odstavce 1 může pojišťovna nebo zajišťovna pověřit pouze osobu, která prokáže znalosti z oblasti pojistné a finanční matematiky a odborné znalosti a zkušenosti s profesními a dalšími standardy odpovídajícími vykonávané činnosti tak, aby byly vykonávány osobami se znalostmi a zkušenostmi přiměřenými povaze, rozsahu a složitosti rizik spojených s činností pojišťovny nebo zajišťovny.*
 
 **Výklad:**
 
@@ -721,7 +897,7 @@ Actuarial function lze outsourcovat za podmínek § 7g — typické u menších 
 >
 > *- d) narušení kvality a nepřetržitého poskytování služeb pojistníkům.*
 >
-> *(5) Tuzemská pojišťovna a tuzemská zajišťovna informuje předem Českou národní banku o každém svém rozhodnutí externě zajistit rozhodující nebo významnou činnost (...).*
+> *(5) Tuzemská pojišťovna a tuzemská zajišťovna informuje předem Českou národní banku o každém svém rozhodnutí externě zajistit rozhodující nebo významnou činnost. O každém následném závažném vývoji takto zajištěné provozní činnosti informuje Českou národní banku bez zbytečného odkladu.*
 
 **Výklad:**
 
@@ -840,13 +1016,17 @@ Toto je projev širší unijní iniciativy **sustainable finance**, která v pos
 
 > **§ 11**
 >
-> *(1) Dokladem o bezúhonnosti občana České republiky a zahraniční fyzické osoby, která se v posledních 3 letech přede dnem, ke kterému se prokazuje bezúhonnost, zdržovala nepřetržitě po dobu více než 3 měsíce v České republice, je výpis z Rejstříku trestů podle zákona upravujícího Rejstřík trestů (dále jen „výpis z Rejstříku trestů").*
+> *(1) Dokladem o bezúhonnosti občana České republiky a zahraniční fyzické osoby, která se v posledních 3 letech přede dnem, ke kterému se prokazuje bezúhonnost, zdržovala nepřetržitě po dobu více než 3 měsíce v České republice, je výpis z Rejstříku trestů podle zákona upravujícího Rejstřík trestů12) (dále jen „výpis z Rejstříku trestů“).*
 >
-> *(2) Zahraniční fyzická osoba dokládá bezúhonnost odpovídajícími doklady, ne staršími než 3 měsíce, vydanými státem, jehož je fyzická osoba občanem, jakož i státy, ve kterých se v posledních 3 letech přede dnem, ke kterému se prokazuje bezúhonnost, zdržovala nepřetržitě po dobu více než 3 měsíce.*
+> *(2) Zahraniční fyzická osoba dokládá bezúhonnost odpovídajícími doklady, ne staršími než 3 měsíce, vydanými státem, jehož je fyzická osoba občanem, jakož i státy, ve kterých se v posledních 3 letech přede dnem, ke kterému se prokazuje bezúhonnost, zdržovala nepřetržitě po dobu více než 3 měsíce. Občan České republiky, který se v posledních 3 letech přede dnem, ke kterému se prokazuje bezúhonnost, zdržoval nepřetržitě po dobu více než 3 měsíce v zahraničí, dokládá svoji bezúhonnost také odpovídajícími doklady, ne staršími než 3 měsíce, vydanými státem, ve kterém se v uvedené době zdržoval.*
 >
-> *(...)*
+> *(3) Jestliže stát podle odstavce 2 nevydává doklad obdobný výpisu z Rejstříku trestů, považuje se za rovnocenný doklad o bezúhonnosti této fyzické osoby doklad, ne starší než 3 měsíce, vydaný příslušným soudem nebo správním úřadem státu, jehož je fyzická osoba občanem, nebo státu, ve kterém se v posledních 3 letech přede dnem, ke kterému se prokazuje bezúhonnost, osoba zdržovala nepřetržitě po dobu více než 3 měsíce. Nevydává-li ani takový doklad, považuje se za rovnocenný doklad čestné prohlášení, ne starší 3 měsíců, učiněné fyzickou osobou před příslušným soudem nebo správním úřadem anebo před notářem státu, jehož je fyzická osoba občanem, nebo státu, ve kterém se v posledních 3 letech přede dnem, ke kterému se prokazuje bezúhonnost, osoba zdržovala nepřetržitě po dobu více než 3 měsíce.*
 >
 > *(4) Dokladem bezúhonnosti tuzemské právnické osoby a zahraniční právnické osoby je výpis z Rejstříku trestů, jestliže tato osoba v posledních třech letech přede dnem, ke kterému se prokazuje bezúhonnost, působila v České republice tak, že zde měla sídlo anebo alespoň vykonávala svoji činnost nebo měla zde svůj majetek nepřetržitě po dobu více než 3 měsíců.*
+>
+> *(5) Zahraniční právnická osoba dokládá bezúhonnost též doklady obdobnými výpisu z Rejstříku trestů vydanými státem, ve kterém působí, jakož i státy, ve kterých v posledních 3 letech přede dnem, ke kterému se prokazuje bezúhonnost, působila nepřetržitě po dobu více než 3 měsíců. Tuzemská právnická osoba, která v posledních 3 letech přede dnem, ke kterému se prokazuje bezúhonnost, působila nepřetržitě po dobu více než 3 měsíců v zahraničí, dokládá svoji bezúhonnost také doklady obdobnými výpisu z Rejstříku trestů vydanými státem, ve kterém v uvedené době působila.*
+>
+> *(6) Jestliže stát podle odstavce 5 nevydává doklad obdobný výpisu z Rejstříku trestů, považuje se za rovnocenný doklad o bezúhonnosti právnické osoby doklad vydaný příslušným soudem nebo správním úřadem státu, ve kterém právnická osoba působí, nebo státu, ve kterém v posledních 3 letech přede dnem, ke kterému se prokazuje bezúhonnost, osoba působila nepřetržitě po dobu více než 3 měsíců. Nevydává-li soud nebo správní úřad podle věty první ani takový doklad, považuje se za rovnocenný doklad místopřísežné prohlášení, ne starší 3 měsíců, učiněné právnickou osobou před příslušným soudem nebo správním úřadem anebo před notářem státu, ve kterém právnická osoba působí, nebo státu, ve kterém v posledních 3 letech přede dnem, ke kterému se prokazuje bezúhonnost, osoba působila nepřetržitě po dobu více než 3 měsíců.*
 
 **Výklad:**
 
@@ -866,15 +1046,15 @@ Bezúhonnost je **trvalý požadavek** — pojišťovna musí monitorovat, zda o
 
 > **§ 13**
 >
-> *(1) Česká národní banka uděluje povolení k provozování pojišťovací činnosti podle pojistných odvětví životních pojištění, podle pojistných odvětví neživotních pojištění nebo podle skupin neživotních pojištění uvedených příloze č. 1 k tomuto zákonu. (...) Při splnění podmínek podle § 49 může tuzemská pojišťovna provozovat i zajišťovací činnost.*
+> *(1) Česká národní banka uděluje povolení k provozování pojišťovací činnosti podle pojistných odvětví životních pojištění, podle pojistných odvětví neživotních pojištění nebo podle skupin neživotních pojištění uvedených příloze č. 1 k tomuto zákonu. Povolení se vztahuje na provozování pojišťovací činnosti pro všechna rizika spadající do těchto odvětví, pokud není výslovně požadováno povolení k provozování pojišťovací činnosti pro určitá rizika spadající do těchto odvětví. Česká národní banka může požadovaný rozsah činnosti omezit, jestliže není dostatečně prokázána schopnost žadatele finančně nebo provozně zabezpečit provozování činnosti v požadovaném rozsahu. Při splnění podmínek podle § 49 může tuzemská pojišťovna provozovat i zajišťovací činnost.*
 >
 > *(2) Tuzemská pojišťovna je oprávněna provozovat pojišťovací činnost na základě a v rozsahu povolení uděleného Českou národní bankou jako akciová společnost nebo družstvo a je-li její sídlo na území České republiky.*
 >
-> *(3) Povolení udělené Českou národní bankou (...) tuzemské pojišťovně je platné pro všechny členské státy a opravňuje ji za podmínek stanovených tímto zákonem k provozování pojišťovací činnosti nebo zajišťovací činnosti na území jiného členského státu, a to buď prostřednictvím pobočky nebo na základě svobody dočasně poskytovat služby.*
+> *(3) Povolení udělené Českou národní bankou za podmínek stanovených tímto zákonem tuzemské pojišťovně je platné pro všechny členské státy a opravňuje ji za podmínek stanovených tímto zákonem k provozování pojišťovací činnosti nebo zajišťovací činnosti na území jiného členského státu, a to buď prostřednictvím pobočky nebo na základě svobody dočasně poskytovat služby.*
 >
-> *(...)*
+> *(4) Povolení České národní banky je tuzemská pojišťovna povinna si vyžádat také před změnou rozsahu pojišťovací činnosti, pokud podle tohoto zákona taková změna nepodléhá pouze informační povinnosti.*
 >
-> *(5) Česká národní banka uděluje založené tuzemské pojišťovně povolení k provozování pojišťovací činnosti na základě žádosti podané elektronicky (...). O této žádosti rozhodne Česká národní banka nejpozději do 6 měsíců ode dne, kdy jí byla doručena. Oprávnění k provozování pojišťovací činnosti vznikne tuzemské pojišťovně dnem jejího zápisu do obchodního rejstříku (...).*
+> *(5) Česká národní banka uděluje založené tuzemské pojišťovně povolení k provozování pojišťovací činnosti na základě žádosti podané elektronicky, ke které žadatel přiloží doklady prokazující splnění podmínek uvedených v odstavci 6, a to přede dnem jejího zápisu do obchodního rejstříku. O této žádosti rozhodne Česká národní banka nejpozději do 6 měsíců ode dne, kdy jí byla doručena. Oprávnění k provozování pojišťovací činnosti vznikne tuzemské pojišťovně dnem jejího zápisu do obchodního rejstříku. Náležitosti žádosti, včetně příloh prokazujících splnění podmínek podle odstavce 6, její formáty a další technické náležitosti stanoví prováděcí právní předpis.*
 >
 > *(6) Česká národní banka udělí povolení podle odstavce 5, pokud*
 >
@@ -888,7 +1068,7 @@ Bezúhonnost je **trvalý požadavek** — pojišťovna musí monitorovat, zda o
 >
 > *- e) úzké propojení mezi pojišťovnou a dalšími osobami nebrání účinnému výkonu dohledu v pojišťovnictví podle tohoto zákona,*
 >
-> *- f) účinnému výkonu dohledu (...) nebrání právní předpisy třetího státu (...),*
+> *- f) účinnému výkonu dohledu v pojišťovnictví podle tohoto zákona nebrání právní předpisy třetího státu, kterými se řídí jedna nebo více osob, s nimiž má mít pojišťovna úzké propojení, ani obtížná vymahatelnost práva v tomto státě,*
 >
 > *- g) výše základního kapitálu pojišťovny splňuje podmínky podle § 18,*
 >
@@ -900,7 +1080,7 @@ Bezúhonnost je **trvalý požadavek** — pojišťovna musí monitorovat, zda o
 >
 > *- k) žadatel předložil obchodní plán pojišťovny podložený reálnými ekonomickými výpočty,*
 >
-> *- l) žadatel uvedl jméno (...) škodních zástupců jmenovaných v každém členském státě, má-li být pojišťovnou provozováno pojištění podle pojistného odvětví uvedeného v části B bodě 10 písm. a) přílohy č. 1 k tomuto zákonu, a*
+> *- l) žadatel uvedl jméno, popřípadě jména, příjmení, datum narození a adresu bydliště fyzických osob, nebo obchodní firmu nebo název a sídlo právnických osob, navrhovaných do funkce škodních zástupců jmenovaných v každém členském státě, má-li být pojišťovnou provozováno pojištění podle pojistného odvětví uvedeného v části B bodě 10 písm. a) přílohy č. 1 k tomuto zákonu, a*
 >
 > *- m) žadatel uvedl v žádosti pravdivé údaje.*
 >
@@ -981,9 +1161,9 @@ Důvody zákazu souběhu (čl. 73 Solvency II):
 >
 > *- c) je pojištěno stejnou pojistnou smlouvou, kterou je pojištěno pojistné riziko podle písmene a),*
 >
-> *(dále jen „doplňkové pojištění v neživotním pojištění").*
+> *(dále jen „doplňkové pojištění v neživotním pojištění“).*
 >
-> *(2) Pojistné riziko spadající do pojistného odvětví neživotních pojištění uvedeného v části B bodě 10 písm. a), bodech 14, 15 nebo 17 přílohy č. 1 k tomuto zákonu nemůže být doplňkovým pojištěním v neživotním pojištění (...). Doplňkové pojištění v neživotním pojištění nemůže svojí pojistnou částkou nebo limitem pojistného plnění převýšit pojistnou částku nebo limit pojistného plnění stanovený pro pojistné riziko podle odstavce 1 písm. a). Doplňkové pojištění v neživotním pojištění lze sjednat pouze na základě individuální žádosti pojistníka.*
+> *(2) Pojistné riziko spadající do pojistného odvětví neživotních pojištění uvedeného v části B bodě 10 písm. a), bodech 14, 15 nebo 17 přílohy č. 1 k tomuto zákonu nemůže být doplňkovým pojištěním v neživotním pojištění; pojistné riziko spadající do odvětví uvedeného v části B bodě 17 této přílohy může být doplňkovým pojištěním k pojistnému odvětví uvedenému v části B bodě 18 této přílohy, jsou-li splněny podmínky podle odstavce 1 a vztahuje-li se pojistné riziko podle odstavce 1 písm. a) výhradně k asistenčním službám pojištěné osoby. Doplňkové pojištění v neživotním pojištění nemůže svojí pojistnou částkou nebo limitem pojistného plnění převýšit pojistnou částku nebo limit pojistného plnění stanovený pro pojistné riziko podle odstavce 1 písm. a). Doplňkové pojištění v neživotním pojištění lze sjednat pouze na základě individuální žádosti pojistníka.*
 
 **Výklad:**
 
@@ -1020,7 +1200,7 @@ Pojistná částka doplňkového pojištění **nesmí přesáhnout** pojistnou 
 >
 > *V obchodním plánu tuzemské pojišťovny podle § 13 odst. 6 písm. k) žadatel uvede*
 >
-> *- a) jedno nebo více pojistných odvětví (...),*
+> *- a) jedno nebo více pojistných odvětví, popřípadě rizika spadající do těchto odvětví, pokud nemají být pojištěna všechna rizika daného odvětví, nebo skupiny odvětví, pro které má být povolení uděleno,*
 >
 > *- b) metody výpočtu pojistného; u životních pojištění včetně statistických dat, na kterých je tento výpočet založen,*
 >
@@ -1030,9 +1210,19 @@ Pojistná částka doplňkového pojištění **nesmí přesáhnout** pojistnou 
 >
 > *- e) položky primárního kapitálu ve výši spodní hranice minimálního kapitálového požadavku podle § 79a,*
 >
-> *- f) předpokládané náklady na zřízení provozního systému a organizaci obchodní sítě a způsob krytí těchto nákladů (...),*
+> *- f) předpokládané náklady na zřízení provozního systému a organizaci obchodní sítě a způsob krytí těchto nákladů; v případě provozování pojištění podle odvětví neživotních pojištění uvedeného v části B bodě 18 přílohy č. 1 k tomuto zákonu také finanční a technické zdroje určené na zabezpečení asistenčních služeb,*
 >
-> *- g) pro první 3 účetní období [odhady, rozvahy, SCR/MCR projekce, finanční zdroje], a*
+> *- g) pro první 3 účetní období*
+>
+> *  - 1. v případě provozování pojištění podle odvětví neživotních pojištění odhad výnosů a nákladů v členění na náklady spojené se zavedením činnosti a na běžné náklady, zejména režijní náklady a náklady na odměny pojišťovacím zprostředkovatelům, a odhad hrubého pojistného a nákladů na pojistná plnění,*
+>
+> *  - 2. v případě provozování pojištění podle odvětví životních pojištění odhad předpokládaných příjmů a výdajů z provozované pojišťovací činnosti s ohledem na přímé pojištění a postoupené zajištění,*
+>
+> *  - 3. přehled aktiv a pasiv, ve kterém budou oceněna aktiva a pasiva podle § 51,*
+>
+> *  - 4. odhad budoucího solventnostního kapitálového požadavku podle § 73 a budoucího minimálního kapitálového požadavku podle § 79 na předpokládané rozvaze, ve které budou oceněna aktiva a pasiva podle § 51, včetně metody výpočtu použité k odvození těchto odhadů, a*
+>
+> *  - 5. odhad finančních zdrojů určených k vyrovnání závazků z provozované pojišťovací činnosti a k plnění solventnostního kapitálového požadavku a minimálního kapitálového požadavku a*
 >
 > *- h) návrhy nebo základní zásady pro přemístění činnosti, má-li být některá z činností po udělení povolení přemístěna mimo území České republiky.*
 
@@ -1077,7 +1267,9 @@ Obchodní plán slouží jako **základ ex-ante prudenciálního posouzení** ze
 >
 > *si Česká národní banka vyžádá stanovisko orgánu dohledu, který vykonává dohled nad činností takové banky nebo obchodníka s cennými papíry.*
 >
-> *(...)*
+> *(3) Česká národní banka se s orgány dohledu uvedenými v odstavcích 1 a 2 vzájemně informuje zejména o důvěryhodnosti a způsobilosti osob ovládajících posuzovanou právnickou osobu, fyzických osob s klíčovými funkcemi právnické osoby podléhající dohledu a průběžně si s nimi vyměňuje informace důležité při udělování povolení k činnosti a při kontrole provozování povolené činnosti.*
+>
+> *(4) Odstavce 1 až 3 se v případě, kdy se má tuzemská pojišťovna stát ovládanou osobou osoby s bydlištěm nebo sídlem na uzemí třetího státu, použijí obdobně.*
 
 **Výklad:**
 
@@ -1102,7 +1294,7 @@ Cílem konzultace je:
 
 > **§ 17**
 >
-> *(1) Tuzemská pojišťovna, které bylo před 1. dubnem 2000 uděleno povolení k souběžnému provozování pojištění podle pojistných odvětví životních a neživotních pojištění v rozsahu širším, než je uvedeno v § 13 odst. 7, je oprávněna provozovat souběžně tyto činnosti za podmínky jejich odděleného řízení. (...)*
+> *(1) Tuzemská pojišťovna, které bylo před 1. dubnem 2000 uděleno povolení k souběžnému provozování pojištění podle pojistných odvětví životních a neživotních pojištění v rozsahu širším, než je uvedeno v § 13 odst. 7, je oprávněna provozovat souběžně tyto činnosti za podmínky jejich odděleného řízení. Tuzemská pojišťovna může jednu z těchto činností ukončit jen formou odnětí části povolení podle § 118 s převodem odpovídající části pojistného kmene podle § 103 a 104 nebo rozdělením podle § 122; to se použije obdobně pro pojišťovnu, které bylo uděleno povolení podle § 13 odst. 7.*
 >
 > *(2) Činnost pojišťovny podle odstavce 1 nesmí vést k tomu, aby souběžným provozováním pojištění podle pojistných odvětví životních a neživotních pojištění byly poškozovány zájmy pojistníků, pojištěných a jiných osob s právem na plnění z pojištění.*
 >
@@ -1112,13 +1304,13 @@ Cílem konzultace je:
 >
 > *- b) fiktivní minimální kapitálový požadavek pro neživotní pojištění připadající na její činnost v neživotním pojištění nebo zajištění tak, jako kdyby provozovala pouze uvedenou činnost.*
 >
-> *(4) Tuzemská pojišťovna podle odstavce 1 disponuje odpovídající hodnotou položek použitelného primárního kapitálu (...) alespoň ve výši fiktivního minimálního kapitálového požadavku (...). Tyto minimální kapitálové požadavky vztahující se na jednu z činností nesmějí být kryty z druhé činnosti. (...)*
+> *(4) Tuzemská pojišťovna podle odstavce 1 disponuje odpovídající hodnotou položek použitelného primárního kapitálu podle § 63 alespoň ve výši fiktivního minimálního kapitálového požadavku podle odstavce 3. Tyto minimální kapitálové požadavky vztahující se na jednu z činností nesmějí být kryty z druhé činnosti. Položky použitelného primárního kapitálu ve výši každého fiktivního minimálního kapitálového požadavku se určí podle § 71 odst. 4.*
 >
-> *(...)*
+> *(5) Pokud jsou minimální kapitálové požadavky kryty podle odstavce 4, pojišťovna podle odstavce 1 může použít k plnění solventnostního kapitálového požadavku podle § 73 výslovně uvedené položky použitelného kapitálu, které jsou stále k dispozici, pro jednu nebo druhou činnost.*
 >
-> *(6) Tuzemská pojišťovna podle odstavce 1 své účetnictví vede tak, aby zdroje pro životní a pro neživotní pojištění byly oddělené, celkové výnosy, především pojistné, platby zajistitelů, výnosy z investování, a náklady, zejména pojistná plnění, doplnění technických rezerv, zajistné a provozní náklady na pojišťovací činnost, byly rozvrženy podle jejich původu. (...)*
+> *(6) Tuzemská pojišťovna podle odstavce 1 své účetnictví vede tak, aby zdroje pro životní a pro neživotní pojištění byly oddělené, celkové výnosy, především pojistné, platby zajistitelů, výnosy z investování, a náklady, zejména pojistná plnění, doplnění technických rezerv, zajistné a provozní náklady na pojišťovací činnost, byly rozvrženy podle jejich původu. To se použije obdobně pro aktiva určená k vyrovnání závazků ze životního a neživotního pojištění, kde pro jednotlivé nástroje a transakce musí být výnosy a náklady jednoznačně přiřazeny k životnímu nebo neživotnímu pojištění a převody těchto aktiv mezi životní a neživotní částí lze realizovat pouze převodem mezi portfolii za tržní cenu. Položky společné oběma činnostem se účtují v souladu s metodami rozvrhování stanovenými pojišťovnou, která je před jejich použitím zašle České národní bance ke schválení. Tyto metody se považují za schválené, pokud Česká národní banka do jednoho měsíce ode dne jejich doručení nevyjádří svůj nesouhlas; to se použije obdobně i pro jejich změnu.*
 >
-> *(7) Česká národní banka průběžně analyzuje výsledky činnosti pojišťovny podle odstavce 1 v životním i neživotním pojištění s cílem ověřit dodržování požadavků odstavců 1 až 6. (...)*
+> *(7) Česká národní banka průběžně analyzuje výsledky činnosti pojišťovny podle odstavce 1 v životním i neživotním pojištění s cílem ověřit dodržování požadavků odstavců 1 až 6. Pokud výše použitelného primárního kapitálu připadajícího na jednu z činností je menší než minimální kapitálové požadavky podle odstavce 4, uloží Česká národní banka na činnost s nedostatečnou výší použitelného primárního kapitálu opatření k nápravě podle tohoto zákona bez ohledu na výsledky druhé činnosti. Takové opatření může zahrnovat povolení převodu výslovně uvedených položek použitelného primárního kapitálu z jedné činnosti do druhé.*
 
 **Výklad:**
 
@@ -1151,9 +1343,9 @@ V ČR existuje řada historických kompozitních pojišťoven (Česká pojišťo
 >
 > *(1) Výše základního kapitálu tuzemské pojišťovny činí při provozování pojišťovací činnosti podle*
 >
-> *- a) jednoho nebo více pojistných odvětví životních pojištění (...) nejméně 105 000 000 Kč,*
+> *- a) jednoho nebo více pojistných odvětví životních pojištění uvedených v části A přílohy č. 1 k tomuto zákonu nejméně 105 000 000 Kč,*
 >
-> *- b) pojistných odvětví neživotních pojištění (...) :*
+> *- b) pojistných odvětví neživotních pojištění uvedených v části B přílohy č. 1 k tomuto zákonu*
 >
 > *  - 1. pro odvětví uvedená pod body 1, 2, 8, 9 a 18 celkem nejméně 70 000 000 Kč,*
 >
@@ -1163,15 +1355,27 @@ V ČR existuje řada historických kompozitních pojišťoven (Česká pojišťo
 >
 > *  - 4. pro odvětví uvedená pod body 5, 6, 11 a 12 celkem nejméně 200 000 000 Kč.*
 >
-> *(2) Je-li provozována pojišťovací činnost podle 2 nebo více pojistných odvětví neživotních pojištění, pro která jsou (...) stanoveny rozdílné výše základního kapitálu, činí základní kapitál (...) nejméně částku, která je stanovena pro pojistné odvětví, kterému odpovídá nejvyšší částka.*
+> *(2) Je-li provozována pojišťovací činnost podle 2 nebo více pojistných odvětví neživotních pojištění, pro která jsou podle odstavce 1 písm. b) stanoveny rozdílné výše základního kapitálu, činí základní kapitál tuzemské pojišťovny nejméně částku, která je stanovena pro pojistné odvětví, kterému odpovídá nejvyšší částka.*
 >
 > *(3) Je-li souběžně provozována pojišťovací činnost podle pojistných odvětví životních a neživotních pojištění, činí základní kapitál tuzemské pojišťovny nejméně částku, která odpovídá součtu částek základního kapitálu tuzemské pojišťovny stanovených pro provozování pojišťovací činnosti podle pojistných odvětví životních a neživotních pojištění.*
 >
-> *(4) Je-li souběžně provozována pojišťovací činnost a zajišťovací činnost, činí základní kapitál tuzemské pojišťovny nejméně částku [70/200 mil. Kč při omezené zajišťovací činnosti, 500 mil. Kč při samostatné zajišťovací činnosti, 1 mld. Kč při kompozitní zajišťovací činnosti].*
+> *(4) Je-li souběžně provozována pojišťovací činnost a zajišťovací činnost, činí základní kapitál tuzemské pojišťovny nejméně částku*
+>
+> *- a) stanovenou podle odstavců 1 až 3, jestliže*
+>
+> *  - 1. přijaté zajistné je nižší nebo rovno 10 % přijatého pojistného,*
+>
+> *  - 2. přijaté zajistné je nižší než částka odpovídající 1 350 000 000 Kč a*
+>
+> *  - 3. výše technických rezerv vytvořených k jejím závazkům ze zajišťovací činnosti je nižší nebo rovna 10 % jejích celkových technických rezerv,*
+>
+> *- b) 500 000 000 Kč, je-li provozována zajišťovací činnost v životním nebo neživotním zajištění a byla-li překročena alespoň jedna z hodnot podle písmene a),*
+>
+> *- c) 1 000 000 000 Kč, je-li provozována zajišťovací činnost souběžně v životním i neživotním zajištění a byla-li překročena alespoň jedna z hodnot podle písmene a).*
 >
 > *(5) Základní kapitál tuzemské pojišťovny ve výši stanovené tímto zákonem může být tvořen pouze peněžitým vkladem. Základní kapitál musí být splacen ve výši stanovené tímto zákonem před podáním žádosti o udělení povolení k provozování pojišťovací, popřípadě souběžnému provozování pojišťovací a zajišťovací činnosti.*
 >
-> *(6) Rozhodnutí valné hromady akciové společnosti nebo členské schůze družstva o snížení základního kapitálu lze přijmout jen s předchozím souhlasem České národní banky, jinak je neplatné. (...) Pro toto snížení základního kapitálu se nepoužijí ustanovení o ochraně věřitelů při snížení základního kapitálu (...).*
+> *(6) Rozhodnutí valné hromady akciové společnosti nebo členské schůze družstva o snížení základního kapitálu lze přijmout jen s předchozím souhlasem České národní banky, jinak je neplatné. Česká národní banka udělí souhlas se snížením základního kapitálu, jestliže tento kapitál neklesne pod hranici stanovenou v odstavcích 1 až 4 a pojišťovna bude i nadále splňovat podmínky plnění solventnostního kapitálového požadavku podle § 73; v takovém případě se má za to, že tím není ohrožena dobytnost pohledávek věřitele. Pro toto snížení základního kapitálu se nepoužijí ustanovení o ochraně věřitelů při snížení základního kapitálu podle zákona upravujícího právní poměry obchodních společností a družstev.*
 
 **Výklad:**
 
@@ -1240,7 +1444,13 @@ Snížení základního kapitálu pojišťovny **vyžaduje předchozí souhlas �
 >
 > *- e) uvedla v žádosti pravdivé údaje.*
 >
-> *(...)*
+> *(2) Tuzemská pojišťovna je povinna prokázat, že disponuje použitelným kapitálem ve výši solventnostního kapitálového požadavku podle § 73 a minimálního kapitálového požadavku podle § 79 a 79a pro činnost v životním a neživotním pojištění, pokud provozuje*
+>
+> *- a) životní pojištění podle jednoho nebo více pojistných odvětví uvedených v části A přílohy č. 1 k tomuto zákonu a žádá o rozšíření svojí činnosti o pojistná odvětví neživotních pojištění uvedená v bodě 1 nebo 2 části B přílohy č. 1 k tomuto zákonu, nebo*
+>
+> *- b) pouze pojištění podle pojistných odvětví neživotních pojištění uvedených v bodě 1 nebo 2 části B přílohy č. 1 k tomuto zákonu a žádá o rozšíření svojí činnosti o jedno nebo více odvětví životních pojištění uvedených v části A přílohy č. 1 k tomuto zákonu.*
+>
+> *(3) Náležitosti žádosti podle odstavců 1 a 2, včetně příloh prokazujících splnění stanovených podmínek, její formáty a další technické náležitosti stanoví prováděcí právní předpis.*
 
 **Výklad:**
 
@@ -1252,29 +1462,27 @@ Snížení základního kapitálu pojišťovny **vyžaduje předchozí souhlas �
 
 ### §§ 20–22 — Single licence v praxi: pobočky a FoS v jiných členských státech
 
-> **§ 20**
+> *(1) Změna v rozsahu činnosti tuzemské pojišťovny podléhá předchozímu schválení Českou národní bankou na základě žádosti podané elektronicky, o které Česká národní banka rozhodne ve lhůtě a za podmínek podle § 13 odst. 5 a 6; Česká národní banka změnu povolí, pokud pojišťovna*
+> *- a) prokázala, že disponuje použitelným kapitálem ve výši solventnostního kapitálového požadavku podle § 73 a minimálního kapitálového požadavku podle § 79 a 79a,*
+> *- b) předložila upravený obchodní plán podle § 15, ve kterém promítne požadované změny,*
+> *- c) ustanovila škodní zástupce podle § 13 odst. 6 písm. l), má-li být provozováno pojištění podle pojistného odvětví uvedeného v části B bodě 10 písm. a) přílohy č. 1 k tomuto zákonu,*
+> *- d) předložila upravenou koncepci řídicího a kontrolního systému podle § 7 s promítnutím požadované změny a*
+> *- e) uvedla v žádosti pravdivé údaje.*
 >
-> *(1) Tuzemská pojišťovna, která hodlá zřídit svoji pobočku na území jiného členského státu, je povinna před zahájením této své činnosti informovat Českou národní banku o*
+> *(2) Tuzemská pojišťovna je povinna prokázat, že disponuje použitelným kapitálem ve výši solventnostního kapitálového požadavku podle § 73 a minimálního kapitálového požadavku podle § 79 a 79a pro činnost v životním a neživotním pojištění, pokud provozuje*
+> *- a) životní pojištění podle jednoho nebo více pojistných odvětví uvedených v části A přílohy č. 1 k tomuto zákonu a žádá o rozšíření svojí činnosti o pojistná odvětví neživotních pojištění uvedená v bodě 1 nebo 2 části B přílohy č. 1 k tomuto zákonu, nebo*
+> *- b) pouze pojištění podle pojistných odvětví neživotních pojištění uvedených v bodě 1 nebo 2 části B přílohy č. 1 k tomuto zákonu a žádá o rozšíření svojí činnosti o jedno nebo více odvětví životních pojištění uvedených v části A přílohy č. 1 k tomuto zákonu.*
 >
-> *- a) členském státu, na jehož území zamýšlí zřídit pobočku,*
+> *(1) Změna v rozsahu činnosti tuzemské pojišťovny podléhá předchozímu schválení Českou národní bankou na základě žádosti podané elektronicky, o které Česká národní banka rozhodne ve lhůtě a za podmínek podle § 13 odst. 5 a 6; Česká národní banka změnu povolí, pokud pojišťovna*
+> *- a) prokázala, že disponuje použitelným kapitálem ve výši solventnostního kapitálového požadavku podle § 73 a minimálního kapitálového požadavku podle § 79 a 79a,*
+> *- b) předložila upravený obchodní plán podle § 15, ve kterém promítne požadované změny,*
+> *- c) ustanovila škodní zástupce podle § 13 odst. 6 písm. l), má-li být provozováno pojištění podle pojistného odvětví uvedeného v části B bodě 10 písm. a) přílohy č. 1 k tomuto zákonu,*
+> *- d) předložila upravenou koncepci řídicího a kontrolního systému podle § 7 s promítnutím požadované změny a*
+> *- e) uvedla v žádosti pravdivé údaje.*
 >
-> *- b) obchodním plánu pobočky (...),*
->
-> *- c) adrese pobočky na území jiného členského státu,*
->
-> *- d) jménu (...) osoby navrhované do funkce vedoucího pobočky (...),*
->
-> *- e) způsobu zabezpečení vyloučení střetu zájmů v případě provozování pojištění právní ochrany (...).*
->
-> *(2) Česká národní banka informace uvedené v odstavci 1 posoudí (...). Do 3 měsíců ode dne obdržení všech informací (...) Česká národní banka sdělí písemně orgánu dohledu jiného členského státu, kde se bude nacházet pobočka, informace o rozsahu pojišťovací činnosti (...). Současně potvrdí, že tato pojišťovna splňuje solventnostní a minimální kapitálový požadavek (...).*
->
-> *(...)*
-
-> **§ 22**
->
-> *(1) Má-li být činnost tuzemské pojišťovny rozšířena mimo území České republiky na území jednoho nebo více jiných členských států na základě svobody dočasně poskytovat služby, je tato pojišťovna povinna informovat Českou národní banku o tomto záměru a sdělit jí rozsah pojišťovací činnosti (...).*
->
-> *(2) Česká národní banka ve lhůtě do 1 měsíce (...) orgánu dohledu v jiném členském státě (...) potvrdí, že pojišťovna (...) splňuje solventností a minimální kapitálový požadavek (...).*
+> *(2) Tuzemská pojišťovna je povinna prokázat, že disponuje použitelným kapitálem ve výši solventnostního kapitálového požadavku podle § 73 a minimálního kapitálového požadavku podle § 79 a 79a pro činnost v životním a neživotním pojištění, pokud provozuje*
+> *- a) životní pojištění podle jednoho nebo více pojistných odvětví uvedených v části A přílohy č. 1 k tomuto zákonu a žádá o rozšíření svojí činnosti o pojistná odvětví neživotních pojištění uvedená v bodě 1 nebo 2 části B přílohy č. 1 k tomuto zákonu, nebo*
+> *- b) pouze pojištění podle pojistných odvětví neživotních pojištění uvedených v bodě 1 nebo 2 části B přílohy č. 1 k tomuto zákonu a žádá o rozšíření svojí činnosti o jedno nebo více odvětví životních pojištění uvedených v části A přílohy č. 1 k tomuto zákonu.*
 
 **Výklad:**
 
@@ -1304,19 +1512,25 @@ Proti rozhodnutí ČNB lze podat **rozklad** — ovšem **bez odkladného účin
 >
 > *(1) Tuzemská pojišťovna předloží České národní bance bez zbytečného odkladu*
 >
-> *- a) seznam osob, jejichž kvalifikovaná účast v této pojišťovně překročí nebo klesne pod 10 %, přehled změn v účastech (...) a nejpozději do 31. prosince kalendářního roku zprávu o osobách s těmito účastmi včetně její výše,*
+> *- a) seznam osob, jejichž kvalifikovaná účast v této pojišťovně překročí nebo klesne pod 10 %, přehled změn v účastech v této pojišťovně uvedených v § 24 odst. 1 a v § 27 odst. 1 a nejpozději do 31. prosince kalendářního roku zprávu o osobách s těmito účastmi včetně její výše,*
 >
-> *- b) informaci o změnách v údajích, které byly obsahem žádosti o udělení povolení a jejích příloh (...),*
+> *- b) informaci o změnách v údajích, které byly obsahem žádosti o udělení povolení a jejích příloh s výjimkou informací, které může Česká národní banka získat podle zákona upravujícího základní registry; změna stanov se předkládá v úplném znění s vyznačením provedených změn,*
 >
-> *- c) doklad o tom, že se tuzemská pojišťovna stala členem národní kanceláře pojistitelů a garančního fondu jiného členského státu (...),*
+> *- c) doklad o tom, že se tuzemská pojišťovna stala členem národní kanceláře pojistitelů a garančního fondu jiného členského státu, ve kterém má umístěnu pobočku, pokud má být v tomto jiném členském státě provozováno pojištění podle pojistného odvětví uvedeného v části B bodě 10 písm. a) přílohy č. 1 k tomuto zákonu,*
 >
-> *- d) informaci o změně ve své činnosti, jiné než podle § 19, a změně ve svém právním postavení a o dalších změnách, které brání nebo mohou bránit řádnému a obezřetnému provozování činnosti (...),*
+> *- d) informaci o změně ve své činnosti, jiné než podle § 19, a změně ve svém právním postavení a o dalších změnách, které brání nebo mohou bránit řádnému a obezřetnému provozování činnosti tuzemské pojišťovny nebo zajišťovny nebo výkonu dohledu v pojišťovnictví podle tohoto zákona,*
 >
 > *- e) informaci o změnách v údajích uvedených v § 20 odst. 1 písm. b), c) a d), § 21 odst. 1 písm. b), c) a d) a v § 22 odst. 1,*
 >
-> *- f) informaci o převzetí pojistného kmene (...),*
+> *- f) informaci o převzetí pojistného kmene od pojišťovny z jiného členského státu nebo třetího státu, anebo o převzetí kmene zajišťovacích smluv od pojišťovny nebo zajišťovny z jiného členského státu nebo třetího státu, a*
 >
 > *- g) informace související s její činností podle tohoto zákona vyžádané Českou národní bankou.*
+>
+> *(2) Česká národní banka po obdržení informací podle odstavce 1 písm. e) postupuje podle § 20 odst. 2 a 3 nebo podle § 21 odst. 2 a 3. Tuzemská pojišťovna oznámí změnu v údajích podle § 20 odst. 1 písm. b), c) a d) také orgánu dohledu jiného členského státu pobočky, a to nejpozději 30 dnů přede dnem, ke kterému má být změna uskutečněna.*
+>
+> *(3) Jestliže některá ze změn uvedených v odstavci 1 nebyla provedena v souladu s podmínkami stanovenými tímto zákonem, Česká národní banka uloží tuzemské pojišťovně odstranit bez zbytečného odkladu zjištěné nedostatky. Podání rozkladu proti tomuto rozhodnutí nemá odkladný účinek.*
+>
+> *Změny v účastech*
 
 **Výklad:**
 
@@ -1334,39 +1548,45 @@ Proti rozhodnutí ČNB lze podat **rozklad** — ovšem **bez odkladného účin
 
 ### §§ 24–27 — Změny v kvalifikované účasti
 
-> **§ 24**
+> *(1) Tuzemská pojišťovna předloží České národní bance bez zbytečného odkladu*
+> *- a) seznam osob, jejichž kvalifikovaná účast v této pojišťovně překročí nebo klesne pod 10 %, přehled změn v účastech v této pojišťovně uvedených v § 24 odst. 1 a v § 27 odst. 1 a nejpozději do 31. prosince kalendářního roku zprávu o osobách s těmito účastmi včetně její výše,*
+> *- b) informaci o změnách v údajích, které byly obsahem žádosti o udělení povolení a jejích příloh s výjimkou informací, které může Česká národní banka získat podle zákona upravujícího základní registry; změna stanov se předkládá v úplném znění s vyznačením provedených změn,*
+> *- c) doklad o tom, že se tuzemská pojišťovna stala členem národní kanceláře pojistitelů a garančního fondu jiného členského státu, ve kterém má umístěnu pobočku, pokud má být v tomto jiném členském státě provozováno pojištění podle pojistného odvětví uvedeného v části B bodě 10 písm. a) přílohy č. 1 k tomuto zákonu,*
+> *- d) informaci o změně ve své činnosti, jiné než podle § 19, a změně ve svém právním postavení a o dalších změnách, které brání nebo mohou bránit řádnému a obezřetnému provozování činnosti tuzemské pojišťovny nebo zajišťovny nebo výkonu dohledu v pojišťovnictví podle tohoto zákona,*
+> *- e) informaci o změnách v údajích uvedených v § 20 odst. 1 písm. b), c) a d), § 21 odst. 1 písm. b), c) a d) a v § 22 odst. 1,*
+> *- f) informaci o převzetí pojistného kmene od pojišťovny z jiného členského státu nebo třetího státu, anebo o převzetí kmene zajišťovacích smluv od pojišťovny nebo zajišťovny z jiného členského státu nebo třetího státu, a*
+> *- g) informace související s její činností podle tohoto zákona vyžádané Českou národní bankou.*
 >
-> *(1) Osoba nebo osoby jednající ve shodě před nabytím kvalifikované účasti v tuzemské pojišťovně nebo před jejím zvýšením tak, že její nebo jejich podíl na základním kapitálu nebo podíl na hlasovacích právech dosáhne nebo překročí 20 %, 30 % nebo 50 %, nebo tak, že se tuzemská pojišťovna stane jejich ovládanou osobou, jsou povinny Českou národní banku písemně požádat o předchozí souhlas s nabytím nebo zvýšením této účasti.*
+> *(1) Tuzemská pojišťovna předloží České národní bance bez zbytečného odkladu*
+> *- a) seznam osob, jejichž kvalifikovaná účast v této pojišťovně překročí nebo klesne pod 10 %, přehled změn v účastech v této pojišťovně uvedených v § 24 odst. 1 a v § 27 odst. 1 a nejpozději do 31. prosince kalendářního roku zprávu o osobách s těmito účastmi včetně její výše,*
+> *- b) informaci o změnách v údajích, které byly obsahem žádosti o udělení povolení a jejích příloh s výjimkou informací, které může Česká národní banka získat podle zákona upravujícího základní registry; změna stanov se předkládá v úplném znění s vyznačením provedených změn,*
+> *- c) doklad o tom, že se tuzemská pojišťovna stala členem národní kanceláře pojistitelů a garančního fondu jiného členského státu, ve kterém má umístěnu pobočku, pokud má být v tomto jiném členském státě provozováno pojištění podle pojistného odvětví uvedeného v části B bodě 10 písm. a) přílohy č. 1 k tomuto zákonu,*
+> *- d) informaci o změně ve své činnosti, jiné než podle § 19, a změně ve svém právním postavení a o dalších změnách, které brání nebo mohou bránit řádnému a obezřetnému provozování činnosti tuzemské pojišťovny nebo zajišťovny nebo výkonu dohledu v pojišťovnictví podle tohoto zákona,*
+> *- e) informaci o změnách v údajích uvedených v § 20 odst. 1 písm. b), c) a d), § 21 odst. 1 písm. b), c) a d) a v § 22 odst. 1,*
+> *- f) informaci o převzetí pojistného kmene od pojišťovny z jiného členského státu nebo třetího státu, anebo o převzetí kmene zajišťovacích smluv od pojišťovny nebo zajišťovny z jiného členského státu nebo třetího státu, a*
+> *- g) informace související s její činností podle tohoto zákona vyžádané Českou národní bankou.*
 >
-> *(...)*
-
-> **§ 25**
+> *(2) Česká národní banka po obdržení informací podle odstavce 1 písm. e) postupuje podle § 20 odst. 2 a 3 nebo podle § 21 odst. 2 a 3. Tuzemská pojišťovna oznámí změnu v údajích podle § 20 odst. 1 písm. b), c) a d) také orgánu dohledu jiného členského státu pobočky, a to nejpozději 30 dnů přede dnem, ke kterému má být změna uskutečněna.*
 >
-> *(1) Česká národní banka posuzuje žádost podle § 24 odst. 1 s ohledem na možný vliv žadatele na tuzemskou pojišťovnu a schválí ji, pokud*
+> *(1) Tuzemská pojišťovna předloží České národní bance bez zbytečného odkladu*
+> *- a) seznam osob, jejichž kvalifikovaná účast v této pojišťovně překročí nebo klesne pod 10 %, přehled změn v účastech v této pojišťovně uvedených v § 24 odst. 1 a v § 27 odst. 1 a nejpozději do 31. prosince kalendářního roku zprávu o osobách s těmito účastmi včetně její výše,*
+> *- b) informaci o změnách v údajích, které byly obsahem žádosti o udělení povolení a jejích příloh s výjimkou informací, které může Česká národní banka získat podle zákona upravujícího základní registry; změna stanov se předkládá v úplném znění s vyznačením provedených změn,*
+> *- c) doklad o tom, že se tuzemská pojišťovna stala členem národní kanceláře pojistitelů a garančního fondu jiného členského státu, ve kterém má umístěnu pobočku, pokud má být v tomto jiném členském státě provozováno pojištění podle pojistného odvětví uvedeného v části B bodě 10 písm. a) přílohy č. 1 k tomuto zákonu,*
+> *- d) informaci o změně ve své činnosti, jiné než podle § 19, a změně ve svém právním postavení a o dalších změnách, které brání nebo mohou bránit řádnému a obezřetnému provozování činnosti tuzemské pojišťovny nebo zajišťovny nebo výkonu dohledu v pojišťovnictví podle tohoto zákona,*
+> *- e) informaci o změnách v údajích uvedených v § 20 odst. 1 písm. b), c) a d), § 21 odst. 1 písm. b), c) a d) a v § 22 odst. 1,*
+> *- f) informaci o převzetí pojistného kmene od pojišťovny z jiného členského státu nebo třetího státu, anebo o převzetí kmene zajišťovacích smluv od pojišťovny nebo zajišťovny z jiného členského státu nebo třetího státu, a*
+> *- g) informace související s její činností podle tohoto zákona vyžádané Českou národní bankou.*
 >
-> *- a) osoba nebo osoby, které žádají o souhlas s nabytím účasti, splňují podmínky důvěryhodnosti,*
+> *(2) Česká národní banka po obdržení informací podle odstavce 1 písm. e) postupuje podle § 20 odst. 2 a 3 nebo podle § 21 odst. 2 a 3. Tuzemská pojišťovna oznámí změnu v údajích podle § 20 odst. 1 písm. b), c) a d) také orgánu dohledu jiného členského státu pobočky, a to nejpozději 30 dnů přede dnem, ke kterému má být změna uskutečněna.*
 >
-> *- b) osoba, která má působit jako osoba podle § 7a odst. 1, splňuje podmínku způsobilosti a důvěryhodnosti,*
->
-> *- c) pojišťovna bude nadále schopna plnit obezřetnostní požadavky podle tohoto zákona nebo podle zákona upravujícího doplňkový dohled nad osobami ve finančních konglomerátech,*
->
-> *- d) struktura skupiny, jejíž součástí se má tuzemská pojišťovna stát, umožňuje výkon účinného dohledu (...),*
->
-> *- e) je splněna podmínka finančního zdraví žadatele (...) a*
->
-> *- f) ve spojení s navrhovaným nabytím neexistuje důvodné podezření, že dochází nebo by mohlo dojít k legalizaci výnosů z trestné činnosti nebo k financování terorismu nebo k pokusům o ně (...).*
->
-> *(2) O žádosti podle § 24 odst. 1 Česká národní banka rozhodne ve lhůtě do 60 pracovních dnů ode dne odeslání písemného potvrzení o jejím obdržení. (...)*
-
-> **§ 26**
->
-> *(1) Osoba nebo osoby jednající ve shodě, které nabyly kvalifikovanou účast nebo zvýšily svoji účast způsobem uvedeným v § 24 odst. 1 bez souhlasu České národní banky, nemohou vykonávat hlasovací práva spojená s takto nabytou účastí, a to do doby udělení tohoto souhlasu.*
->
-> *(2) Česká národní banka podá návrh na vyslovení neplatnosti usnesení valné hromady tuzemské pojišťovny, jestliže je v rozporu se zákonem (...).*
-
-> **§ 27**
->
-> *(1) Osoba nebo osoby jednající ve shodě, které hodlají pozbýt svou kvalifikovanou účast v tuzemské pojišťovně nebo snížit svoji kvalifikovanou účast tak, že klesne pod 20 %, 30 % nebo 50 %, nebo tak, že tuzemská pojišťovna přestane být jejich ovládanou osobou, jsou povinny tuto skutečnost písemně oznámit České národní bance (...).*
+> *(1) Tuzemská pojišťovna předloží České národní bance bez zbytečného odkladu*
+> *- a) seznam osob, jejichž kvalifikovaná účast v této pojišťovně překročí nebo klesne pod 10 %, přehled změn v účastech v této pojišťovně uvedených v § 24 odst. 1 a v § 27 odst. 1 a nejpozději do 31. prosince kalendářního roku zprávu o osobách s těmito účastmi včetně její výše,*
+> *- b) informaci o změnách v údajích, které byly obsahem žádosti o udělení povolení a jejích příloh s výjimkou informací, které může Česká národní banka získat podle zákona upravujícího základní registry; změna stanov se předkládá v úplném znění s vyznačením provedených změn,*
+> *- c) doklad o tom, že se tuzemská pojišťovna stala členem národní kanceláře pojistitelů a garančního fondu jiného členského státu, ve kterém má umístěnu pobočku, pokud má být v tomto jiném členském státě provozováno pojištění podle pojistného odvětví uvedeného v části B bodě 10 písm. a) přílohy č. 1 k tomuto zákonu,*
+> *- d) informaci o změně ve své činnosti, jiné než podle § 19, a změně ve svém právním postavení a o dalších změnách, které brání nebo mohou bránit řádnému a obezřetnému provozování činnosti tuzemské pojišťovny nebo zajišťovny nebo výkonu dohledu v pojišťovnictví podle tohoto zákona,*
+> *- e) informaci o změnách v údajích uvedených v § 20 odst. 1 písm. b), c) a d), § 21 odst. 1 písm. b), c) a d) a v § 22 odst. 1,*
+> *- f) informaci o převzetí pojistného kmene od pojišťovny z jiného členského státu nebo třetího státu, anebo o převzetí kmene zajišťovacích smluv od pojišťovny nebo zajišťovny z jiného členského státu nebo třetího státu, a*
+> *- g) informace související s její činností podle tohoto zákona vyžádané Českou národní bankou.*
 
 **Výklad:**
 
@@ -1419,29 +1639,34 @@ Symetrické pravidlo — i **snížení kvalifikované účasti** pod prahy 20 %
 
 ### §§ 28–31a — Single licence příchozí strany
 
-> **§ 28**
+> *(1) Tuzemská pojišťovna předloží České národní bance bez zbytečného odkladu*
+> *- a) seznam osob, jejichž kvalifikovaná účast v této pojišťovně překročí nebo klesne pod 10 %, přehled změn v účastech v této pojišťovně uvedených v § 24 odst. 1 a v § 27 odst. 1 a nejpozději do 31. prosince kalendářního roku zprávu o osobách s těmito účastmi včetně její výše,*
+> *- b) informaci o změnách v údajích, které byly obsahem žádosti o udělení povolení a jejích příloh s výjimkou informací, které může Česká národní banka získat podle zákona upravujícího základní registry; změna stanov se předkládá v úplném znění s vyznačením provedených změn,*
+> *- c) doklad o tom, že se tuzemská pojišťovna stala členem národní kanceláře pojistitelů a garančního fondu jiného členského státu, ve kterém má umístěnu pobočku, pokud má být v tomto jiném členském státě provozováno pojištění podle pojistného odvětví uvedeného v části B bodě 10 písm. a) přílohy č. 1 k tomuto zákonu,*
+> *- d) informaci o změně ve své činnosti, jiné než podle § 19, a změně ve svém právním postavení a o dalších změnách, které brání nebo mohou bránit řádnému a obezřetnému provozování činnosti tuzemské pojišťovny nebo zajišťovny nebo výkonu dohledu v pojišťovnictví podle tohoto zákona,*
+> *- e) informaci o změnách v údajích uvedených v § 20 odst. 1 písm. b), c) a d), § 21 odst. 1 písm. b), c) a d) a v § 22 odst. 1,*
+> *- f) informaci o převzetí pojistného kmene od pojišťovny z jiného členského státu nebo třetího státu, anebo o převzetí kmene zajišťovacích smluv od pojišťovny nebo zajišťovny z jiného členského státu nebo třetího státu, a*
+> *- g) informace související s její činností podle tohoto zákona vyžádané Českou národní bankou.*
 >
-> *(1) Pojišťovna z jiného členského státu je oprávněna provozovat na území České republiky pojišťovací činnost na základě práva zřizovat své pobočky nebo na základě svobody dočasně poskytovat služby, a to v rozsahu, v jakém jí bylo uděleno povolení k provozování pojišťovací činnosti v zemi jejího sídla a po splnění informační povinnosti podle tohoto zákona.*
-
-> **§ 29**
+> *(1) Tuzemská pojišťovna předloží České národní bance bez zbytečného odkladu*
+> *- a) seznam osob, jejichž kvalifikovaná účast v této pojišťovně překročí nebo klesne pod 10 %, přehled změn v účastech v této pojišťovně uvedených v § 24 odst. 1 a v § 27 odst. 1 a nejpozději do 31. prosince kalendářního roku zprávu o osobách s těmito účastmi včetně její výše,*
+> *- b) informaci o změnách v údajích, které byly obsahem žádosti o udělení povolení a jejích příloh s výjimkou informací, které může Česká národní banka získat podle zákona upravujícího základní registry; změna stanov se předkládá v úplném znění s vyznačením provedených změn,*
+> *- c) doklad o tom, že se tuzemská pojišťovna stala členem národní kanceláře pojistitelů a garančního fondu jiného členského státu, ve kterém má umístěnu pobočku, pokud má být v tomto jiném členském státě provozováno pojištění podle pojistného odvětví uvedeného v části B bodě 10 písm. a) přílohy č. 1 k tomuto zákonu,*
+> *- d) informaci o změně ve své činnosti, jiné než podle § 19, a změně ve svém právním postavení a o dalších změnách, které brání nebo mohou bránit řádnému a obezřetnému provozování činnosti tuzemské pojišťovny nebo zajišťovny nebo výkonu dohledu v pojišťovnictví podle tohoto zákona,*
+> *- e) informaci o změnách v údajích uvedených v § 20 odst. 1 písm. b), c) a d), § 21 odst. 1 písm. b), c) a d) a v § 22 odst. 1,*
+> *- f) informaci o převzetí pojistného kmene od pojišťovny z jiného členského státu nebo třetího státu, anebo o převzetí kmene zajišťovacích smluv od pojišťovny nebo zajišťovny z jiného členského státu nebo třetího státu, a*
+> *- g) informace související s její činností podle tohoto zákona vyžádané Českou národní bankou.*
 >
-> *(1) Před zřízením pobočky pojišťovny z jiného členského státu na území České republiky musí být Česká národní banka v souladu s právem Evropské unie informována orgánem dohledu domovského členského státu o*
+> *(1) Tuzemská pojišťovna předloží České národní bance bez zbytečného odkladu*
+> *- a) seznam osob, jejichž kvalifikovaná účast v této pojišťovně překročí nebo klesne pod 10 %, přehled změn v účastech v této pojišťovně uvedených v § 24 odst. 1 a v § 27 odst. 1 a nejpozději do 31. prosince kalendářního roku zprávu o osobách s těmito účastmi včetně její výše,*
+> *- b) informaci o změnách v údajích, které byly obsahem žádosti o udělení povolení a jejích příloh s výjimkou informací, které může Česká národní banka získat podle zákona upravujícího základní registry; změna stanov se předkládá v úplném znění s vyznačením provedených změn,*
+> *- c) doklad o tom, že se tuzemská pojišťovna stala členem národní kanceláře pojistitelů a garančního fondu jiného členského státu, ve kterém má umístěnu pobočku, pokud má být v tomto jiném členském státě provozováno pojištění podle pojistného odvětví uvedeného v části B bodě 10 písm. a) přílohy č. 1 k tomuto zákonu,*
+> *- d) informaci o změně ve své činnosti, jiné než podle § 19, a změně ve svém právním postavení a o dalších změnách, které brání nebo mohou bránit řádnému a obezřetnému provozování činnosti tuzemské pojišťovny nebo zajišťovny nebo výkonu dohledu v pojišťovnictví podle tohoto zákona,*
+> *- e) informaci o změnách v údajích uvedených v § 20 odst. 1 písm. b), c) a d), § 21 odst. 1 písm. b), c) a d) a v § 22 odst. 1,*
+> *- f) informaci o převzetí pojistného kmene od pojišťovny z jiného členského státu nebo třetího státu, anebo o převzetí kmene zajišťovacích smluv od pojišťovny nebo zajišťovny z jiného členského státu nebo třetího státu, a*
+> *- g) informace související s její činností podle tohoto zákona vyžádané Českou národní bankou.*
 >
-> *- a) obchodním plánu, rozsahu pojišťovací činnosti (...),*
->
-> *- b) adrese pobočky na území České republiky,*
->
-> *- c) jménu (...) osoby jmenované do funkce vedoucího pobočky (...) a*
->
-> *- d) tom, že tato pojišťovna splňuje solventností a minimální kapitálový požadavek.*
->
-> *(...)*
-
-> **§ 31a**
->
-> *(1) Společenství upisovatelů Lloyd's se pro účely tohoto zákona považuje za pojišťovnu a zajišťovnu z jiného členského státu.*
->
-> *(2) Osoba, která uzavřela pojistnou smlouvu se společenstvím upisovatelů Lloyd's, má v případě sporu vyplývajícího z právních poměrů v souvislosti s uzavřeným pojištěním stejné postavení jako osoba, která uzavřela takovou smlouvu s pojišťovnou obvyklého typu.*
+> *(2) Česká národní banka po obdržení informací podle odstavce 1 písm. e) postupuje podle § 20 odst. 2 a 3 nebo podle § 21 odst. 2 a 3. Tuzemská pojišťovna oznámí změnu v údajích podle § 20 odst. 1 písm. b), c) a d) také orgánu dohledu jiného členského státu pobočky, a to nejpozději 30 dnů přede dnem, ke kterému má být změna uskutečněna.*
 
 **Výklad:**
 
@@ -1479,31 +1704,39 @@ Pro pojistníky je důležité: vůči Lloyd's mají **stejné postavení jako v
 
 > **§ 32**
 >
-> *(1) Pojišťovna z třetího státu je oprávněna na území České republiky provozovat pojišťovací činnost pouze prostřednictvím pobočky jako svého odštěpného závodu zřízeného na území České republiky, a to na základě povolení uděleného Českou národní bankou. (...)*
+> *(1) Pojišťovna z třetího státu je oprávněna na území České republiky provozovat pojišťovací činnost pouze prostřednictvím pobočky jako svého odštěpného závodu zřízeného na území České republiky, a to na základě povolení uděleného Českou národní bankou. Tím není dotčena povinnost zápisu do obchodního rejstříku. Povolení České národní banky je pojišťovna z třetího státu povinna si vyžádat také před změnou rozsahu pojišťovací činnosti, pokud podle tohoto zákona taková změna nepodléhá pouze informační povinnosti. Při splnění podmínek podle § 49 odst. 3 může pojišťovna z třetího státu provozovat na území České republiky i zajišťovací činnost.*
+>
+> *(2) Pokud se jedná o pobočku pojišťovny se sídlem ve Švýcarské konfederaci, která hodlá na území České republiky provozovat pojišťovací činnost podle jednoho nebo více pojistných odvětví neživotního pojištění, řídí se Česká národní banka a tato pobočka pojišťovny tímto zákonem, pokud Dohoda mezi Evropským hospodářským společenstvím a Švýcarskou konfederací o přímém pojištění jiném než životním nebo jiná mezinárodní smlouva, která je součástí právního řádu, nestanoví jinak15).*
+>
+> *(3) Povolení k provozování pojišťovací činnosti uděluje Česká národní banka pojišťovně z třetího státu podle pojistných odvětví životních pojištění, podle pojistných odvětví neživotních pojištění nebo podle skupin neživotních pojištění uvedených v části C přílohy č. 1 k tomuto zákonu. Povolení se vztahuje na provozování pojišťovací činnosti pro všechna rizika spadající do těchto odvětví, pokud není výslovně požadováno povolení k provozování pojišťovací činnosti pro určitá rizika spadající do těchto odvětví. Česká národní banka může provozování požadovaného rozsahu činnosti omezit, jestliže shledá, že pojišťovna z třetího státu není schopna bezpečně provozovat činnosti v rozsahu uvedeném v žádosti.*
+>
+> *(4) Povolení uvedené v odstavci 1 uděluje Česká národní banka na základě žádosti pojišťovny z třetího státu podané elektronicky, ke které žadatel přiloží doklady prokazující splnění podmínek uvedených v odstavci 6. O této žádosti rozhodne Česká národní banka nejpozději do 6 měsíců ode dne, kdy jí byla doručena. Náležitosti žádosti, včetně příloh prokazujících splnění podmínek podle odstavce 6, její formáty a další technické náležitosti stanoví prováděcí právní předpis.*
+>
+> *(5) Při rozhodování o udělení povolení k provozování pojišťovací činnosti pojišťovně z třetího státu může Česká národní banka požadovat potřebné informace přímo od orgánu dohledu země sídla této pojišťovny a na požádání tohoto orgánu dohledu mu poskytovat údaje o činnosti její pobočky na území České republiky. Nevyplývá-li výměna informací mezi orgány dohledu z vyhlášených mezinárodních smluv, je pojišťovna z třetího státu povinna na žádost České národní banky zabezpečit získávání potřebných informací od orgánu dohledu země jejího sídla.*
 >
 > *(6) Povolení podle odstavce 1 Česká národní banka udělí, pokud to není v rozporu s vyhlášenými mezinárodními smlouvami, a pokud pojišťovna z třetího státu*
 >
-> *- a) s ohledem na požadovaný rozsah a povahu její činnosti dává předpoklady splnění podmínek (...),*
+> *- a) s ohledem na požadovaný rozsah a povahu její činnosti dává předpoklady splnění podmínek provozování pojišťovací činnosti stanovených tímto zákonem nebo přímo použitelným předpisem Evropské unie, zejména její finanční stability, dostatečnosti personálních, technických a organizačních předpokladů,*
 >
-> *- b) může podle právních předpisů v zemi jejího sídla provozovat pojišťovací činnost (...),*
+> *- b) může podle právních předpisů v zemi jejího sídla provozovat pojišťovací činnost podle pojistných odvětví životních nebo neživotních pojištění a požadovaný rozsah činnosti není v rozporu s tímto oprávněním,*
 >
 > *- c) založí na území České republiky svoji pobočku,*
 >
 > *- d) navrhla na vedoucího pobočky osobu, která splňuje podmínky způsobilosti a důvěryhodnosti,*
 >
-> *- e) má na území České republiky aktiva, jejichž hodnota se rovná nejméně jedné polovině spodní hranice minimálního kapitálového požadavku podle § 79a a vloží nejméně jednu čtvrtinu těchto aktiv jako jistinu na účet zvlášť k tomu zřízený u banky se sídlem na území České republiky (...),*
+> *- e) má na území České republiky aktiva, jejichž hodnota se rovná nejméně jedné polovině spodní hranice minimálního kapitálového požadavku podle § 79a a vloží nejméně jednu čtvrtinu těchto aktiv jako jistinu na účet zvlášť k tomu zřízený u banky se sídlem na území České republiky nebo u pobočky zahraniční banky umístěné na území České republiky, se kterým nelze nakládat bez souhlasu České národní banky, a prokáže jejich původ,*
 >
-> *- f) se zaváže k plnění solventnostního kapitálového požadavku podle § 73 a minimálního kapitálového požadavku podle § 79 a 79a (...),*
+> *- f) se zaváže k plnění solventnostního kapitálového požadavku podle § 73 a minimálního kapitálového požadavku podle § 79 a 79a, přičemž při jejich výpočtu se zohledňují pouze činnosti vykonávané na území České republiky,*
 >
-> *- g) předloží obchodní plán pobočky podle § 34 (...),*
+> *- g) předloží obchodní plán pobočky podle § 34 vztahující se k její činnosti, která má být provozována na území České republiky, podložený reálnými ekonomickými výpočty,*
 >
 > *- h) má funkční a efektivní řídicí a kontrolní systém,*
 >
-> *- i) ustanoví škodní zástupce v České republice a v ostatních členských státech (...),*
+> *- i) ustanoví škodní zástupce v České republice a v ostatních členských státech pověřené vyřizováním nároků z pojištění, jestliže má být provozováno pojištění podle pojistného odvětví uvedeného v části B bodě 10 písm. a) přílohy č. 1 k tomuto zákonu,*
 >
-> *- j) není úzce propojena s dalšími osobami takovým způsobem, který by bránil účinnému výkonu dohledu (...),*
+> *- j) není úzce propojena s dalšími osobami takovým způsobem, který by bránil účinnému výkonu dohledu v pojišťovnictví podle tohoto zákona,*
 >
-> *- k) se sama nebo jedna nebo více osob s ní úzce propojených neřídí právními předpisy třetího státu, které by bránily účinnému výkonu dohledu (...),*
+> *- k) se sama nebo jedna nebo více osob s ní úzce propojených neřídí právními předpisy třetího státu, které by bránily účinnému výkonu dohledu v pojišťovnictví podle tohoto zákona nebo by vedly k obtížné vynutitelnosti povinností podle tohoto zákona, a*
 >
 > *- l) uvedla v žádosti pravdivé údaje.*
 
@@ -1557,13 +1790,19 @@ Pro pojistníky je důležité: vůči Lloyd's mají **stejné postavení jako v
 
 > **§ 35**
 >
-> *(1) Pojišťovna z třetího státu, která požádala ve více než jednom členském státě o povolení k provozování pojišťovací činnosti prostřednictvím svých poboček nebo toto povolení již získala od více než jednoho členského státu, může požádat orgány dohledu členských států (...) o zvýhodnění spočívající v tom, že*
+> *(1) Pojišťovna z třetího státu, která požádala ve více než jednom členském státě o povolení k provozování pojišťovací činnosti prostřednictvím svých poboček nebo toto povolení již získala od více než jednoho členského státu, může požádat orgány dohledu členských států, ve kterých má být nebo je pojišťovací činnost provozována, o zvýhodnění spočívající v tom, že*
 >
-> *- a) solventnostní kapitálový požadavek (...) se vypočítá ve vztahu k celému rozsahu provozované činnosti v rámci členských států (...) ,*
+> *- a) solventnostní kapitálový požadavek podle § 73 se vypočítá ve vztahu k celému rozsahu provozované činnosti v rámci členských států; v tomto případě se pro účely tohoto výpočtu přihlíží pouze k činnostem realizovaným všemi pobočkami zřízenými v rámci členských států,*
 >
 > *- b) aktiva ve výši uvedené v § 32 odst. 6 písm. e) jako jistina se budou nacházet pouze v tom členském státě, jehož orgán dohledu bude dohlížet na dodržování podmínek solventnosti,*
 >
-> *- c) aktiva ve výši minimálního kapitálového požadavku (...) se mohou nacházet v libovolném členském státě, ve kterém pojišťovna z třetího státu provozuje svoji pojišťovací činnost.*
+> *- c) aktiva ve výši minimálního kapitálového požadavku podle § 79, se mohou nacházet v libovolném členském státě, ve kterém pojišťovna z třetího státu provozuje svoji pojišťovací činnost.*
+>
+> *(2) Zvýhodnění uvedená v odstavci 1 lze udělit pouze všechna současně. Žádost o udělení zvýhodnění pojišťovna z třetího státu podá orgánům dohledu členských států, ve kterých má být pojišťovací činnost provozována. V žádosti musí být uveden orgán dohledu členského státu, který bude dohlížet na dodržování podmínek solventnosti pojišťovny z třetího státu prostřednictvím jejích poboček zřízených v rámci členských států. Volbu daného orgánu dohledu musí tato pojišťovna odůvodnit.*
+>
+> *(3) Zvýhodnění mohou být udělena pouze v případě, že orgány dohledu všech členských států, ve kterých byla žádost podána, s nimi souhlasí. Zvýhodnění platí ode dne odeslání informace ostatním orgánům dohledu o tom, že orgán dohledu zvolený ve smyslu odstavce 2 bude dohlížet na stav solventnosti za veškerou provozovanou pojišťovací činnost prostřednictvím poboček pojišťovny z třetího státu zřízených v členských státech.*
+>
+> *(4) Orgán dohledu zvolený ve smyslu odstavce 2 obdrží od ostatních členských států informace potřebné pro výkon dohledové činnosti nad celkovou solventností poboček pojišťovny z třetího státu zřízených na jejich území. Na žádost jednoho nebo více dotčených orgánů členských států budou zvýhodnění udělená všemi zúčastněnými členskými státy odejmuta18).*
 
 **Výklad:**
 
@@ -1585,35 +1824,39 @@ Tento institut zjednodušuje regulatorní kompliance neevropských pojišťoven 
 
 > **§ 36**
 >
-> *(1) Česká národní banka uděluje povolení k provozování zajišťovací činnosti pro neživotní zajištění, životní zajištění nebo pro oba typy zajišťovací činnosti. (...)*
+> *(1) Česká národní banka uděluje povolení k provozování zajišťovací činnosti pro neživotní zajištění, životní zajištění nebo pro oba typy zajišťovací činnosti. Česká národní banka může požadovaný rozsah činnosti omezit, jestliže není dostatečně prokázána schopnost žadatele finančně a provozně zabezpečit zajišťovací činnost v rozsahu uvedeném v žádosti.*
 >
 > *(2) Tuzemská zajišťovna je oprávněna provozovat zajišťovací činnost na základě a v rozsahu povolení uděleného Českou národní bankou jako akciová společnost a je-li její sídlo na území České republiky.*
 >
-> *(...)*
+> *(3) Povolení udělené Českou národní bankou za podmínek stanovených tímto zákonem tuzemské zajišťovně je platné pro všechny členské státy a opravňuje ji za podmínek stanovených tímto zákonem k provozování zajišťovací činnosti na území jiného členského státu, a to buď prostřednictvím pobočky nebo na základě svobody dočasně poskytovat služby.*
+>
+> *(4) Povolení České národní banky je tuzemská zajišťovna povinna si vyžádat také před změnou rozsahu zajišťovací činnosti, pokud podle tohoto zákona taková změna nepodléhá pouze informační povinnosti.*
+>
+> *(5) Česká národní banka uděluje založené tuzemské zajišťovně povolení k provozování zajišťovací činnosti na základě žádosti podané elektronicky, ke které žadatel přiloží doklady prokazující splnění podmínek uvedených v odstavci 6, a to přede dnem jejího zápisu do obchodního rejstříku. O této žádosti rozhodne Česká národní banka nejpozději do 6 měsíců ode dne, kdy jí byla doručena. Oprávnění k provozování zajišťovací činnosti vznikne tuzemské zajišťovně dnem jejího zápisu do obchodního rejstříku. Náležitosti žádosti, včetně příloh prokazujících splnění podmínek podle odstavce 6, její formáty a další technické náležitosti stanoví prováděcí právní předpis.*
 >
 > *(6) Česká národní banka udělí povolení podle odstavce 5, pokud*
 >
-> *- a) je splněna podmínka sídla (...),*
+> *- a) je splněna podmínka sídla podle odstavce 2,*
 >
-> *- b) (...) dány předpoklady splnění podmínek (...),*
+> *- b) jsou s ohledem na požadovaný rozsah a povahu činnosti zajišťovny dány předpoklady splnění podmínek provozování zajišťovací činnosti stanovených tímto zákonem nebo přímo použitelným předpisem Evropské unie, zejména její finanční stability, dostatečnost personálních, technických a organizačních předpokladů,*
 >
-> *- c) byly sděleny identifikační údaje (...) o kvalifikované účasti (...),*
+> *- c) byly sděleny identifikační údaje ke každé osobě, která má mít kvalifikovanou účast na zajišťovně, a tato dává předpoklad řádného a obezřetného řízení zajišťovny,*
 >
-> *- d) každá osoba (...) splňuje podmínky způsobilosti a důvěryhodnosti,*
+> *- d) každá osoba, která má působit jako osoba podle § 7a odst. 1, splňuje podmínky způsobilosti a důvěryhodnosti,*
 >
-> *- e) úzké propojení (...) nebrání účinnému výkonu dohledu (...),*
+> *- e) úzké propojení mezi zajišťovnou a dalšími osobami nebrání účinnému výkonu dohledu v pojišťovnictví podle tohoto zákona,*
 >
-> *- f) (...) nebrání právní předpisy třetího státu (...),*
+> *- f) účinnému výkonu dohledu v pojišťovnictví podle tohoto zákona nebrání právní předpisy třetího státu, kterými se řídí jedna nebo více osob, s nimiž má mít zajišťovna úzké propojení, ani obtížná vymahatelnost práva v tomto státě,*
 >
 > *- g) výše základního kapitálu zajišťovny splňuje podmínky podle § 39,*
 >
-> *- h) aktiva zajišťovny nepocházejí z trestné činnosti (...),*
+> *- h) aktiva zajišťovny nepocházejí z trestné činnosti nebo z neidentifikovatelných zdrojů a je prokázán původ kapitálu a dalších finančních zdrojů,*
 >
-> *- i) navrhovaný řídicí a kontrolní systém (...) dává předpoklad své funkčnosti a efektivnosti,*
+> *- i) navrhovaný řídicí a kontrolní systém včetně systému řízení rizik dává předpoklad své funkčnosti a efektivnosti,*
 >
-> *- j) je prokázána schopnost držet použitelný kapitál ve výši solventnostního kapitálového požadavku (...) a minimálního kapitálového požadavku (...),*
+> *- j) je prokázána schopnost držet použitelný kapitál ve výši solventnostního kapitálového požadavku podle § 73 a minimálního kapitálového požadavku podle § 79 a 79a,*
 >
-> *- k) žadatel předložil obchodní plán zajišťovny (...) podložený reálnými ekonomickými výpočty a*
+> *- k) žadatel předložil obchodní plán zajišťovny podle § 37 podložený reálnými ekonomickými výpočty a*
 >
 > *- l) žadatel uvedl v žádosti pravdivé údaje.*
 

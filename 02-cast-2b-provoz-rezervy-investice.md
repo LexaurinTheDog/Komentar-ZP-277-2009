@@ -218,11 +218,11 @@ Pro **tuzemskou ISPV** (tj. ISPV se sídlem v ČR) je vyžadováno **zvláštní
 
 ### §§ 52–58 — Technické rezervy: best estimate + risk margin
 
-> **§ 52**
+> *(1) Pro účely tohoto zákona tuzemská pojišťovna, pojišťovna z třetího státu, tuzemská zajišťovna a zajišťovna z třetího státu oceňuje*
+> *- a) aktiva cenou, za niž by se mohla vyměnit mezi znalými stranami ochotnými uskutečnit takovou směnu za obvyklých podmínek, a*
+> *- b) závazky cenou, za niž by se mohly převést nebo vypořádat mezi znalými stranami ochotnými uskutečnit toto převedení nebo vypořádání za obvyklých podmínek.*
 >
-> *(1) Tuzemská pojišťovna a tuzemská zajišťovna vytváří k vyrovnání závazků z veškeré jí provozované pojišťovací nebo zajišťovací činnosti, které jsou pravděpodobné nebo jisté, ale nejistá je jejich výše nebo okamžik, ke kterému vzniknou, technické rezervy. (...)*
->
-> *(2) Hodnota technických rezerv je rovna součtu hodnoty nejlepšího odhadu a rizikové přirážky a odpovídá částce, kterou by pojišťovna nebo zajišťovna podle odstavce 1 musela zaplatit za okamžitý převod příslušných závazků z pojišťovací nebo zajišťovací činnosti na jinou pojišťovnu nebo zajišťovnu.*
+> *(2) Při oceňování závazků nelze upravovat jejich hodnotu na základě úvěrového ratingu pojišťovny nebo zajišťovny.*
 
 **Výklad:**
 
@@ -347,21 +347,27 @@ Pojišťovna musí zajistit **vhodnost, úplnost a přesnost dat** používanýc
 
 #### § 60 — Zásada obezřetného investování (prudent person principle)
 
-> **§ 60 odst. 1**
+> **§ 60**
 >
-> *Tuzemská pojišťovna, tuzemská zajišťovna, pojišťovna z třetího státu a zajišťovna z třetího státu*
+> *(1) Tuzemská pojišťovna, tuzemská zajišťovna, pojišťovna z třetího státu a zajišťovna z třetího státu*
 >
-> *- a) investuje pouze do aktiv, jejichž rizika je schopna řádně identifikovat, měřit, sledovat, spravovat, kontrolovat a vykazovat (...)*
+> *- a) investuje pouze do aktiv, jejichž rizika je schopna řádně identifikovat, měřit, sledovat, spravovat, kontrolovat a vykazovat a odpovídajícím způsobem je zohlednit při posuzování svých celkových potřeb, a proto průběžně vyhodnocuje dopad rizikových faktorů na své investice a všechna aktiva, zejména pak aktiva určená k plnění solventnostního a minimálního kapitálového požadavku investuje tak, aby zajistila bezpečnost, likviditu a ziskovost celkového portfolia; umístění těchto aktiv nesmí omezit jejich dostupnost,*
 >
-> *- b) aktiva určená k vyrovnání závazků investuje způsobem, jenž je přiměřený povaze a trvání závazků (...) v nejlepším zájmu všech pojistníků a oprávněných osob (...),*
+> *- b) aktiva určená k vyrovnání závazků investuje způsobem, jenž je přiměřený povaze a trvání závazků z provozované pojišťovací a zajišťovací činnosti a v nejlepším zájmu všech pojistníků a oprávněných osob, přičemž je zohledněn cíl případné zveřejněné investiční politiky; to pojišťovna zajistí i v případě střetu zájmů,*
 >
-> *- c) diverzifikuje své investice tak, aby nedocházelo k nadměrné závislosti (...),*
+> *- c) diverzifikuje své investice tak, aby nedocházelo k nadměrné závislosti na určitém aktivu, emitentovi nebo skupině osob či zeměpisné oblasti ani k nadměrnému nahromadění rizika v portfoliu jako celku, přičemž investice do aktiv vydaných stejným emitentem nebo emitenty patřícími do stejné skupiny nesmí vystavit pojišťovnu nadměrné koncentraci rizik; to se nepoužije pro aktiva podle § 61 odst. 1 a 2,*
 >
-> *- d) v případě investování do aktiv, která nejsou obchodována na evropském regulovaném trhu nebo zahraničním trhu obdobném regulovanému trhu, nepřekračuje jeho obezřetnou úroveň,*
+> *- d) v případě investování do aktiv, která nejsou obchodována na evropském regulovaném trhu nebo zahraničním trhu obdobném regulovanému trhu, nepřekračuje jeho obezřetnou úroveň; to se nepoužije pro aktiva podle § 61 odst. 1 a 2,*
 >
 > *- e) u aktiv držených ve vztahu k závazkům z pojištění, kde investiční riziko nese pojistník, postupuje podle § 61 a*
 >
-> *- f) derivátové smlouvy sjednává pouze za podmínky, že závazky z nich vyplývající přispívají ke snižování rizik nebo usnadňují efektivní správu portfolia (...).*
+> *- f) derivátové smlouvy sjednává pouze za podmínky, že závazky z nich vyplývající přispívají ke snižování rizik nebo usnadňují efektivní správu portfolia; písmena a), c) a d) se v takovém případě použijí obdobně.*
+>
+> *(2) Přímo použitelným předpisem Evropské unie se řídí*
+>
+> *- a) identifikace, měření, sledování, řízení a vykazování rizik vyplývajících z investic podle odstavce 1 písm. a) a sjednávání derivátových kontraktů podle odstavce 1 písm. f) a*
+>
+> *- b) investování do obchodovatelných cenných papírů a jiných finančních nástrojů, které vznikly sekuritizací včetně důsledků nedodržení stanovených pravidel.*
 
 **Výklad:**
 
@@ -745,15 +751,19 @@ Pokud je MCR pojišťovny dán některou z mezních hodnot, **je povinna ČNB tu
 >
 > *Minimální kapitálový požadavek podle § 79 nemůže být nižší než*
 >
-> *- a) 2 700 000 EUR pro tuzemskou pojišťovnu provozující pojišťovací činnost podle jednoho nebo více odvětví neživotních pojištění podle bodů 1 až 9 a bodů 16 až 18 části B přílohy č. 1 (...)*
+> *  - a) 2 700 000 EUR pro tuzemskou pojišťovnu provozující pojišťovací činnost podle jednoho nebo více odvětví neživotních pojištění podle bodů 1 až 9 a bodů 16 až 18 části B přílohy č. 1 k tomuto zákonu,*
 >
-> *- b) 4 000 000 EUR pro tuzemskou pojišťovnu provozující pojišťovací činnost podle jednoho nebo více odvětví neživotních pojištění podle bodů 10 až 15 části B přílohy č. 1 (...)*
+> *  - b) 4 000 000 EUR pro tuzemskou pojišťovnu provozující pojišťovací činnost podle jednoho nebo více odvětví neživotních pojištění podle bodů 10 až 15 části B přílohy č. 1 k tomuto zákonu bez ohledu na to, zda současně provozuje jedno nebo více pojistných odvětví podle písmene a),*
 >
-> *- c) 4 000 000 EUR pro tuzemskou pojišťovnu provozující pojišťovací činnost podle jednoho nebo více odvětví životních pojištění (...)*
+> *  - c) 4 000 000 EUR pro tuzemskou pojišťovnu provozující pojišťovací činnost podle jednoho nebo více odvětví životních pojištění uvedených v části A přílohy č. 1 k tomuto zákonu,*
 >
-> *- d) 3 900 000 EUR pro tuzemskou zajišťovnu, kromě tuzemské kaptivní zajišťovny,*
+> *  - d) 3 900 000 EUR pro tuzemskou zajišťovnu, kromě tuzemské kaptivní zajišťovny,*
 >
-> *- e) 1 300 000 EUR pro tuzemskou kaptivní zajišťovnu, (...)*
+> *  - e) 1 300 000 EUR pro tuzemskou kaptivní zajišťovnu,*
+>
+> *  - f) součet částek podle písmen a) a c), nebo písmen b) a c) v závislosti na rozsahu provozované pojišťovací činnosti pro tuzemskou pojišťovnu provozující současně pojišťovací činnost podle odvětví životních a neživotních pojištění, nebo*
+>
+> *  - g) součet částek podle písmen a) a c), nebo písmen b) a c) v závislosti na rozsahu provozované pojišťovací činnosti a písmene d) pro tuzemskou pojišťovnu provozující současně pojišťovací a zajišťovací činnost, jejíž zajišťovací činnost překročí některou z hodnot podle § 18 odst. 4 písm. a).*
 
 **Výklad:**
 
@@ -797,7 +807,27 @@ Tento režim je **přísnější** než pro tuzemskou pojišťovnu, neboť refle
 >
 > *(1) Tuzemská pojišťovna, tuzemská zajišťovna a pojišťovna z jiného členského státu, pojišťovna z třetího státu, zajišťovna z jiného členského státu a zajišťovna z třetího státu, která svoji činnost na území České republiky provozuje prostřednictvím pobočky, vede účetnictví podle zákona upravujícího účetnictví.*
 >
-> *(2) Pojišťovna nebo zajišťovna, která podle zákona upravujícího účetnictví sestavuje účetní závěrku nebo konsolidovanou účetní závěrku, je povinna mít tuto účetní závěrku nebo konsolidovanou účetní závěrku ověřenu statutárním auditorem nebo auditorskou společností (...).*
+> *(2) Pojišťovna nebo zajišťovna, která podle zákona upravujícího účetnictví sestavuje účetní závěrku nebo konsolidovanou účetní závěrku, je povinna mít tuto účetní závěrku nebo konsolidovanou účetní závěrku ověřenu statutárním auditorem nebo auditorskou společností (dále jen „auditor“), kterého pojišťovna nebo zajišťovna určuje způsobem stanoveným v zákoně upravujícím auditorskou činnost.*
+>
+> *(3) Tuzemská pojišťovna, tuzemská zajišťovna nebo pojišťovna z třetího státu nebo zajišťovna z třetího státu je povinna oznámit České národní bance auditora, vybraného pro ověření účetní závěrky nebo konsolidované účetní závěrky, která je oprávněna vybraného auditora odmítnout. Pojišťovna nebo zajišťovna je povinna oznámit České národní bance auditora před jeho určením podle odstavce 2. Odmítne-li Česká národní banka vybraného auditora, je pojišťovna nebo zajišťovna povinna oznámit do 30 dnů ode dne doručení rozhodnutí o jeho odmítnutí České národní bance výběr nového auditora.*
+>
+> *(4) Oznámení o výběru auditora tuzemské pojišťovny, tuzemské zajišťovny, pojišťovny z třetího státu nebo zajišťovny z třetího státu podle odstavce 3 obsahuje*
+>
+> *- a) jméno statutárního auditora nebo název auditorské společnosti a evidenční číslo přidělené Komorou auditorů České republiky,*
+>
+> *- b) dobu a rozsah dosavadní činnosti auditora v oblasti účetnictví pojišťoven nebo zajišťoven,*
+>
+> *- c) popis činností doposud vykonávaných v oblasti auditu pojišťoven nebo zajišťoven, popřípadě jiných finančních institucí,*
+>
+> *- d) kárná opatření přijatá Komorou auditorů České republiky nebo jinou obdobnou institucí v zahraničí vůči auditorovi, byla-li taková přijata, a*
+>
+> *- e) čestné prohlášení auditora o neexistenci propojení podle odstavce 5 písm. a) s pojišťovnou nebo zajišťovnou, ve které má provést ověření účetní závěrky nebo konsolidované účetní závěrky.*
+>
+> *(5) Česká národní banka auditora odmítne, pokud*
+>
+> *- a) je nebo byl v posledních 2 letech před provedením ověření účetní závěrky nebo konsolidované účetní závěrky členem statutárního orgánu, kontrolního orgánu, výboru pro audit, prokuristou nebo zástupcem pobočky, osobou s klíčovou funkcí nebo zaměstnancem tuzemské pojišťovny, tuzemské zajišťovny, pojišťovny z třetího státu nebo zajišťovny z třetího státu, ve které má provést ověření účetní závěrky nebo konsolidované účetní závěrky, nebo*
+>
+> *- b) jeho zkušenosti v oblasti účetnictví pojišťoven nebo zajišťoven nebo jeho dosavadní praxe v oblasti auditu pojišťoven nebo zajišťoven nezajišťují předpoklad řádného ověření účetní závěrky nebo konsolidované účetní závěrky, a to s ohledem na rozsah a složitost činností vykonávaných pojišťovnou nebo zajišťovnou, ve které má provést ověření účetní závěrky nebo konsolidované účetní závěrky.*
 
 **Výklad:**
 
@@ -848,13 +878,21 @@ Tento institut umožňuje ČNB využít expertízu auditora k posouzení specifi
 
 ### § 82 — Zpráva o solventnosti a finanční situaci (SFCR)
 
-> **§ 82 odst. 1**
+> **§ 82**
 >
-> *Tuzemská pojišťovna nebo tuzemská zajišťovna nejpozději do 4 měsíců po skončení účetního období předkládá České národní bance svoji výroční zprávu a konsolidovanou výroční zprávu podle zákona upravujícího účetnictví, jejichž součástí je účetní závěrka ověřená auditorem, a uveřejňuje ji způsobem umožňujícím dálkový přístup. (...)*
+> *(1) Tuzemská pojišťovna nebo tuzemská zajišťovna nejpozději do 4 měsíců po skončení účetního období předkládá České národní bance svoji výroční zprávu a konsolidovanou výroční zprávu podle zákona upravujícího účetnictví, jejichž součástí je účetní závěrka ověřená auditorem, a uveřejňuje ji způsobem umožňujícím dálkový přístup. Pokud valná hromada nebo členská schůze tuzemské pojišťovny nebo valná hromada tuzemské zajišťovny účetní závěrku nebo konsolidovanou účetní závěrku v uvedené lhůtě neschválí, zašle ji tato pojišťovna nebo zajišťovna České národní bance spolu s důvody, pro které nebyla schválena, a způsobem řešení připomínek valné hromady nebo členské schůze; tyto údaje současně uveřejní způsobem umožňujícím dálkový přístup. Tím není dotčena povinnost tuzemské pojišťovny nebo tuzemské zajišťovny zajistit schválení účetní závěrky nebo konsolidované účetní závěrky a schválenou účetní závěrku nebo konsolidovanou účetní závěrku uveřejnit.*
 >
-> **§ 82 odst. 3**
+> *(2) Tuzemská pojišťovna, tuzemská zajišťovna, pojišťovna z třetího státu a zajišťovna z třetího státu je povinna uveřejňovat v rozsahu, způsobem a v termínech stanovených prováděcím právním předpisem informace o sobě, o složení akcionářů a o struktuře skupiny, jejíž je součástí, nejsou-li obsahem zprávy podle odstavce 3. Informace o právní, řídicí a organizační struktuře, včetně uvedení všech ovládaných osob a významných přidružených osob a poboček náležících ke skupině se uveřejní každoročně na úrovni skupiny; to se použije obdobně pro pojišťovací holdingovou osobu a smíšenou finanční holdingovou osobu se sídlem na území České republiky.*
 >
-> *Tuzemská pojišťovna, tuzemská zajišťovna, pojišťovna z třetího státu a zajišťovna z třetího státu je povinna uveřejnit zprávu o solventnosti a finanční situaci a o povaze a účincích důležitých změn v její činnosti po jejich schválení příslušným orgánem (...).*
+> *(3) Tuzemská pojišťovna, tuzemská zajišťovna, pojišťovna z třetího státu a zajišťovna z třetího státu je povinna uveřejnit zprávu o solventnosti a finanční situaci a o povaze a účincích důležitých změn v její činnosti po jejich schválení příslušným orgánem takové pojišťovny nebo zajišťovny, pokud tyto informace nejsou součástí skupinové zprávy o solventnosti a finanční situaci podle § 92l. Pokud se použije vyrovnávací úprava podle § 54b, zpráva o solventnosti a finanční situaci v části o oceňování pro účely solventnosti obsahuje také informaci o způsobu jejího použití, popis portfolia závazků z životního pojištění nebo zajištění nebo z rent z neživotního pojištění nebo zajištění a popis portfolia přiřazených aktiv, ke kterým se vyrovnávací úprava vztahuje, včetně kvantifikace dopadu poklesu vyrovnávací úpravy na nulu na její finanční situaci. Pokud se použije koeficient volatility podle § 54c, pojišťovna to ve zprávě o solventnosti a finanční situaci uvede spolu s kvantifikací dopadu jeho snížení na nulu na její finanční situaci. S výjimkou informace týkající se řízení kapitálu, nemusí být po předchozím souhlasu České národní banky ve zprávě o solventnosti a finanční situaci uveřejněna informace, která je citlivá nebo důvěrná. Na základě tohoto souhlasu může zpráva podle věty první obsahovat i odkaz na informaci již uveřejněnou podle jiného právního předpisu.*
+>
+> *(4) Informace se považuje za citlivou, pokud by jejím uveřejněním mohlo být poškozeno postavení tuzemské pojišťovny a tuzemské zajišťovny v rámci soutěžního prostředí, zejména jde-li o informaci o produktech nebo systémech, nebo která by sdílením s ostatními soutěžiteli mohla znehodnotit investici tuzemské pojišťovny nebo tuzemské zajišťovny do těchto produktů nebo systémů. Informace se považuje za důvěrnou, pokud je tuzemská pojišťovna nebo tuzemská zajišťovna povinna zachovávat o ní mlčenlivost.*
+>
+> *(5) Využije-li tuzemská pojišťovna nebo tuzemská zajišťovna možnost neuveřejnit citlivou nebo důvěrnou informaci, uvede ve zprávě podle odstavce 3, o který z požadavků na uveřejnění se jedná, a důvod jejího neuveřejnění.*
+>
+> *(6) Obsah informací určených k uveřejnění včetně informací, u nichž nelze využít možnost podle odstavce 3, formu, způsob, strukturu, četnost a lhůty uveřejňování informací stanoví přímo použitelný předpis Evropské unie.*
+>
+> *(7) Před sjednáním pojištění spadajícího do pojistných odvětví životního pojištění musí pojišťovna sdělit zájemci o pojištění konkrétní odkaz na zprávu o své solventnosti a finanční situaci. Tato informace musí být poskytnuta jasně, přesně, písemně a v jazyce členského státu závazku.*
 
 **Výklad:**
 
