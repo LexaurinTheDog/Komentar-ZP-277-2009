@@ -578,7 +578,6 @@ Schválení podléhá kvalifikačnímu testu podle Solvency II čl. 112–115 �
 
 ---
 
-
 ### § 91a — Centralizované řízení rizik ve skupině
 
 > **§ 91a**
