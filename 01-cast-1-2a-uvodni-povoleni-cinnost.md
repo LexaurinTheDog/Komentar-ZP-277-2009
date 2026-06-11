@@ -314,6 +314,11 @@ Klíčová výjimka pro **„state-backed reinsurance of last resort"** — typi
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 Afs 152/2022 - 47](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/715147) — 11. 10. 2023
+  > „jednotlivá odvětví životního pojištění, tak jak je na základě § 3 odst. 2 písm. a) zákona č. 277/2009 Sb., o pojišťovnictví předvídá příloha k tomuto zákonu, slouží k určení rozsahu poskytování pojistných služeb, nikoli k vymezení druhů životního pojištění ve smyslu zákona o pojistné smlouvě"
+
 #### Pojišťovna a zajišťovna jako trojí kategorie (odst. 1 písm. a–k)
 
 Pojmy „pojišťovna" a „zajišťovna" se v § 3 odst. 1 člení podle teritoria sídla — tuzemská, z jiného členského státu, ze třetího státu — a kvalifikují se kumulativním požadavkem **právní subjektivity a regulatorního povolení**. Pojišťovna a zajišťovna mohou být v ČR podle § 13 odst. 2 (resp. § 36 odst. 2) zřízeny pouze ve dvou právních formách:

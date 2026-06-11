@@ -1304,6 +1304,17 @@ Význam roste s **digitalizací** (cloud servery, AI modely) a **vendor concentr
 
 Volba opatření je **diskreční**, vázaná zásadou **přiměřenosti** (proportionality), **stupňovitosti** (ladder of intervention) a **neporušení rovných podmínek**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 As 129/2016 - 46](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/642151) — 3. 5. 2017
+  > „Nejvyšší správní soud připomíná, že v posuzované věci bylo těmito výroky stěžovatelce ukládáno opatření k nápravě, nikoliv sankce. Proto obsah těchto výroků má zejména definovat cílový stav, jehož má být v rámci nápravy zjištěných nedostatků dosaženo. … podrobné vymezení způsobu, jakým má stěžovatelka dosáhnout stanovených cílů, není nezbytnou podmínkou při ukládání nápravného opatření; lze je naopak považovat za nežádoucí z hlediska samostatnosti obchodní (podnikatelské) politiky žalobkyně a jejích řídících orgánů…"
+- *NSS* [6 Af 22/2015 - 98](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/446474) — 18. 1. 2019
+  > „povaha příslušného správního rozhodnutí je preventivní uložení opatření k nápravě, nikoliv trestání za zjištěný skutek. … pro toto opatření je možné vycházet z dlouhodobějších zjištění příslušného dozorového orgánu, které signalizují případné neplnění některých povinností … Vydané opatření pak musí sledovat legitimní účel, který souvisí s povinnostmi žalobkyně jako pojišťovny, která se pohybuje na příslušném trhu a musí dodržovat zákonné povinnosti"
+- *NSS* [6 Af 16/2012 - 75](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/535307) — 10. 5. 2016
+  > „Toto opatření k nápravě nemá povahu trestu či sankce, jeho smyslem je odstranění zjištěných pochybení"
+- *ÚS* [III.ÚS 4773/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-4773-12_1) — usnesení, 10. 1. 2013
+  > „Z výše uvedeného vyplývá, že i v souzené věci byl stěžovatel, přestože nebyl účastníkem správního řízení, aktivně legitimován k podání žaloby proti rozhodnutí České národní banky vydanému podle ust. § 95 odst. 5 zákona o pojišťovnictví"
+
 ---
 
 ### § 95a — Navýšení solventnostního kapitálového požadavku
