@@ -22,3 +22,7 @@
 
 ## EU acquis
 **Solvency II** 2009/138/EU + Delegated Regulation 2015/35, IDD 2016/97, IORP II 2016/2341.
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
