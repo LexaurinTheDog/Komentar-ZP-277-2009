@@ -94,6 +94,60 @@ Legislativní zkratka „jiný členský stát" definovaná v písm. b) zahrnuje
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=de961011b81d199f5e38 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 1
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Tento zákon zapracovává příslušné předpisy Evropská unie1), zároveň navazuje na přímo použitelné předpisy Evropské unie40) a upravuje podmínky provozování pojišťovací a zajišťovací činnosti a výkon dohledu v pojišťovnictví.
+>
+> (2) Tímto zákonem se řídí
+>
+> - a) provozování pojišťovací a zajišťovací činnosti pojišťovnou se sídlem na území České republiky a provozování zajišťovací činnosti zajišťovnou se sídlem na území České republiky,
+>
+> - b) provozování pojišťovací a zajišťovací činnosti na území České republiky pojišťovnou se sídlem na území členského státu Evropské unie nebo na území státu tvořícího Evropský hospodářský prostor jiného než Česká republika (dále jen „jiný členský stát“) a provozování zajišťovací činnosti na území České republiky zajišťovnou se sídlem na území jiného členského státu,
+>
+> - c) provozování pojišťovací a zajišťovací činnosti na území České republiky pojišťovnou se sídlem na území jiného státu, než který je uveden v písmenech a) a b) (dále jen „třetí stát“), a provozování zajišťovací činnosti na území České republiky zajišťovnou se sídlem na území třetího státu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=de961011b81d199f5e38 -->
+
 ### § 2 — Negativní vymezení působnosti
 
 > **§ 2**
@@ -193,6 +247,84 @@ Klíčová výjimka pro **„state-backed reinsurance of last resort"** — typi
 **Typicky rozhodné důkazy / podklady:** zakladatelské dokumenty, smlouvy o plnění, popis okruhu oprávněných osob, doklad o vazbách v seskupení, případně doklad o státní záruce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3aaac2765dd94337e991 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 2
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Tento zákon se nevztahuje na provádění nemocenského pojištění, důchodového pojištění, penzijního připojištění se státním příspěvkem, důchodového spoření, doplňkového penzijního spoření, zaměstnaneckého penzijního pojištění, úrazového pojištění zaměstnanců a veřejného zdravotního pojištění2).
+>
+> (2) Tento zákon se dále nevztahuje na činnost
+>
+> - a) pojišťoven vykonávajících svoji činnost na principu vzájemnosti (dále jen „vzájemná pojišťovna“), u kterých se plnění mění podle dostupných zdrojů a které vyžadují, aby každý z jejich členů platil stejný příspěvek,
+>
+> - b) institucí jiných než pojišťoven spočívající v poskytování plnění zaměstnancům a osobám samostatně výdělečně činným patřícím do jednoho obchodního závodu nebo podnikatelského seskupení nebo do jednoho ekonomického oboru nebo skupiny oborů, a to pro případ smrti nebo dožití se stanoveného věku anebo pro případ přerušení nebo omezení činnosti, bez ohledu na to, jsou-li k závazkům vyplývajícím z této činnosti vytvářeny technické rezervy,
+>
+> - c) institucí jiných než pojišťoven spočívající v uzavírání závazků poskytnout plnění pouze v případě smrti, jestliže toto plnění nepřesáhne průměrné náklady na pohřeb nebo jestliže je poskytováno nepeněžní plnění,
+>
+> - d) vzájemné pojišťovny vykonávající činnosti neživotního pojištění, která uzavřela s jinou vzájemnou pojišťovnou dohodu, na jejímž základě jsou závazky z jí uzavřených pojistných smluv plně zajištěny, nebo podle které jiná pojišťovna přebírá závazky vyplývající z těchto smluv,
+>
+> - e) institucí a pojišťoven se sídlem v jiném členském státě vyňatých z působnosti směrnice Evropské unie upravující přístup k pojišťovací a zajišťovací činnosti a její výkon a na operace vyloučené touto směrnicí,
+>
+> - f) institucí jiných než pojišťoven spočívající v poskytnutí pomoci v případě poruchy nebo nehody silničního vozidla, ke které dojde na území České republiky, a jedná-li se o
+>
+> - 1. opravu na místě, pokud poskytovatel služby využívá k této činnosti převážně vlastních zaměstnanců a vlastního vybavení,
+>
+> - 2. převoz vozidla do nejbližšího nebo nejvhodnějšího místa opravy a přeprava řidiče a spolucestujících do nejbližšího místa, ze kterého mohou pokračovat ve své cestě jinými prostředky,
+>
+> - 3. převoz vozidla, popřípadě řidiče a spolucestujících do místa jejich bydliště, do místa jejich odjezdu, je-li odlišné od místa jejich bydliště, nebo do cílového místa ve stejném státu Evropské unie nebo státu tvořícího Evropský hospodářský prostor (dále jen „členský stát“),
+>
+> - g) uskupení bez právní osobnosti spočívající v poskytování vzájemného zabezpečení pro své členy, a to bez povinnosti platit pojistné nebo vytvářet technické rezervy,
+>
+> - h) spočívající v pojištění exportních úvěrů na účet státu nebo se zárukou státu nebo, je-li stát pojistitelem, nestanoví-li jiný právní předpis jinak,
+>
+> - i) Garančního systému finančního trhu a jím spravovaných fondů podle [[zákona upravujícího ozdravné postupy a řešení krize na finančním trhu|zákona upravujícího ozdravné postupy a řešení krize na finančním trhu]] a [[zákona upravujícího činnost bank|zákona upravujícího činnost bank]]4),
+>
+> - j) Garančního fondu obchodníků s cennými papíry5).
+>
+> (3) Podmínka, že k poruše nebo nehodě silničního vozidla dojde na území České republiky, neplatí v případě podle odstavce 2 písm. f) bodů 1 a [[#§ 2|2]], jestliže oprava vozidla na místě nebo jeho převoz jsou poskytovány institucí na území jiného státu bez povinnosti zaplatit jakoukoliv dodatečnou platbu recipročně proti předložení členské karty instituce, jíž je oprávněná osoba členem, a to na základě dohod mezi takovými institucemi.
+>
+> (4) Tento zákon se nevztahuje také na zajišťovací činnost prováděnou nebo plně zaručenou Českou republikou provozovanou z důvodu veřejného zájmu na pojistné ochraně, kdy charakter pojistného rizika nebo situace na trhu neumožňují získat odpovídající soukromé zajištění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3aaac2765dd94337e991 -->
 
 ### § 3 — Vymezení pojmů
 
@@ -521,6 +653,238 @@ Velmi důležitý je **riziko likvidity** (písm. e) — toto riziko se v SCR ex
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b925156bf39f9c31ae3b generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 3 — Vymezení pojmů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Pro účely tohoto zákona se rozumí
+>
+> - a) pojišťovnou tuzemská pojišťovna, pojišťovna z jiného členského státu nebo pojišťovna z třetího státu, s výjimkou pojišťovny, která je vyjmuta z působnosti směrnice Evropské unie upravující přístup k pojišťovací a zajišťovací činnosti a její výkon,
+>
+> - b) tuzemskou pojišťovnou právnická osoba se sídlem na území České republiky, které bylo Českou národní bankou uděleno povolení k provozování pojišťovací činnosti podle tohoto zákona,
+>
+> - c) pojišťovnou z jiného členského státu právnická osoba se sídlem na území jiného členského státu, které bylo v tomto jiném členském státě uděleno povolení k provozování pojišťovací činnosti,
+>
+> - d) pojišťovnou z třetího státu právnická osoba se sídlem na území třetího státu, která je v souladu s právem země svého sídla oprávněna provozovat pojišťovací činnost,
+>
+> - e) kaptivní pojišťovnou pojišťovna, kterou ovládá osoba z finančního sektoru6) jiná než pojišťovna nebo zajišťovna nebo jiná osoba než pojišťovací holdingová osoba nebo pojišťovací holdingová osoba se smíšenou činností anebo, kterou ovládá jiná osoba, která není osobou z finančního sektoru, pokud se činnost této pojišťovny výhradně omezuje na poskytování pojištění pojistných rizik osoby nebo osob společně tvořících podnikatelské seskupení,
+>
+> - f) pojišťovací činností přebírání pojistných rizik na základě uzavřených pojistných smluv a plnění z nich, přičemž součástí pojišťovací činnosti jsou činnosti přímo vyplývající z povolené pojišťovací činnosti, zejména činnosti související se vznikem pojištění a jeho správou, likvidace pojistných událostí, poskytování asistenčních služeb, investování, uzavírání smluv pojišťovnou se zajišťovnami o zajištění závazků pojišťovny vyplývajících z jí uzavřených pojistných smluv a činnost směřující k předcházení vzniku škod a zmírňování jejich následků,
+>
+> - g) zajišťovnou tuzemská zajišťovna, zajišťovna z jiného členského státu nebo zajišťovna z třetího státu, s výjimkou zajišťovny, která je vyjmuta z působnosti směrnice Evropské unie upravující přístup k pojišťovací a zajišťovací činnosti a její výkon,
+>
+> - h) tuzemskou zajišťovnou právnická osoba se sídlem na území České republiky, které bylo Českou národní bankou uděleno povolení k provozování zajišťovací činnosti podle tohoto zákona,
+>
+> - i) zajišťovnou z jiného členského státu právnická osoba se sídlem na území jiného členského státu, které bylo v tomto členském státě uděleno povolení k provozování zajišťovací činnosti,
+>
+> - j) zajišťovnou z třetího státu právnická osoba se sídlem na území třetího státu, která je v souladu s právem země svého sídla oprávněna provozovat zajišťovací činnost,
+>
+> - k) kaptivní zajišťovnou zajišťovna, kterou ovládá osoba z finančního sektoru6) jiná než pojišťovna nebo zajišťovna nebo jiná osoba než pojišťovací holdingová osoba nebo pojišťovací holdingová osoba se smíšenou činností anebo, kterou ovládá jiná osoba, která není osobou z finančního sektoru, pokud se činnost této zajišťovny výhradně omezuje na poskytování zajištění pojistných rizik osoby nebo osob s ní vzájemně propojených,
+>
+> - l) zajišťovací činností přebírání pojistných rizik na základě uzavřených smluv, kterými se zajišťovna zavazuje poskytnout pojišťovně ve sjednaném rozsahu plnění, nastane-li nahodilá událost ve smlouvě blíže označená, a pojistitel se zavazuje platit zajistiteli ve smlouvě určenou část pojistného (dále jen „zajistné“) z pojistných smluv uzavřených pojistitelem, které jsou předmětem této smlouvy (dále jen „zajišťovací smlouva“), plnění z těchto smluv a uzavírání zajišťovacích smluv mezi zajistiteli, přičemž součástí zajišťovací činnosti jsou činnosti přímo vyplývající z povolené zajišťovací činnosti, zejména činnosti související se vznikem zajištění a jeho správou, investování, poskytování statistického nebo pojistněmatematického poradenství v pojišťovnictví, analýza a průzkum pojistných rizik, činnost holdingové osoby a činnosti ve finančním sektoru podle zákona upravujícího doplňkový dohled nad finančními konglomeráty; zajišťovací činností se rozumí i uzavírání zajišťovacích smluv s institucemi zaměstnaneckého penzijního pojištění se sídlem v členských státech Evropské unie, kterým bylo uděleno povolení k činnosti provozování zaměstnaneckého penzijního pojištění v souladu s právem Evropské unie,
+>
+> - m) investováním nakládání s veškerými aktivy v majetku pojišťovny nebo zajišťovny,
+>
+> - n) likvidací pojistné události soubor činností počínající šetřením směřujícím k určení povinnosti pojišťovny plnit z události vyvolané pojistným nebezpečím, stanovení výše tohoto plnění a končící jeho výplatou oprávněné osobě nebo poškozenému, anebo sdělením, že tato povinnost nevznikla,
+>
+> - o) domovským členským státem členský stát, ve kterém se nachází sídlo
+>
+> - 1. pojišťovny, u které je pojištěno pojistné riziko z neživotního pojištění,
+>
+> - 2. pojišťovny, u které je pojištěn závazek ze životního pojištění,
+>
+> - 3. zajišťovny, jedná-li se o zajištění,
+>
+> - p) hostitelským členským státem členský stát, ve kterém má pojišťovna nebo zajišťovna pobočku nebo, ve kterém dočasně poskytuje služby; v případě životního pojištění se členským státem, ve kterém pojišťovna poskytuje služby, rozumí členský stát závazku a v případě neživotního pojištění se takovým členským státem rozumí členský stát, ve kterém se nachází pojistné riziko, pokud je takový závazek nebo riziko pojištěno pojišťovnou nebo její pobočkou, která se nachází v jiném členském státě,
+>
+> - r) pobočkou každá trvalá přítomnost pojišťovny nebo zajišťovny na území jiného než domovského členského státu, bez ohledu na to, zda má tato přítomnost formu organizační složky pojišťovny nebo zajišťovny, nebo se jedná o zastoupení této pojišťovny nebo zajišťovny třetí osobou, která má trvalé pověření jednat za pojišťovnu nebo zajišťovnu, jaké by měla její organizační složka; jedná-li se o pobočku pojišťovny nebo zajišťovny z třetího státu zřízenou na území České republiky, rozumí se jí odštěpný závod podle [[občanského zákoníku|občanského zákoníku]],
+>
+> - s) svobodou dočasně poskytovat služby právo provozovat pojišťovací nebo zajišťovací činnost na území hostitelského členského státu, a to v rozsahu povolení uděleného orgánem dohledu domovského členského státu, jestliže tato činnost nemá charakter trvalé přítomnosti na území hostitelského členského státu,
+>
+> - t) orgánem dohledu orgán vykonávající dohled nad pojišťovací nebo zajišťovací činností pojišťovny nebo nad zajišťovací činností zajišťovny,
+>
+> - u) Evropským orgánem dohledu Evropský orgán pro pojišťovnictví a zaměstnanecké penzijní pojištění,
+>
+> - v) údajem o osobě jméno, popřípadě jména, příjmení, datum narození a adresa bydliště fyzické osoby, v případě fyzické osoby podnikající též místo jejího podnikání, nebo obchodní firma nebo název a sídlo právnické osoby.
+>
+> (2) Pro účely tohoto zákona se dále rozumí
+>
+> - a) životním pojištěním pojistná odvětví uvedená v části A přílohy č. 1 k tomuto zákonu,
+>
+> - b) neživotním pojištěním pojistná odvětví uvedená v části B přílohy č. 1 k tomuto zákonu,
+>
+> - c) životním zajištěním přebírání rizik vyplývajících z pojistných smluv životního pojištění,
+>
+> - d) neživotním zajištěním přebírání rizik vyplývajících z pojistných smluv neživotního pojištění,
+>
+> - e) solventností schopnost pojišťovny nebo zajišťovny zabezpečit vlastními zdroji trvalou splnitelnost závazků z pojišťovací nebo zajišťovací činnosti,
+>
+> - f) správou pojištění nebo zajištění činnosti zabezpečující trvání a aktualizaci stavu pojistných nebo zajišťovacích smluv,
+>
+> - g) pojistným kmenem souhrn závazků pojišťovny vyplývajících z pojistných smluv, včetně závazků z bezdůvodného obohacení nebo z protiprávních činů souvisejících s těmito smlouvami,
+>
+> - h) příslušenstvím pojistného kmene práva a povinnosti, které vyplývají z uzavřených pojistných smluv, a aktiva odpovídající tomuto kmeni,
+>
+> - i) kmenem zajišťovacích smluv souhrn závazků zajišťovny vyplývajících ze zajišťovacích smluv, včetně závazků z bezdůvodného obohacení nebo z protiprávních činů souvisejících s těmito smlouvami,
+>
+> - j) příslušenstvím kmene zajišťovacích smluv práva a povinnosti, které vyplývají z uzavřených zajišťovacích smluv, a aktiva odpovídající tomuto kmeni,
+>
+> - k) pojistnými podmínkami smluvní podmínky zpracované pojišťovnou pro uzavírání pojistných smluv pro jednotlivá pojistná odvětví, pro skupiny těchto odvětví nebo pro jednotlivé typy pojištění sjednávaných v rámci pojistného odvětví, zejména všeobecné pojistné podmínky, zvláštní nebo doplňkové pojistné podmínky,
+>
+> - l) asistenčními službami pomoc poskytovaná osobám, které se dostanou do nesnází během cestování nebo při pobytu mimo místo svého bydliště, která spočívá v závazku pojišťovny, která provozuje pojišťovací činnost podle pojistného odvětví uvedeného v části B bodě 18 přílohy č. 1 k tomuto zákonu, poskytnout na základě předchozí úhrady pojistného okamžitě dostupnou pomoc osobě oprávněné podle pojistné smlouvy, pokud se tato osoba dostane do nesnází v důsledku pojistné události, přičemž pomoc může mít formu peněžitého nebo věcného plnění a věcné plnění může být poskytováno na základě smluvního vztahu osobou odlišnou od pojišťovny; za asistenční službu se nepovažuje servis nebo údržba vozidla ani informace o poskytování této služby nebo její zprostředkování,
+>
+> - m) členským státem, ve kterém se nachází pojistné riziko pojištěné pojistnou smlouvou týkající se neživotního pojištění, členský stát,
+>
+> - 1. na jehož území se nacházejí pojištěné budovy, jejich součásti, příslušenství a věci, které se v nich nacházejí, jsou-li pojištěny stejnou pojistnou smlouvou,
+>
+> - 2. kde je registrován pojištěný dopravní prostředek bez ohledu na jeho typ; jde-li o vozidlo odeslané z jednoho členského státu do jiného, pokládá se za členský stát, ve kterém se nachází riziko, v závislosti na rozhodnutí provozovatele vozidla, buď členský stát registrace, nebo cílový členský stát, a to bezprostředně od převzetí vozidla kupujícím po dobu 30 dnů, přestože vozidlo nebylo v cílovém členském státě registrováno,
+>
+> - 3. kde pojistník uzavřel pojistnou smlouvu na dobu 4 a méně měsíců, která se týká pojistných rizik spojených s cestováním bez ohledu na pojistné odvětví, nebo
+>
+> - 4. ve kterém má pojistník jako fyzická osoba bydliště, nebo jako právnická osoba svůj odštěpný závod, ke kterému se pojištění vztahuje, jedná-li se o případy, které nejsou uvedeny v bodech 1 až 3,
+>
+> - n) členským státem závazku členský stát, ve kterém má pojistník, který uzavřel pojistnou smlouvu týkající se životního pojištění, bydliště, nebo je-li pojistník právnickou osobou, členský stát, ve kterém se nachází sídlo nebo pobočka této právnické osoby, ke kterým se smlouva vztahuje,
+>
+> - o) externím zajištěním činností ujednání pojišťovny nebo zajišťovny s poskytovatelem služby, procesu nebo činnosti, jehož prostřednictvím, a to buď přímo nebo prostřednictvím jejich dalšího externího zajištění, bez ohledu na to, zda činnost poskytovatele podléhá dohledu, si pojišťovna nebo zajišťovna zabezpečuje výkon služby, procesu nebo činnosti, kterou by jinak vykonávala sama.
+>
+> (3) Pro účely tohoto zákona se ovládající osobou rozumí osoba, která
+>
+> - a) disponuje většinou hlasovacích práv společníků nebo členů v jiné obchodní korporaci; není-li prokázáno, že jiná osoba disponuje stejným nebo vyšším množstvím hlasovacích práv, má se za to, že osoba, která disponuje alespoň 40 % hlasovacích práv v určité osobě, je ovládající osobou, a že osoby jednající ve shodě, které disponují alespoň 40 % hlasovacích práv v určité osobě, jsou ovládajícími osobami,
+>
+> - b) má právo jmenovat, volit či odvolat většinu členů statutárního nebo kontrolního orgánu jiné obchodní korporace a je zároveň společníkem nebo členem takové korporace,
+>
+> - c) má právo uplatňovat rozhodující vliv v jakékoliv jiné obchodní korporaci, jejíž je společníkem nebo členem, na základě smlouvy, kterou s ní uzavřela, nebo podle jejích stanov, společenské nebo zakladatelské smlouvy, umožňuje-li právo, jímž se taková korporace řídí, aby se těmto smlouvám nebo stanovám, společenským nebo zakladatelským smlouvám podřídila,
+>
+> - d) je společníkem nebo členem jakékoli jiné obchodní korporace a
+>
+> - 1. většina členů statutárního nebo kontrolního orgánu této korporace byla jmenována výhradně pomocí využití jejích hlasovacích práv, nemá-li však jiná osoba vůči této ovládané osobě práva uvedená v písmenech a), b) nebo c), nebo
+>
+> - 2. vykonává na základě dohody uzavřené s ostatními společníky nebo členy této korporace většinu hlasovacích práv společníků nebo členů v této korporaci, nebo
+>
+> - e) jinak než podle písmen a) až d) skutečně uplatňuje rozhodující vliv v jiné osobě.
+>
+> (4) Pro účely odstavce 3
+>
+> - a) písm. a), b) a d) musí být k hlasovacím, jmenovacím a odvolacím právům ovládající osoby přičtena práva všech ostatních ovládaných osob a práva náležející kterékoli osobě jednající vlastním jménem, ale na účet ovládající osoby nebo jiné ovládané osoby,
+>
+> - b) písm. a), b) a d) se od práv uvedených v odstavci 3 musí odečíst práva
+>
+> - 1. příslušející k akciím nebo podílům drženým na účet jakékoli osoby jiné než ovládající osoby nebo některé ovládané osoby, nebo
+>
+> - 2. příslušející k akciím nebo podílům drženým jako záruka, jsou-li tato práva vykonávána v souladu s přijatými pokyny nebo je-li držení těchto akcií nebo podílů pro držící obchodní závod součástí běžné obchodní činnosti ve spojitosti s poskytováním půjček, za podmínky, že hlasovací práva jsou vykonávána v zájmu osoby poskytující záruku,
+>
+> - c) písm. a) a d) musí být od souhrnu hlasovacích práv společníků ovládané osoby odečtena hlasovací práva příslušející k akciím nebo podílům, které jsou v držení této osoby, jí ovládané osoby nebo osoby jednající vlastním jménem, ale na účet těchto osob.
+>
+> (5) Při posuzování přímého nebo nepřímého podílu se nepřihlíží k hlasovacím právům ani podílům drženým bankami, spořitelními a úvěrními družstvy nebo obchodníky s cennými papíry v důsledku upsání nebo umístění finančních nástrojů na základě pevného závazku převzetí7), pokud práva spojená s tímto podílem nejsou vykonávána ani jinak využívána k zasahování do řízení emitenta a pokud do jednoho roku ode dne jejich nabytí dojde ke změně jejich vlastníka.
+>
+> (6) Pro účely tohoto zákona se dále rozumí
+>
+> - a) ovládanou osobou osoba, vůči níž je jiná osoba v postavení ovládající osoby; všechny ovládané osoby ovládaných osob jsou rovněž považovány za ovládané osoby ovládající osoby, která je v čele těchto osob,
+>
+> - b) osobou s účastí na jiné osobě
+>
+> - 1. ovládající osoba,
+>
+> - 2. jiná než ovládající osoba, která drží účast na jiné osobě,
+>
+> - 3. osoba propojená s jinou osobou vztahem jednotného řízení, nebo
+>
+> - 4. osoba, která má během účetního období s jinou osobou převážně tytéž osoby s funkcí člena statutárního nebo kontrolního orgánu, aniž by mezi nimi byl vztah ovládání nebo jednotného řízení,
+>
+> - c) přidruženou osobou
+>
+> - 1. ovládaná osoba,
+>
+> - 2. jiná než ovládaná osoba, ve které drží jiná osoba účast,
+>
+> - 3. řízená osoba propojená s jinou osobou vztahem jednotného řízení, nebo
+>
+> - 4. osoba, která má během účetního období s jinou osobou převážně tytéž osoby s funkcí člena statutárního nebo kontrolního orgánu nebo osoby s účastí na jejich řízení, aniž by mezi nimi byl vztah ovládání nebo jednotného řízení,
+>
+> - d) účastí přímý nebo nepřímý podíl posuzovaný samostatně nebo jejich součet představující alespoň 20 % na základním kapitálu nebo hlasovacích právech jiné osoby,
+>
+> - e) kvalifikovanou účastí přímý nebo nepřímý podíl na základním kapitálu nebo hlasovacích právech právnické osoby nebo jejich součet, který představuje alespoň 10 % nebo umožňuje vykonávat významný vliv na řízení této právnické osoby; podíl se posuzuje obdobně jako podíl na hlasovacích právech emitenta podle [[zákona upravujícího podnikání na kapitálovém trhu|zákona upravujícího podnikání na kapitálovém trhu]],
+>
+> - f) nepřímým podílem podíl držený prostřednictvím ovládané osoby nebo skupiny osob jednajících ve shodě včetně podílu na hlasovacích právech z cenných papírů,
+>
+> - g) pojišťovací holdingovou osobou ovládající osoba, která není smíšenou finanční holdingovou osobou podle zákona upravujícího doplňkový dohled nad finančními konglomeráty a jejíž hlavní činností je získávat a držet podíly v ovládaných osobách, které jsou výlučně nebo převážně pojišťovnami nebo zajišťovnami, přičemž alespoň jedna z těchto ovládaných osob je tuzemskou pojišťovnou nebo tuzemskou zajišťovnou,
+>
+> - h) pojišťovací holdingovou osobou se smíšenou činností ovládající osoba jiná než pojišťovna nebo zajišťovna, pojišťovací holdingová osoba nebo smíšená finanční holdingová osoba podle zákona upravujícího finanční konglomeráty, jejíž alespoň jedna ovládaná osoba je tuzemskou pojišťovnou nebo tuzemskou zajišťovnou,
+>
+> - i) skupinou 2 nebo více osob, mezi kterými existuje úzké propojení,
+>
+> - j) úzkým propojením vztah, kdy jsou 2 nebo více osob propojeny takovým způsobem, že
+>
+> - 1. jedna z osob je přidruženou osobou jiné osoby, a to přímo nebo prostřednictvím jiné osoby nebo osob,
+>
+> - 2. 2 osoby jsou ovládanými osobami téže ovládající osoby, a to přímo nebo prostřednictvím jiné osoby nebo osob, nebo
+>
+> - 3. většinu členů statutárních nebo kontrolních orgánů jedné osoby tvoří po většinu účetního období osoby, které jsou ve statutárních nebo kontrolních orgánech jiné osoby nebo osob, které jsou s jinou osobou v úzkém propojení podle bodů 1 až 3, ledaže jde o osoby, které vykonávají takovou funkci v rámci svého podnikání na profesionálním základě a není-li účelem výkonu jejich funkce vzájemné propojení aktivit osob, v nichž je funkce člena statutárního, řídícího nebo dozorčího orgánu vykonávána,
+>
+> - k) osobou s klíčovou funkcí osoba, která skutečně řídí pojišťovnu nebo zajišťovnu nebo kontroluje činnost pojišťovny nebo zajišťovny nebo osoba odpovědná za řízení rizik, kontrolu zajišťování shody s předpisy, vnitřní audit nebo pojistněmatematické činnosti, anebo osoba odpovědná za výkon jiné činnosti určené pojišťovnou nebo zajišťovnou jako klíčové; jde-li o monistický systém vnitřní struktury tuzemské pojišťovny nebo zajišťovny, je osobou, která ji řídí, také člen její správní rady,
+>
+> - l) operací uvnitř skupiny transakce, v jejímž důsledku se pojišťovna nebo zajišťovna stává při úhradě svého dluhu nebo splnění pohledávky přímo či nepřímo závislou na rozhodování jiných osob ve stejné skupině nebo na rozhodování jiné osoby úzce propojené s osobami v této skupině.
+>
+> (7) Pro účely tohoto zákona se dále rozumí
+>
+> - a) upisovacím rizikem riziko ztráty nebo změny vyvolávající ztrátu hodnoty závazku z pojištění nebo zajištění způsobené nepřiměřenými předpoklady při stanovení výše pojistného, zajistného nebo technických rezerv,
+>
+> - b) tržním rizikem riziko ztráty nebo nepříznivé změny ve finanční situaci vyplývající přímo nebo nepřímo z kolísání úrovně a volatility tržních cen aktiv, závazků a finančních nástrojů,
+>
+> - c) úvěrovým rizikem riziko ztráty nebo nepříznivé změny ve finanční situaci vyplývající z kolísání úvěrového hodnocení emitentů cenných papírů, protistran a jakýchkoli dlužníků, jimž jsou pojišťovny a zajišťovny vystaveny, v podobě rizika selhání protistrany nebo rizika kreditního rozpětí nebo koncentrace tržních rizik,
+>
+> - d) operačním rizikem riziko ztráty vyplývající z nepřiměřenosti nebo selhání vnitřních procesů, zaměstnanců nebo osob činných pro pojišťovnu nebo zajišťovnu, systémů nebo z vnějších událostí,
+>
+> - e) rizikem likvidity riziko neschopnosti pojišťovny nebo zajišťovny zpeněžit své investice a další aktiva určená k úhradě svých dluhů v okamžiku, kdy se stávají splatnými,
+>
+> - f) rizikem koncentrace všechna vystavení rizikům s možnou ztrátou, která je dostatečně velká, aby ohrozila solventnost nebo finanční situaci pojišťovny nebo zajišťovny,
+>
+> - g) technikami snižování rizik všechny techniky, které umožňují pojišťovně nebo zajišťovně přenést část nebo všechna jejich rizika na jinou smluvní stranu,
+>
+> - h) mírou rizika matematická funkce, která přiřazuje peněžní částku dané prognóze rozdělení pravděpodobnosti a monotónně roste s úrovní vystavení rizikům, která jsou podkladem dané prognózy rozdělení pravděpodobnosti,
+>
+> - i) externí ratingovou agenturou právnická osoba vydávající úvěrové hodnocení na základě povolení uděleného v souladu s přímo použitelným předpisem Evropské unie upravujícím ratingové agentury41) nebo centrální banka vydávající úvěrové hodnocení, na kterou se nevztahuje tento přímo použitelný předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b925156bf39f9c31ae3b -->
+
 ## Část druhá Hlava I — Základní ustanovení (§§ 4–12)
 
 ### § 4 — Základní podmínky pro provozování činností v pojišťovnictví
@@ -600,6 +964,60 @@ Ustanovení transponuje čl. 20 Solvency II — **head office requirement**. Poj
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d4003b1644909e06be12 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 4 — Základní podmínky pro provozování činností v pojišťovnictví
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Provozovat na území České republiky pojišťovací činnost může pouze tuzemská pojišťovna a pojišťovna z třetího státu, které bylo Českou národní bankou uděleno povolení k provozování této činnosti, nebo pojišťovna z jiného členského státu, a to na základě práva zřizovat pobočky nebo na základě svobody dočasně poskytovat služby.
+>
+> (2) Provozovat na území České republiky zajišťovací činnost může pouze tuzemská zajišťovna a, nestanoví-li tento zákon jinak, zajišťovna z třetího státu, které bylo Českou národní bankou uděleno povolení k provozování této činnosti, nebo zajišťovna z jiného členského státu, a to na základě práva zřizovat pobočky nebo na základě svobody dočasně poskytovat služby.
+>
+> (3) Provozovat na území České republiky zajišťovací činnost může také tuzemská pojišťovna a, nestanoví-li tento zákon jinak, pojišťovna z třetího státu, které bylo Českou národní bankou uděleno povolení k provozování této činnosti, nebo pojišťovna z jiného členského státu, a to na základě práva zřizovat pobočky nebo na základě svobody dočasně poskytovat služby.
+>
+> (4) Žádost o udělení povolení k činnosti nebo o nabytí účasti upravená tímto zákonem nesmí být Českou národní bankou posuzována s ohledem na ekonomické potřeby trhu. Česká národní banka povolení udělí, jestliže jsou splněny podmínky stanovené tímto zákonem.
+>
+> (5) Provozovat činnost podle odstavců 1 a [[#§ 2|2]] může pouze pojišťovna nebo zajišťovna, jejíž skutečné sídlo a sídlo zapsané ve veřejném nebo obdobném rejstříku je umístěno ve stejném státě, jako je stát jejího domovského dohledového orgánu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d4003b1644909e06be12 -->
+
 ### § 5 — Ochrana obchodní firmy
 
 > **§ 5**
@@ -652,6 +1070,54 @@ Výjimky v § 5 odst. 2 (závěr): slovo „pojišťovna" v obchodní firmě moh
 **Typicky rozhodné důkazy / podklady:** výpis z obchodního rejstříku, doklad o povolení/jeho absenci, marketingové materiály, doklad o zápisu firmy.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b52b160984dd42ea1c91 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 5 — Ochrana obchodní firmy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Tuzemská pojišťovna uvede ve své obchodní firmě slovo „pojišťovna“. Tuzemská zajišťovna uvede ve své obchodní firmě slovo „zajišťovna“.
+>
+> (2) Slovo „pojišťovna“, jeho překlad nebo slova, v jejichž základě se tato slova nebo jejich tvary vyskytují, je oprávněna užívat v obchodní firmě pouze právnická osoba, která je oprávněna provozovat pojišťovací činnost, s výjimkou pojišťovny, jejíž činnost je upravena jiným právním předpisem a s výjimkou pojišťovacího zprostředkovatele a samostatného likvidátora pojistných událostí. Slovo „zajišťovna“, jeho překlad nebo slova, v jejichž základě se toto slovo nebo jeho tvar vyskytuje, je oprávněna užívat v obchodní firmě pouze právnická osoba, která je oprávněna provozovat zajišťovací činnost, s výjimkou pojišťovacího zprostředkovatele oprávněného provozovat zprostředkování zajištění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b52b160984dd42ea1c91 -->
 
 ### § 6 — Další požadavky na provozování činností
 
@@ -746,6 +1212,66 @@ Odst. 8 řeší vztah k **GDPR** (nařízení (EU) 2016/679): zpracování osobn
 **Typicky rozhodné důkazy / podklady:** dokumentace ŘKS, investiční směrnice, smlouvy o účasti v korporacích, záznamy o likvidaci pojistných událostí, evidence akcií.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6d190a6cd60579112cca generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 6 — Další požadavky na provozování činností v pojišťovnictví
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Pojišťovna nebo zajišťovna je oprávněna provozovat pouze pojišťovací nebo zajišťovací činnost v rozsahu povolení uděleného jí orgánem dohledu. Tuto činnost je pojišťovna nebo zajišťovna povinna provozovat s odbornou péčí a obezřetně.
+>
+> (2) Provozování činnosti s odbornou péčí zejména znamená, že pojišťovna nebo zajišťovna jedná kvalifikovaně, čestně a spravedlivě a pojišťovna při provozování pojišťovací činnosti též s přihlédnutím k nejlepšímu zájmu pojistníků, pojištěných a oprávněných osob; tím nejsou dotčeny povinnosti pojišťovny podle zákona upravujícího distribuci pojištění a zajištění.
+>
+> (3) Provozování činnosti obezřetně zejména znamená, že pojišťovna nebo zajišťovna neprovádí tuto činnost způsobem, který poškozuje její majetek či majetek jí svěřený třetími osobami nebo ohrožuje její bezpečnost nebo stabilitu nebo bezpečnost nebo stabilitu osob s ní propojených.
+>
+> (4) Za účelem plnění povinností podle odstavců 1 až 3 je tuzemská pojišťovna, pojišťovna z třetího státu, tuzemská zajišťovna a zajišťovna z třetího státu povinna vytvořit a po celou dobu své činnosti udržovat funkční a efektivní řídicí a kontrolní systém, pravidelně z něj vyhodnocovat informace a včas přijímat odpovídající opatření.
+>
+> (5) Tuzemská pojišťovna a tuzemská zajišťovna nesmí být neomezeně ručícím společníkem obchodní korporace, včetně korporace se sídlem na území jiného státu, než je Česká republika.
+>
+> (6) Tuzemská pojišťovna nebo tuzemská zajišťovna založená jako akciová společnost vydává akcie, s nimiž je spojeno hlasovací právo, pouze v zaknihované podobě.
+>
+> (7) Pojišťovna a zajišťovna postupuje ve své činnosti tak, aby nedocházelo ke ztížení nebo znemožnění výkonu dohledu podle tohoto zákona.
+>
+> (8) Pojišťovna a zajišťovna při provozování pojišťovací nebo zajišťovací činnosti zpracovává osobní údaje včetně rodných čísel; takové zpracování osobních údajů se považuje za zpracování nezbytné pro dodržení právní povinnosti správce podle zákona upravujícího ochranu osobních údajů11).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6d190a6cd60579112cca -->
 
 ### § 7 — Základní ustanovení o řídicím a kontrolním systému
 
@@ -845,6 +1371,68 @@ Pohotovostní plány (business continuity plans, BCP) a plány obnovy (disaster 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e5f0945587ec7c0cbb03 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 7 — Základní ustanovení o řídicím a kontrolním systému
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Tuzemská pojišťovna a tuzemská zajišťovna zavede, udržuje a uplatňuje účinný řídicí a kontrolní systém, který zajišťuje řádné a obezřetné řízení její činnosti a dodržování požadavků podle § 7 až 7i; tento systém zahrnuje nejméně
+>
+> - a) přiměřenou a jasně vymezenou organizační strukturu s jasným určením a vhodným oddělením povinností,
+>
+> - b) účinný způsob předávání informací,
+>
+> - c) řízení rizik, kontrolu zajišťování shody s předpisy, vnitřní audit a pojistněmatematické činnosti,
+>
+> - d) postupy pro schvalování každého pojistného produktu a jeho významných změn před jeho distribucí zákazníkům podle [[zákona upravujícího distribuci pojištění a zajištění|zákona upravujícího distribuci pojištění a zajištění]] a
+>
+> - e) systém odměňování osob podle [[#§ 8|§ 8]].
+>
+> (2) Řídicí a kontrolní systém je přiměřený povaze, rozsahu a složitosti činností tuzemské pojišťovny nebo tuzemské zajišťovny a je předmětem pravidelného vnitřního přezkumu.
+>
+> (3) Tuzemská pojišťovna a tuzemská zajišťovna musí mít svým statutárním orgánem schválenou písemnou koncepci, pokud jde alespoň o řízení rizik, vnitřní kontrolu, vnitřní audit, případně též, pokud jde o externí zajištění činností, a zajistí, aby byla tato koncepce naplňována; jde-li o monistický systém vnitřní struktury pojišťovny nebo zajišťovny, rozumí se pro účely tohoto zákona statutárním orgánem správní rada. Pravidelně, nejméně však jednou ročně, přezkoumává její funkčnost. Její úpravu je povinna provést v souvislosti s jakoukoli významnou změnou ve svém řídicím a kontrolním systému nebo v některé oblasti své činnosti.
+>
+> (4) K zajištění kontinuity a řádného a obezřetného výkonu svých činností tuzemská pojišťovna a tuzemská zajišťovna přijme vhodná opatření, včetně vypracování pohotovostních plánů. K tomuto účelu používá vhodné a přiměřené systémy, zdroje a postupy a zavede a řídí sítě a informační systémy. Požadavky na sítě a informační systémy upravuje přímo použitelný předpis Evropské unie upravující digitální provozní odolnost finančního sektoru45).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 8
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e5f0945587ec7c0cbb03 -->
+
 ### § 7a — Požadavky na osoby s klíčovými funkcemi (fit & proper)
 
 > **§ 7a**
@@ -918,6 +1506,58 @@ Pojišťovna musí každou změnu osoby s klíčovou funkcí oznámit ČNB **bez
 **Typicky rozhodné důkazy / podklady:** výpis z Rejstříku trestů (vč. zahraničních dokladů dle § 11), doklad o kvalifikaci a praxi, doklady o insolvenci/sankcích, zápisy z orgánů, oznámení ČNB.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5ffd1684607c55e6d22c generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 7a — Požadavky na osoby s klíčovými funkcemi
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Tuzemská pojišťovna a tuzemská zajišťovna zajistí, aby všechny osoby s klíčovými funkcemi pojišťovny nebo zajišťovny byly způsobilé a důvěryhodné a nebyly ve střetu zájmů, který by byl na újmu jejího řádného a obezřetného řízení.
+>
+> (2) Tuzemská pojišťovna a tuzemská zajišťovna bez zbytečného odkladu České národní bance sdělí změny osob podle odstavce 1 spolu se všemi informacemi a doklady potřebnými k posouzení, zda tyto osoby jsou způsobilé a důvěryhodné.
+>
+> (3) Pokud osoba podle odstavce 1 přestane splňovat požadavky podle odstavce 1, oznámí bez zbytečného odkladu tuto skutečnost příslušné tuzemské pojišťovně nebo tuzemské zajišťovně, která o tom bez zbytečného odkladu informuje Českou národní banku.
+>
+> (4) Ten, kdo navrhuje změnu osoby člena statutárního orgánu tuzemské pojišťovny nebo tuzemské zajišťovny, doloží tomu, kdo o této změně rozhoduje, že tato osoba splňuje požadavky podle odstavce 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5ffd1684607c55e6d22c -->
 
 ### § 7b — Řízení rizik (risk management function)
 
@@ -1055,6 +1695,102 @@ Pojišťovna může pro výpočet SCR použít buď **standardní vzorec** (§ 7
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5200f377d80f6df68d72 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 7b — Řízení rizik
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Tuzemská pojišťovna a tuzemská zajišťovna musí mít účinný systém řízení rizik zahrnující strategie a postupy hlášení nezbytné pro soustavnou identifikaci, měření, sledování, správu a vnitřní ohlašování rizik, kterým je nebo by mohla být vystavena. Systém řízení rizik musí umožňovat vyhodnocování rizik jednotlivě i v jejich souhrnu, včetně vyhodnocování jejich vzájemných závislostí. Systém řízení rizik je vhodně začleněn do organizační struktury pojišťovny nebo zajišťovny a osoby uvedené v § 7a odst. 1 jej musí v rozhodovacích procesech náležitě respektovat.
+>
+> (2) Systém řízení rizik se vztahuje na rizika zahrnutá do výpočtu solventnostního kapitálového požadavku podle [[#§ 74|§ 74]] a na rizika, která nejsou zahrnuta nebo nejsou plně zahrnuta do jeho výpočtu; systém řízení rizik se vztahuje nejméně na
+>
+> - a) upisování pojištění a tvorbu technických rezerv,
+>
+> - b) řízení aktiv a pasiv,
+>
+> - c) investice, zejména deriváty a podobné závazky,
+>
+> - d) řízení rizika likvidity a rizika koncentrace,
+>
+> - e) řízení operačního rizika a
+>
+> - f) zajištění a další techniky snižování rizik.
+>
+> (3) Písemná koncepce podle § 7 odst. 3 zahrnuje postupy a techniky řízení rizik podle odstavců 2 a [[#§ 6|6]] a v případě uplatnění koeficientu volatility také kritéria jejího použití. Součástí této koncepce je plán likvidity zohledňující peněžní toky ve vztahu k aktivům a závazkům, podléhají-li vyrovnávací úpravě podle [[#§ 54b|§ 54b]] nebo koeficientu volatility podle [[#§ 54c|§ 54c]] a [[#§ 54d|54d]]. V případě investičního rizika, které zahrnuje zejména riziko tržní, úvěrové riziko a riziko likvidity, je tuzemská pojišťovna a tuzemská zajišťovna povinna České národní bance prokázat dodržení postupu podle [[#§ 60|§ 60]] a [[#§ 61|61]].
+>
+> (4) Používá-li tuzemská pojišťovna nebo tuzemská zajišťovna při výpočtu technických rezerv a solventnostního kapitálového požadavku hodnocení úvěrového rizika zpracovaného externí ratingovou agenturou, nespoléhá pouze na takové hodnocení a použije, je-li to možné, současně i jiný vhodný způsob tohoto hodnocení.
+>
+> (5) Pokud tuzemská pojišťovna nebo tuzemská zajišťovna používá nebo hodlá používat částečný nebo úplný interní model pro výpočet solventnostního kapitálového požadavku podle [[#§ 77|§ 77]], vztahuje se řízení rizik také na povinnost
+>
+> - a) navrhnout a zavést daný model,
+>
+> - b) testovat a ověřit platnost modelu,
+>
+> - c) vést dokumentaci k modelu a jeho změnám,
+>
+> - d) analyzovat funkčnost modelu a vypracovávat o něm souhrnné zprávy a
+>
+> - e) informovat statutární nebo kontrolní orgán o funkčnosti interního modelu, o oblastech, ve kterých je nutno zajistit zlepšení, a podávat tomuto orgánu informace o postupu a výsledcích odstraňování zjištěných nedostatků.
+>
+> (6) Řízení aktiv a pasiv podle odstavce 2 písm. b) zahrnuje pravidelné vyhodnocování citlivosti technických rezerv a použitelného kapitálu
+>
+> - a) vůči předpokladům extrapolace příslušné bezrizikové výnosové křivky a
+>
+> - b) v případě použití vyrovnávací úpravy podle [[#§ 54b|§ 54b]]
+>
+> - 1. vůči předpokladům, na kterých je založen její výpočet, včetně výpočtu základního rozpětí, a možného vlivu nuceného prodeje aktiv na použitelný kapitál,
+>
+> - 2. vůči změnám složení přiřazeného portfolia aktiv a
+>
+> - 3. na snížení vyrovnávací úpravy na nulovou hodnotu, nebo
+>
+> - c) v případě použití koeficientu volatility podle [[#§ 54c|§ 54c]] také
+>
+> - 1. vůči předpokladům pro výpočet koeficientu volatility včetně možného dopadu nuceného prodeje aktiv na použitelný kapitál a
+>
+> - 2. na snížení koeficientu volatility na nulovou hodnotu.
+>
+> (7) Pravidla a četnost vyhodnocování podle odstavce 6 stanoví prováděcí právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7a, § 74, § 7, § 6, § 54b, § 54c, § 54d, § 60, § 61, § 77
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5200f377d80f6df68d72 -->
+
 ### § 7c — Vlastní posuzování rizik a solventnosti (ORSA)
 
 > **§ 7c**
@@ -1138,6 +1874,66 @@ ORSA se provádí **pravidelně** (zpravidla ročně) a **neprodleně po význam
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5750e404b133358cd641 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 7c — Vlastní posuzování rizik a solventnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Tuzemská pojišťovna a tuzemská zajišťovna jako součást svého systému řízení rizik provádí své vlastní posuzování rizik a solventnosti; posuzování rizik a solventnosti zahrnuje nejméně
+>
+> - a) veškeré požadavky na solventnost s ohledem na individuální rizikový profil, schválené limity rozsahu rizika a celkovou strategii pojišťovny nebo zajišťovny,
+>
+> - b) trvalé dodržování požadavků týkajících se technických rezerv podle § 52 až 57 a kapitálových požadavků podle [[#§ 73|§ 73]] a [[#§ 79|79]]; v případě použití vyrovnávací úpravy nebo koeficientu volatility se vyhodnocení dodržování kapitálových požadavků provede jak se zohledněním, tak i bez zohlednění těchto úprav, a
+>
+> - c) rozsah, kterým se rizikový profil pojišťovny nebo zajišťovny odchyluje od předpokladů k solventnostnímu kapitálovému požadavku podle [[#§ 73|§ 73]], vypočítanému podle standardního vzorce podle [[#§ 76|§ 76]] nebo prostřednictvím částečného nebo úplného interního modelu podle [[#§ 77|§ 77]].
+>
+> (2) Pro účely odstavce 1 písm. a) tuzemská pojišťovna nebo tuzemská zajišťovna zavede, udržuje a uplatňuje postupy, které jsou přiměřené povaze, rozsahu a složitosti rizik spojených s její činností a které jí umožňují dostatečně spolehlivě zjišťovat a posuzovat rizika, kterým je nebo by mohla být vystavena v krátkodobém a dlouhodobém výhledu. Oprávněnost používaných metod vlastního posouzení rizik a solventnosti musí být prokazatelná.
+>
+> (3) V případě podle odstavce 1 písm. c), pokud tuzemská pojišťovna nebo tuzemská zajišťovna používá interní model, provede posouzení spolu s opětovnou kalibrací, která přizpůsobí interní hodnoty rizika míře rizika a kalibraci solventnostního kapitálového požadavku.
+>
+> (4) Vlastní posuzování rizik a solventnosti tvoří nedílnou součást celkové strategie tuzemské pojišťovny nebo tuzemské zajišťovny, které jej zohledňují ve svých strategických rozhodnutích. Pojišťovna nebo zajišťovna prokazuje České národní bance vhodnost metod použitých k tomuto posuzování.
+>
+> (5) Pojišťovna a zajišťovna provádí posouzení rizik a solventnosti pravidelně a neprodleně po jakékoli významné změně ve svém rizikovém profilu a o výsledcích každého posouzení informuje Českou národní banku. Posouzení rizik a solventnosti neslouží k výpočtu kapitálového požadavku. Solventnostní kapitálový požadavek lze upravit pouze v souladu s [[#§ 90a|§ 90a]], [[#§ 91c|91c]], [[#§ 95a|95a]] a [[#§ 95b|95b]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 52, § 73, § 79, § 76, § 77, § 90a, § 91c, § 95a, § 95b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5750e404b133358cd641 -->
+
 ### § 7d — Vnitřní kontrola (compliance function)
 
 > **§ 7d**
@@ -1199,6 +1995,54 @@ Compliance function je často kombinována s funkcí prevence praní špinavých
 **Typicky rozhodné důkazy / podklady:** dokumentace compliance function, registr právních změn a jejich dopadů, návrhy předložené orgánům, vymezení rolí, AML dokumentace.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=172de305d41750bdf8cd generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 7d — Vnitřní kontrola
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Tuzemská pojišťovna a tuzemská zajišťovna zavede, udržuje a uplatňuje účinný systém vnitřní kontroly, který zahrnuje nejméně postupy účtování a postupy řízení, rámec vnitřní kontroly, vhodné mechanismy informování na všech úrovních pojišťovny nebo zajišťovny a kontrolu zajišťování shody s právními předpisy, kterými se řídí jejich činnost.
+>
+> (2) Kontrola zajišťování souladu činnosti tuzemské pojišťovny nebo tuzemské zajišťovny s právními předpisy podle odstavce 1 zahrnuje předkládání návrhů statutárnímu a kontrolnímu orgánu pojišťovny nebo zajišťovny k zajišťování tohoto souladu, předkládání informací o vyhodnocení možných dopadů jakýchkoli změn v právním prostředí na provozování činnosti tuzemské pojišťovny nebo tuzemské zajišťovny a rozpoznávání a vyhodnocování rizika nesouladu s těmito právními předpisy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=172de305d41750bdf8cd -->
 
 ### § 7e — Vnitřní audit
 
@@ -1266,6 +2110,56 @@ Statutární orgán (nebo kontrolní orgán) je povinen **přijmout opatření k
 **Typicky rozhodné důkazy / podklady:** statut vnitřního auditu, organizační schéma a reportovací linky, auditní zprávy, zápisy orgánů o přijatých opatřeních.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=36e4d6884501b0db4988 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 7e — Vnitřní audit
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Tuzemská pojišťovna a tuzemská zajišťovna zavede, udržuje a uplatňuje účinný vnitřní audit, který zahrnuje posuzování vhodnosti a efektivnosti systému vnitřní kontroly a dalších prvků řídicího a kontrolního systému.
+>
+> (2) Vnitřní audit je objektivní a nezávislý na provozních činnostech.
+>
+> (3) Ke všem zjištěním a doporučením učiněným při provádění vnitřního auditu přijme statutární nebo kontrolní orgán tuzemské pojišťovny nebo tuzemské zajišťovny odpovídající opatření a zajistí jejich provedení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=36e4d6884501b0db4988 -->
 
 ### § 7f — Pojistněmatematické činnosti (actuarial function)
 
@@ -1363,6 +2257,74 @@ Actuarial function lze outsourcovat za podmínek § 7g — typické u menších 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e7e2f04ad79ad68d68c8 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 7f — Pojistněmatematické činnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Tuzemská pojišťovna a tuzemská zajišťovna zavede a udržuje účinný systém zajišťující výkon pojistněmatematických činností, který zahrnuje
+>
+> - a) koordinaci výpočtu technických rezerv,
+>
+> - b) zajišťování přiměřenosti používaných metodik, podkladových modelů a předpokladů aplikovaných při výpočtu technických rezerv,
+>
+> - c) posuzování dostatečnosti a kvality údajů používaných při výpočtu technických rezerv,
+>
+> - d) srovnávání hodnoty nejlepších odhadů se zkušeností,
+>
+> - e) informování statutárního nebo kontrolního orgánu o spolehlivosti a přiměřenosti výpočtu technických rezerv,
+>
+> - f) dohlížení na výpočet technických rezerv podle § 52 až 57,
+>
+> - g) posuzování celkové koncepce upisování včetně způsobu stanovení sazeb pojistného a jejich přiměřenosti,
+>
+> - h) posuzování přiměřenosti zajistných ujednání,
+>
+> - i) činnosti přispívající k účinnosti systému řízení rizik, zejména konstrukci rizikových modelů, které jsou podkladem pro výpočet kapitálových požadavků podle § 73 až 79b a pro vlastní posuzování rizik a solventnosti podle [[#§ 7c|§ 7c]], a
+>
+> - j) posuzování souladu rozdělení výnosů z investování s ujednáním pojistné smlouvy.
+>
+> (2) Výkonem činností podle odstavce 1 může pojišťovna nebo zajišťovna pověřit pouze osobu, která prokáže znalosti z oblasti pojistné a finanční matematiky a odborné znalosti a zkušenosti s profesními a dalšími standardy odpovídajícími vykonávané činnosti tak, aby byly vykonávány osobami se znalostmi a zkušenostmi přiměřenými povaze, rozsahu a složitosti rizik spojených s činností pojišťovny nebo zajišťovny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 52, § 73, § 7c
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e7e2f04ad79ad68d68c8 -->
+
 ### § 7g — Pravidla pro externí zajištění činností (outsourcing)
 
 > **§ 7g**
@@ -1458,6 +2420,72 @@ Outsourcing do **třetích zemí** je předmětem zvláštních pravidel v EIOPA
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=330973f8cca94f928b14 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 7g — Pravidla pro externí zajištění činností
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Zajišťuje-li tuzemská pojišťovna nebo tuzemská zajišťovna externě svoji určitou činnost, není tím dotčena její odpovědnost za plnění povinností stanovených tímto zákonem nebo přímo použitelným předpisem Evropské unie.
+>
+> (2) Pojišťovna nebo zajišťovna podle odstavce 1 zavede opatření k vyloučení vzniku nepřiměřeného rizika vyplývajícího ze selhání poskytovatele služby a zajistí
+>
+> - a) součinnost poskytovatele služby s pojišťovnou nebo zajišťovnou a s Českou národní bankou a
+>
+> - b) přístup orgánů pojišťovny nebo zajišťovny, České národní banky nebo jiného orgánu dohledu, kterému pojišťovna nebo zajišťovna podléhá, a auditora podle § 80 odst. 2 k údajům o takto zabezpečované činnosti pojišťovny nebo zajišťovny.
+>
+> (3) Pojišťovna nebo zajišťovna podle odstavce 1 má v rámci řídicího a kontrolního systému písemnou koncepci pro externí zajištění některých činností.
+>
+> (4) Externí zajištění rozhodujících nebo významných činností je zakázáno, pokud by vedlo k
+>
+> - a) podstatnému zhoršení kvality řídicího a kontrolního systému pojišťovny nebo zajišťovny,
+>
+> - b) nadměrnému zvýšení operačního rizika,
+>
+> - c) zhoršení možnosti České národní banky nebo jiného orgánu dohledu, kterému pojišťovna nebo zajišťovna podléhá, sledovat plnění jejích povinností, nebo
+>
+> - d) narušení kvality a nepřetržitého poskytování služeb pojistníkům.
+>
+> (5) Tuzemská pojišťovna a tuzemská zajišťovna informuje předem Českou národní banku o každém svém rozhodnutí externě zajistit rozhodující nebo významnou činnost. O každém následném závažném vývoji takto zajištěné provozní činnosti informuje Českou národní banku bez zbytečného odkladu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 80
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=330973f8cca94f928b14 -->
+
 ### § 7h — ŘKS na individuálním a skupinovém základě
 
 > **§ 7h**
@@ -1512,6 +2540,54 @@ Tento dvojí pohled odráží Solvency II Title III (group supervision, čl. 212
 **Typicky rozhodné důkazy / podklady:** organizační schéma skupiny, solo a group dokumentace ŘKS, popis informačních toků pro účely dohledu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4735434d84adbe866237 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 7h — Řídicí a kontrolní systém na individuálním základě a na úrovni skupiny
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Tuzemská pojišťovna nebo tuzemská zajišťovna zavede, udržuje a uplatňuje řídicí a kontrolní systém na individuálním základě.
+>
+> (2) Řídicí a kontrolní systém na úrovni skupiny se řídí [[#§ 92c|§ 92c]]. Zásady a postupy řízení, organizační uspořádání, postupy a mechanismy používané členy ve skupině jsou vzájemně souladné a propojené a schopné produkovat informace potřebné pro účely rozhodovacích procesů v rámci skupiny a pro účely výkonu dohledu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 92c
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4735434d84adbe866237 -->
 
 ### § 7i — Prováděcí opatření (delegace na nařízení EU)
 
@@ -1569,6 +2645,60 @@ Tento dvojí pohled odráží Solvency II Title III (group supervision, čl. 212
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d63c42b673e53c615233 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 7i — Prováděcí opatření
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> Přímo použitelným předpisem Evropské unie se řídí
+>
+> - a) prvky systémů podle [[#§ 7|§ 7]], 7b až 7e,
+>
+> - b) činnosti podle [[#§ 7b|§ 7b]] a 7d až 7f,
+>
+> - c) požadavky podle [[#§ 7a|§ 7a]] a činnosti, které jim podléhají, a
+>
+> - d) podmínky pro externí zajištění služeb nebo pojišťovacích nebo zajišťovacích činností, zejména u poskytovatelů služeb, kteří mají sídlo ve třetích státech.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7, § 7b, § 7a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d63c42b673e53c615233 -->
+
 ### § 7j — ŘKS pobočky pojišťovny ze třetího státu
 
 > **§ 7j**
@@ -1616,6 +2746,52 @@ Tento dvojí pohled odráží Solvency II Title III (group supervision, čl. 212
 **Typicky rozhodné důkazy / podklady:** doklad o organizaci pobočky (odštěpného závodu), dokumentace postupů a klíčových funkcí na úrovni pobočky, vymezení vztahu k centrále.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6c24d4341baecc87aa2f generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 7j — Řídicí a kontrolní systém pojišťovny a zajišťovny z třetího státu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> Pro pobočku pojišťovny nebo zajišťovny z třetího státu zřízenou na území České republiky musí být zavedeny postupy nezbytné k plnění požadavků podle § 7 až 7i na úrovni této pojišťovny nebo zajišťovny, s výjimkou zavedení a udržování řídicího a kontrolního systému na úrovni skupiny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6c24d4341baecc87aa2f -->
 
 ### § 8 — Odměňování
 
@@ -1685,6 +2861,57 @@ Toto je projev širší unijní iniciativy **sustainable finance**, která v pos
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=626011ba6914ff34b9a8 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 8 — Odměňování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Tuzemská pojišťovna a tuzemská zajišťovna uplatňují účinný systém odměňování osob podle čl. 258 odst. 1 písm. l), čl. 275 a čl. 294 odst. 1 písm. c) nařízení Komise v přenesené pravomoci (EU) [[2015/35|2015/35]]43).
+>
+> (2) Písemnou koncepci systému odměňování a její změny schvaluje statutární orgán pojišťovny nebo zajišťovny.
+>
+> (3) Systém odměňování podle odstavce 1 zahrnuje informace o jeho souladu se začleňováním rizik týkajících se udržitelnosti podle nařízení Evropského parlamentu a Rady (EU) [[2019/2088|2019/2088]], které tuzemská pojišťovna a tuzemská zajišťovna uveřejní na svých internetových stránkách.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 2015/35 (výslovně uvedeno v místním znění)
+- akt EU 2019/2088 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=626011ba6914ff34b9a8 -->
+
 ### § 11 — Doklad o bezúhonnosti
 
 > **§ 11**
@@ -1747,6 +2974,62 @@ Bezúhonnost je **trvalý požadavek** — pojišťovna musí monitorovat, zda o
 **Typicky rozhodné důkazy / podklady:** výpis z Rejstříku trestů ČR i zahraniční obdoby, doklad o pobytové historii, rovnocenné doklady soudu/úřadu, čestné/místopřísežné prohlášení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1ca8ee56ba6826c070b2 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 11 — Doklad o bezúhonnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Dokladem o bezúhonnosti občana České republiky a zahraniční fyzické osoby, která se v posledních 3 letech přede dnem, ke kterému se prokazuje bezúhonnost, zdržovala nepřetržitě po dobu více než 3 měsíce v České republice, je výpis z Rejstříku trestů podle zákona upravujícího Rejstřík trestů12) (dále jen „výpis z Rejstříku trestů“).
+>
+> (2) Zahraniční fyzická osoba dokládá bezúhonnost odpovídajícími doklady, ne staršími než 3 měsíce, vydanými státem, jehož je fyzická osoba občanem, jakož i státy, ve kterých se v posledních 3 letech přede dnem, ke kterému se prokazuje bezúhonnost, zdržovala nepřetržitě po dobu více než 3 měsíce. Občan České republiky, který se v posledních 3 letech přede dnem, ke kterému se prokazuje bezúhonnost, zdržoval nepřetržitě po dobu více než 3 měsíce v zahraničí, dokládá svoji bezúhonnost také odpovídajícími doklady, ne staršími než 3 měsíce, vydanými státem, ve kterém se v uvedené době zdržoval.
+>
+> (3) Jestliže stát podle odstavce 2 nevydává doklad obdobný výpisu z Rejstříku trestů, považuje se za rovnocenný doklad o bezúhonnosti této fyzické osoby doklad, ne starší než 3 měsíce, vydaný příslušným soudem nebo správním úřadem státu, jehož je fyzická osoba občanem, nebo státu, ve kterém se v posledních 3 letech přede dnem, ke kterému se prokazuje bezúhonnost, osoba zdržovala nepřetržitě po dobu více než 3 měsíce. Nevydává-li ani takový doklad, považuje se za rovnocenný doklad čestné prohlášení, ne starší 3 měsíců, učiněné fyzickou osobou před příslušným soudem nebo správním úřadem anebo před notářem státu, jehož je fyzická osoba občanem, nebo státu, ve kterém se v posledních 3 letech přede dnem, ke kterému se prokazuje bezúhonnost, osoba zdržovala nepřetržitě po dobu více než 3 měsíce.
+>
+> (4) Dokladem bezúhonnosti tuzemské právnické osoby a zahraniční právnické osoby je výpis z Rejstříku trestů, jestliže tato osoba v posledních třech letech přede dnem, ke kterému se prokazuje bezúhonnost, působila v České republice tak, že zde měla sídlo anebo alespoň vykonávala svoji činnost nebo měla zde svůj majetek nepřetržitě po dobu více než 3 měsíců.
+>
+> (5) Zahraniční právnická osoba dokládá bezúhonnost též doklady obdobnými výpisu z Rejstříku trestů vydanými státem, ve kterém působí, jakož i státy, ve kterých v posledních 3 letech přede dnem, ke kterému se prokazuje bezúhonnost, působila nepřetržitě po dobu více než 3 měsíců. Tuzemská právnická osoba, která v posledních 3 letech přede dnem, ke kterému se prokazuje bezúhonnost, působila nepřetržitě po dobu více než 3 měsíců v zahraničí, dokládá svoji bezúhonnost také doklady obdobnými výpisu z Rejstříku trestů vydanými státem, ve kterém v uvedené době působila.
+>
+> (6) Jestliže stát podle odstavce 5 nevydává doklad obdobný výpisu z Rejstříku trestů, považuje se za rovnocenný doklad o bezúhonnosti právnické osoby doklad vydaný příslušným soudem nebo správním úřadem státu, ve kterém právnická osoba působí, nebo státu, ve kterém v posledních 3 letech přede dnem, ke kterému se prokazuje bezúhonnost, osoba působila nepřetržitě po dobu více než 3 měsíců. Nevydává-li soud nebo správní úřad podle věty první ani takový doklad, považuje se za rovnocenný doklad místopřísežné prohlášení, ne starší 3 měsíců, učiněné právnickou osobou před příslušným soudem nebo správním úřadem anebo před notářem státu, ve kterém právnická osoba působí, nebo státu, ve kterém v posledních 3 letech přede dnem, ke kterému se prokazuje bezúhonnost, osoba působila nepřetržitě po dobu více než 3 měsíců.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1ca8ee56ba6826c070b2 -->
 
 ## Část druhá Hlava II — Provozování pojišťovací činnosti
 
@@ -1897,6 +3180,90 @@ Důvody zákazu souběhu (čl. 73 Solvency II):
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9704cec3c328d59917dc generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 13 — Povolení k provozování pojišťovací činnosti tuzemskou pojišťovnou
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka uděluje povolení k provozování pojišťovací činnosti podle pojistných odvětví životních pojištění, podle pojistných odvětví neživotních pojištění nebo podle skupin neživotních pojištění uvedených příloze č. 1 k tomuto zákonu. Povolení se vztahuje na provozování pojišťovací činnosti pro všechna rizika spadající do těchto odvětví, pokud není výslovně požadováno povolení k provozování pojišťovací činnosti pro určitá rizika spadající do těchto odvětví. Česká národní banka může požadovaný rozsah činnosti omezit, jestliže není dostatečně prokázána schopnost žadatele finančně nebo provozně zabezpečit provozování činnosti v požadovaném rozsahu. Při splnění podmínek podle [[#§ 49|§ 49]] může tuzemská pojišťovna provozovat i zajišťovací činnost.
+>
+> (2) Tuzemská pojišťovna je oprávněna provozovat pojišťovací činnost na základě a v rozsahu povolení uděleného Českou národní bankou jako akciová společnost nebo družstvo a je-li její sídlo na území České republiky.
+>
+> (3) Povolení udělené Českou národní bankou za podmínek stanovených tímto zákonem tuzemské pojišťovně je platné pro všechny členské státy a opravňuje ji za podmínek stanovených tímto zákonem k provozování pojišťovací činnosti nebo zajišťovací činnosti na území jiného členského státu, a to buď prostřednictvím pobočky nebo na základě svobody dočasně poskytovat služby.
+>
+> (4) Povolení České národní banky je tuzemská pojišťovna povinna si vyžádat také před změnou rozsahu pojišťovací činnosti, pokud podle tohoto zákona taková změna nepodléhá pouze informační povinnosti.
+>
+> (5) Česká národní banka uděluje založené tuzemské pojišťovně povolení k provozování pojišťovací činnosti na základě žádosti podané elektronicky, ke které žadatel přiloží doklady prokazující splnění podmínek uvedených v odstavci 6, a to přede dnem jejího zápisu do obchodního rejstříku. O této žádosti rozhodne Česká národní banka nejpozději do 6 měsíců ode dne, kdy jí byla doručena. Oprávnění k provozování pojišťovací činnosti vznikne tuzemské pojišťovně dnem jejího zápisu do obchodního rejstříku. Náležitosti žádosti, včetně příloh prokazujících splnění podmínek podle odstavce 6, její formáty a další technické náležitosti stanoví prováděcí právní předpis.
+>
+> (6) Česká národní banka udělí povolení podle odstavce 5, pokud
+>
+> - a) je splněna podmínka sídla podle odstavce 2,
+>
+> - b) jsou s ohledem na požadovaný rozsah a povahu činnosti pojišťovny dány předpoklady splnění podmínek provozování pojišťovací činnosti stanovených tímto zákonem nebo přímo použitelným předpisem Evropské unie, zejména její finanční stability, dostatečnosti personálních, technických a organizačních předpokladů,
+>
+> - c) byly sděleny identifikační údaje ke každé osobě, která má mít kvalifikovanou účast na pojišťovně, a tato dává předpoklad řádného a obezřetného řízení pojišťovny,
+>
+> - d) každá osoba, která má působit jako osoba podle § 7a odst. 1 splňuje podmínky způsobilosti a důvěryhodnosti,
+>
+> - e) úzké propojení mezi pojišťovnou a dalšími osobami nebrání účinnému výkonu dohledu v pojišťovnictví podle tohoto zákona,
+>
+> - f) účinnému výkonu dohledu v pojišťovnictví podle tohoto zákona nebrání právní předpisy třetího státu, kterými se řídí jedna nebo více osob, s nimiž má mít pojišťovna úzké propojení, ani obtížná vymahatelnost práva v tomto státě,
+>
+> - g) výše základního kapitálu pojišťovny splňuje podmínky podle [[#§ 18|§ 18]],
+>
+> - h) aktiva pojišťovny nepocházejí z trestné činnosti nebo z neidentifikovatelných zdrojů a je prokázán původ kapitálu a dalších finančních zdrojů,
+>
+> - i) navrhovaný řídicí a kontrolní systém dává předpoklad své funkčnosti a efektivnosti,
+>
+> - j) je prokázána schopnost držet použitelný kapitál ve výši solventnostního kapitálového požadavku podle [[#§ 73|§ 73]] a minimálního kapitálového požadavku podle [[#§ 79|§ 79]] a [[#§ 79a|79a]],
+>
+> - k) žadatel předložil obchodní plán pojišťovny podložený reálnými ekonomickými výpočty,
+>
+> - l) žadatel uvedl jméno, popřípadě jména, příjmení, datum narození a adresu bydliště fyzických osob, nebo obchodní firmu nebo název a sídlo právnických osob, navrhovaných do funkce škodních zástupců jmenovaných v každém členském státě, má-li být pojišťovnou provozováno pojištění podle pojistného odvětví uvedeného v části B bodě 10 písm. a) přílohy č. 1 k tomuto zákonu, a
+>
+> - m) žadatel uvedl v žádosti pravdivé údaje.
+>
+> (7) Tuzemské pojišťovně nelze udělit povolení k souběžnému provozování pojišťovací činnosti podle pojistných odvětví životních pojištění a neživotních pojištění, s výjimkou pojišťovny, která žádá o udělení povolení k provozování pojišťovací činnosti podle pojistných odvětví uvedených v části A přílohy č. 1 k tomuto zákonu souběžně s provozováním pojišťovací činnosti podle pojistných odvětví uvedených v části B bodech 1 a 2 přílohy č. 1 k tomuto zákonu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 49, § 7a, § 18, § 73, § 79, § 79a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9704cec3c328d59917dc -->
+
 ### § 14 — Doplňkové pojištění v neživotním pojištění
 
 > **§ 14**
@@ -1979,6 +3346,62 @@ Doplňkové pojištění umožňuje vměstnat do jedné smlouvy i nepovolané ri
 **Typicky rozhodné důkazy / podklady:** pojistná smlouva a pojistné podmínky, žádost pojistníka, výpis povoleného rozsahu činnosti z registru ČNB, dokumentace POG, kalkulace pojistných částek.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=58f4091b510d19fa1319 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 14 — Pojištění pojistného rizika v neživotním pojištění nad rámec uděleného povolení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Tuzemská pojišťovna, které bylo uděleno povolení k provozování pojišťovací činnosti podle jednoho nebo více pojistných odvětví neživotních pojištění, může uzavřít pojistnou smlouvu i pro pojistné riziko spadající do odvětví neživotních pojištění, pro které jí nebylo uděleno povolení, za předpokladu, že toto riziko
+>
+> - a) souvisí s pojistným rizikem spadajícím do odvětví, pro které jí bylo uděleno povolení,
+>
+> - b) týká se předmětu, který je pojištěn proti pojistnému riziku podle písmene a), a
+>
+> - c) je pojištěno stejnou pojistnou smlouvou, kterou je pojištěno pojistné riziko podle písmene a),
+>
+> (dále jen „doplňkové pojištění v neživotním pojištění“).
+>
+> (2) Pojistné riziko spadající do pojistného odvětví neživotních pojištění uvedeného v části B bodě 10 písm. a), bodech 14, [[#§ 15|15]] nebo 17 přílohy č. 1 k tomuto zákonu nemůže být doplňkovým pojištěním v neživotním pojištění; pojistné riziko spadající do odvětví uvedeného v části B bodě 17 této přílohy může být doplňkovým pojištěním k pojistnému odvětví uvedenému v části B bodě 18 této přílohy, jsou-li splněny podmínky podle odstavce 1 a vztahuje-li se pojistné riziko podle odstavce 1 písm. a) výhradně k asistenčním službám pojištěné osoby. Doplňkové pojištění v neživotním pojištění nemůže svojí pojistnou částkou nebo limitem pojistného plnění převýšit pojistnou částku nebo limit pojistného plnění stanovený pro pojistné riziko podle odstavce 1 písm. a). Doplňkové pojištění v neživotním pojištění lze sjednat pouze na základě individuální žádosti pojistníka.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 15
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=58f4091b510d19fa1319 -->
 
 ### § 15 — Obchodní plán tuzemské pojišťovny
 
@@ -2071,6 +3494,78 @@ Obchodní plán je jádrem ex-ante prudenciálního testu. Musí obsahovat všec
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c9c8aef32bfda7acd6b9 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 15 — Obchodní plán tuzemské pojišťovny
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> V obchodním plánu tuzemské pojišťovny podle § 13 odst. 6 písm. k) žadatel uvede
+>
+> - a) jedno nebo více pojistných odvětví, popřípadě rizika spadající do těchto odvětví, pokud nemají být pojištěna všechna rizika daného odvětví, nebo skupiny odvětví, pro které má být povolení uděleno,
+>
+> - b) metody výpočtu pojistného; u životních pojištění včetně statistických dat, na kterých je tento výpočet založen,
+>
+> - c) metody výpočtu technických rezerv,
+>
+> - d) základní principy pasivního zajištění,
+>
+> - e) položky primárního kapitálu ve výši spodní hranice minimálního kapitálového požadavku podle [[#§ 79a|§ 79a]],
+>
+> - f) předpokládané náklady na zřízení provozního systému a organizaci obchodní sítě a způsob krytí těchto nákladů; v případě provozování pojištění podle odvětví neživotních pojištění uvedeného v části B bodě 18 přílohy č. 1 k tomuto zákonu také finanční a technické zdroje určené na zabezpečení asistenčních služeb,
+>
+> - g) pro první 3 účetní období
+>
+>   - 1. v případě provozování pojištění podle odvětví neživotních pojištění odhad výnosů a nákladů v členění na náklady spojené se zavedením činnosti a na běžné náklady, zejména režijní náklady a náklady na odměny pojišťovacím zprostředkovatelům, a odhad hrubého pojistného a nákladů na pojistná plnění,
+>
+>   - 2. v případě provozování pojištění podle odvětví životních pojištění odhad předpokládaných příjmů a výdajů z provozované pojišťovací činnosti s ohledem na přímé pojištění a postoupené zajištění,
+>
+>   - 3. přehled aktiv a pasiv, ve kterém budou oceněna aktiva a pasiva podle [[#§ 51|§ 51]],
+>
+>   - 4. odhad budoucího solventnostního kapitálového požadavku podle [[#§ 73|§ 73]] a budoucího minimálního kapitálového požadavku podle [[#§ 79|§ 79]] na předpokládané rozvaze, ve které budou oceněna aktiva a pasiva podle [[#§ 51|§ 51]], včetně metody výpočtu použité k odvození těchto odhadů, a
+>
+>   - 5. odhad finančních zdrojů určených k vyrovnání závazků z provozované pojišťovací činnosti a k plnění solventnostního kapitálového požadavku a minimálního kapitálového požadavku a
+>
+> - h) návrhy nebo základní zásady pro přemístění činnosti, má-li být některá z činností po udělení povolení přemístěna mimo území České republiky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 13, § 79a, § 51, § 73, § 79
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c9c8aef32bfda7acd6b9 -->
+
 ### § 16 — Udělení povolení pojišťovně ve skupině
 
 > **§ 16**
@@ -2150,6 +3645,70 @@ Stane-li se nová pojišťovna součástí přeshraniční nebo cross-sektorové
 **Typicky rozhodné důkazy / podklady:** schéma vlastnické a ovládací struktury, stanovisko zahraničního orgánu dohledu, podklady o důvěryhodnosti ovládajících osob, doklady o úzkém propojení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e245fc3228603898a27c generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 16 — Udělení povolení pojišťovně ve skupině
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Před udělením povolení k provozování pojišťovací činnosti tuzemské pojišťovně, která se má stát
+>
+> - a) ovládanou osobou pojišťovny z jiného členského státu nebo zajišťovny z jiného členského státu, nebo
+>
+> - b) ovládanou osobou jiné osoby, která je ovládající osobou pojišťovny z jiného členského státu nebo zajišťovny z jiného členského státu,
+>
+> si Česká národní banka vyžádá stanovisko orgánu dohledu dotčeného jiného členského státu.
+>
+> (2) Před udělením povolení k provozování pojišťovací činnosti tuzemské pojišťovně, která se má stát
+>
+> - a) ovládanou osobou banky z jiného členského státu nebo obchodníka s cennými papíry z jiného členského státu, nebo
+>
+> - b) ovládanou osobou jiné osoby, která je ovládající osobou banky nebo obchodníka s cennými papíry z jiného členského státu,
+>
+> si Česká národní banka vyžádá stanovisko orgánu dohledu, který vykonává dohled nad činností takové banky nebo obchodníka s cennými papíry.
+>
+> (3) Česká národní banka se s orgány dohledu uvedenými v odstavcích 1 a [[#§ 2|2]] vzájemně informuje zejména o důvěryhodnosti a způsobilosti osob ovládajících posuzovanou právnickou osobu, fyzických osob s klíčovými funkcemi právnické osoby podléhající dohledu a průběžně si s nimi vyměňuje informace důležité při udělování povolení k činnosti a při kontrole provozování povolené činnosti.
+>
+> (4) Odstavce 1 až 3 se v případě, kdy se má tuzemská pojišťovna stát ovládanou osobou osoby s bydlištěm nebo sídlem na uzemí třetího státu, použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e245fc3228603898a27c -->
 
 ### § 17 — Oddělené řízení činností (kompozitní pojišťovna)
 
@@ -2235,6 +3794,68 @@ Historický kompozit smí provozovat life i non-life jen při důsledném odděl
 **Typicky rozhodné důkazy / podklady:** oddělené účetní výkazy life/non-life, výpočty obou fiktivních MCR a SCR, evidence použitelného primárního kapitálu dle § 63 a § 71 odst. 4, rozvrhovací metody, doklady o tržním ocenění převodů aktiv.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3b5e19087e9638cbaf9b generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 17 — Oddělené řízení činností
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Tuzemská pojišťovna, které bylo před 1. dubnem 2000 uděleno povolení k souběžnému provozování pojištění podle pojistných odvětví životních a neživotních pojištění v rozsahu širším, než je uvedeno v § 13 odst. 7, je oprávněna provozovat souběžně tyto činnosti za podmínky jejich odděleného řízení. Tuzemská pojišťovna může jednu z těchto činností ukončit jen formou odnětí části povolení podle [[#§ 118|§ 118]] s převodem odpovídající části pojistného kmene podle [[#§ 103|§ 103]] a [[#§ 104|104]] nebo rozdělením podle [[#§ 122|§ 122]]; to se použije obdobně pro pojišťovnu, které bylo uděleno povolení podle § 13 odst. 7.
+>
+> (2) Činnost pojišťovny podle odstavce 1 nesmí vést k tomu, aby souběžným provozováním pojištění podle pojistných odvětví životních a neživotních pojištění byly poškozovány zájmy pojistníků, pojištěných a jiných osob s právem na plnění z pojištění.
+>
+> (3) Tuzemská pojišťovna podle odstavce 1 vypočítává, aniž by tím byly dotčeny [[#§ 73|§ 73]] a [[#§ 79|79]],
+>
+> - a) fiktivní minimální kapitálový požadavek pro životní pojištění připadající na její činnost v životním pojištění nebo zajištění tak, jako kdyby provozovala pouze uvedenou činnost, a
+>
+> - b) fiktivní minimální kapitálový požadavek pro neživotní pojištění připadající na její činnost v neživotním pojištění nebo zajištění tak, jako kdyby provozovala pouze uvedenou činnost.
+>
+> (4) Tuzemská pojišťovna podle odstavce 1 disponuje odpovídající hodnotou položek použitelného primárního kapitálu podle [[#§ 63|§ 63]] alespoň ve výši fiktivního minimálního kapitálového požadavku podle odstavce 3. Tyto minimální kapitálové požadavky vztahující se na jednu z činností nesmějí být kryty z druhé činnosti. Položky použitelného primárního kapitálu ve výši každého fiktivního minimálního kapitálového požadavku se určí podle § 71 odst. 4.
+>
+> (5) Pokud jsou minimální kapitálové požadavky kryty podle odstavce 4, pojišťovna podle odstavce 1 může použít k plnění solventnostního kapitálového požadavku podle [[#§ 73|§ 73]] výslovně uvedené položky použitelného kapitálu, které jsou stále k dispozici, pro jednu nebo druhou činnost.
+>
+> (6) Tuzemská pojišťovna podle odstavce 1 své účetnictví vede tak, aby zdroje pro životní a pro neživotní pojištění byly oddělené, celkové výnosy, především pojistné, platby zajistitelů, výnosy z investování, a náklady, zejména pojistná plnění, doplnění technických rezerv, zajistné a provozní náklady na pojišťovací činnost, byly rozvrženy podle jejich původu. To se použije obdobně pro aktiva určená k vyrovnání závazků ze životního a neživotního pojištění, kde pro jednotlivé nástroje a transakce musí být výnosy a náklady jednoznačně přiřazeny k životnímu nebo neživotnímu pojištění a převody těchto aktiv mezi životní a neživotní částí lze realizovat pouze převodem mezi portfolii za tržní cenu. Položky společné oběma činnostem se účtují v souladu s metodami rozvrhování stanovenými pojišťovnou, která je před jejich použitím zašle České národní bance ke schválení. Tyto metody se považují za schválené, pokud Česká národní banka do jednoho měsíce ode dne jejich doručení nevyjádří svůj nesouhlas; to se použije obdobně i pro jejich změnu.
+>
+> (7) Česká národní banka průběžně analyzuje výsledky činnosti pojišťovny podle odstavce 1 v životním i neživotním pojištění s cílem ověřit dodržování požadavků odstavců 1 až 6. Pokud výše použitelného primárního kapitálu připadajícího na jednu z činností je menší než minimální kapitálové požadavky podle odstavce 4, uloží Česká národní banka na činnost s nedostatečnou výší použitelného primárního kapitálu opatření k nápravě podle tohoto zákona bez ohledu na výsledky druhé činnosti. Takové opatření může zahrnovat povolení převodu výslovně uvedených položek použitelného primárního kapitálu z jedné činnosti do druhé.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 13, § 118, § 103, § 104, § 122, § 73, § 79, § 63, § 71
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3b5e19087e9638cbaf9b -->
 
 ### § 18 — Základní kapitál
 
@@ -2362,6 +3983,86 @@ Minimální základní kapitál se určuje podle nejrizikovějšího provozovan�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e9f6c149fce7dbd120e4 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 18 — Základní kapitál
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Výše základního kapitálu tuzemské pojišťovny činí při provozování pojišťovací činnosti podle
+>
+> - a) jednoho nebo více pojistných odvětví životních pojištění uvedených v části A přílohy č. 1 k tomuto zákonu nejméně 105 000 000 Kč,
+>
+> - b) pojistných odvětví neživotních pojištění uvedených v části B přílohy č. 1 k tomuto zákonu
+>
+>   - 1. pro odvětví uvedená pod body 1, [[#§ 2|2]], [[#§ 8|8]], [[#§ 9|9]] a [[#§ 18|18]] celkem nejméně 70 000 000 Kč,
+>
+>   - 2. pro odvětví uvedená pod body 3, [[#§ 4|4]], [[#§ 13|13]], [[#§ 16|16]] a [[#§ 17|17]] celkem nejméně 105 000 000 Kč,
+>
+>   - 3. pro odvětví uvedená pod body 7, [[#§ 10|10]], [[#§ 14|14]] a [[#§ 15|15]] celkem nejméně 160 000 000 Kč,
+>
+>   - 4. pro odvětví uvedená pod body 5, [[#§ 6|6]], [[#§ 11|11]] a [[#§ 12|12]] celkem nejméně 200 000 000 Kč.
+>
+> (2) Je-li provozována pojišťovací činnost podle 2 nebo více pojistných odvětví neživotních pojištění, pro která jsou podle odstavce 1 písm. b) stanoveny rozdílné výše základního kapitálu, činí základní kapitál tuzemské pojišťovny nejméně částku, která je stanovena pro pojistné odvětví, kterému odpovídá nejvyšší částka.
+>
+> (3) Je-li souběžně provozována pojišťovací činnost podle pojistných odvětví životních a neživotních pojištění, činí základní kapitál tuzemské pojišťovny nejméně částku, která odpovídá součtu částek základního kapitálu tuzemské pojišťovny stanovených pro provozování pojišťovací činnosti podle pojistných odvětví životních a neživotních pojištění.
+>
+> (4) Je-li souběžně provozována pojišťovací činnost a zajišťovací činnost, činí základní kapitál tuzemské pojišťovny nejméně částku
+>
+> - a) stanovenou podle odstavců 1 až 3, jestliže
+>
+>   - 1. přijaté zajistné je nižší nebo rovno 10 % přijatého pojistného,
+>
+>   - 2. přijaté zajistné je nižší než částka odpovídající 1 350 000 000 Kč a
+>
+>   - 3. výše technických rezerv vytvořených k jejím závazkům ze zajišťovací činnosti je nižší nebo rovna 10 % jejích celkových technických rezerv,
+>
+> - b) 500 000 000 Kč, je-li provozována zajišťovací činnost v životním nebo neživotním zajištění a byla-li překročena alespoň jedna z hodnot podle písmene a),
+>
+> - c) 1 000 000 000 Kč, je-li provozována zajišťovací činnost souběžně v životním i neživotním zajištění a byla-li překročena alespoň jedna z hodnot podle písmene a).
+>
+> (5) Základní kapitál tuzemské pojišťovny ve výši stanovené tímto zákonem může být tvořen pouze peněžitým vkladem. Základní kapitál musí být splacen ve výši stanovené tímto zákonem před podáním žádosti o udělení povolení k provozování pojišťovací, popřípadě souběžnému provozování pojišťovací a zajišťovací činnosti.
+>
+> (6) Rozhodnutí valné hromady akciové společnosti nebo členské schůze družstva o snížení základního kapitálu lze přijmout jen s předchozím souhlasem České národní banky, jinak je neplatné. Česká národní banka udělí souhlas se snížením základního kapitálu, jestliže tento kapitál neklesne pod hranici stanovenou v odstavcích 1 až 4 a pojišťovna bude i nadále splňovat podmínky plnění solventnostního kapitálového požadavku podle [[#§ 73|§ 73]]; v takovém případě se má za to, že tím není ohrožena dobytnost pohledávek věřitele. Pro toto snížení základního kapitálu se nepoužijí ustanovení o ochraně věřitelů při snížení základního kapitálu podle [[zákona upravujícího právní poměry obchodních společností a družstev|zákona upravujícího právní poměry obchodních společností a družstev]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 8, § 9, § 4, § 13, § 16, § 17, § 10, § 14, § 15, § 6, § 11, § 12, § 73
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e9f6c149fce7dbd120e4 -->
+
 ### Díl 2 — Změny v činnosti a v účastech
 
 ### § 19 — Změna v rozsahu činnosti tuzemské pojišťovny
@@ -2432,6 +4133,70 @@ Rozšíření či zúžení povolení vyžaduje předchozí schválení ČNB, up
 **Typicky rozhodné důkazy / podklady:** žádost o změnu rozsahu, upravený obchodní plán a ŘKS, kapitálový výkaz (SCR/MCR) pro dotčené složky, doklad o ustanovení škodních zástupců u MTPL.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f79e0833dff24816e24b generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 19 — Změna v rozsahu činnosti tuzemské pojišťovny
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Změna v rozsahu činnosti tuzemské pojišťovny podléhá předchozímu schválení Českou národní bankou na základě žádosti podané elektronicky, o které Česká národní banka rozhodne ve lhůtě a za podmínek podle § 13 odst. 5 a [[#§ 6|6]]; Česká národní banka změnu povolí, pokud pojišťovna
+>
+> - a) prokázala, že disponuje použitelným kapitálem ve výši solventnostního kapitálového požadavku podle [[#§ 73|§ 73]] a minimálního kapitálového požadavku podle [[#§ 79|§ 79]] a [[#§ 79a|79a]],
+>
+> - b) předložila upravený obchodní plán podle [[#§ 15|§ 15]], ve kterém promítne požadované změny,
+>
+> - c) ustanovila škodní zástupce podle § 13 odst. 6 písm. l), má-li být provozováno pojištění podle pojistného odvětví uvedeného v části B bodě 10 písm. a) přílohy č. 1 k tomuto zákonu,
+>
+> - d) předložila upravenou koncepci řídicího a kontrolního systému podle [[#§ 7|§ 7]] s promítnutím požadované změny a
+>
+> - e) uvedla v žádosti pravdivé údaje.
+>
+> (2) Tuzemská pojišťovna je povinna prokázat, že disponuje použitelným kapitálem ve výši solventnostního kapitálového požadavku podle [[#§ 73|§ 73]] a minimálního kapitálového požadavku podle [[#§ 79|§ 79]] a [[#§ 79a|79a]] pro činnost v životním a neživotním pojištění, pokud provozuje
+>
+> - a) životní pojištění podle jednoho nebo více pojistných odvětví uvedených v části A přílohy č. 1 k tomuto zákonu a žádá o rozšíření svojí činnosti o pojistná odvětví neživotních pojištění uvedená v bodě 1 nebo 2 části B přílohy č. 1 k tomuto zákonu, nebo
+>
+> - b) pouze pojištění podle pojistných odvětví neživotních pojištění uvedených v bodě 1 nebo 2 části B přílohy č. 1 k tomuto zákonu a žádá o rozšíření svojí činnosti o jedno nebo více odvětví životních pojištění uvedených v části A přílohy č. 1 k tomuto zákonu.
+>
+> (3) Náležitosti žádosti podle odstavců 1 a [[#§ 2|2]], včetně příloh prokazujících splnění stanovených podmínek, její formáty a další technické náležitosti stanoví prováděcí právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 13, § 6, § 73, § 79, § 79a, § 15, § 7, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f79e0833dff24816e24b -->
 
 ### §§ 20–22 — Single licence v praxi: pobočky a FoS v jiných členských státech
 
@@ -2516,6 +4281,186 @@ Pas umožňuje působit v celém EHP, ale start pobočky je vázán na notifika�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f98b645415e360d556d8 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 20 — Zřízení pobočky na území jiného členského státu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Tuzemská pojišťovna, která hodlá zřídit svoji pobočku na území jiného členského státu, je povinna před zahájením této své činnosti informovat Českou národní banku o
+>
+> - a) členském státu, na jehož území zamýšlí zřídit pobočku,
+>
+> - b) obchodním plánu pobočky v rozsahu podle [[#§ 15|§ 15]], výčtu pojistných odvětví pojišťovací činnosti, která mají být provozována na území jiného členského státu, organizační struktuře pobočky, postupech a metodách pro zajištění funkčnosti a efektivnosti řídicího a kontrolního systému včetně systému řízení rizik a o výpočtu, ze kterého bude zřejmé, že pojišťovna bude i nadále splňovat solventnostní a minimální kapitálový požadavek podle tohoto zákona,
+>
+> - c) adrese pobočky na území jiného členského státu,
+>
+> - d) jménu, popřípadě jménech, a příjmení osoby navrhované do funkce vedoucího pobočky pověřeného zastupováním této pojišťovny při jednání s třetími osobami, úřady a soudy jiného členského státu, kde se nachází pobočka, a
+>
+> - e) způsobu zabezpečení vyloučení střetu zájmů v případě provozování pojištění právní ochrany podle zákona upravujícího pojistnou smlouvu.
+>
+> (2) Česká národní banka informace uvedené v odstavci 1 posoudí s ohledem na přiměřenost organizační struktury, finanční situaci tuzemské pojišťovny, důvěryhodnost a způsobilost fyzické osoby navrhované do funkce vedoucího pobočky. Do 3 měsíců ode dne obdržení všech informací uvedených v odstavci 1 Česká národní banka sdělí písemně orgánu dohledu jiného členského státu, kde se bude nacházet pobočka, informace o rozsahu pojišťovací činnosti podle pojistných odvětví, která má být provozována na území hostitelského členského státu, obchodním plánu pobočky, její adrese a organizační struktuře a informace uvedené v odstavci 1 písm. d), popřípadě e). Současně potvrdí, že tato pojišťovna splňuje solventnostní a minimální kapitálový požadavek podle tohoto zákona. O odeslání informace Česká národní banka tuzemskou pojišťovnu písemně informuje.
+>
+> (3) Nejsou-li s ohledem na přiměřenost organizační struktury, finanční situaci tuzemské pojišťovny, důvěryhodnost a způsobilost fyzické osoby navrhované do funkce vedoucího pobočky splněny podmínky pro zřízení pobočky pojišťovny na území jiného členského státu, Česká národní banka ve lhůtě uvedené v odstavci 2 rozhodne o odmítnutí sdělit orgánu dohledu informace uvedené v odstavci 1 a své rozhodnutí oznámí tuzemské pojišťovně do doby uplynutí této lhůty. Podání rozkladu proti tomuto rozhodnutí nemá odkladný účinek.
+>
+> (4) Jestliže orgán dohledu hostitelského členského státu informuje ve lhůtě do 2 měsíců ode dne obdržení informace České národní banky podle odstavce 2 Českou národní banku o podmínkách přijatých z důvodů veřejného zájmu, za kterých může být v členském státě, ve kterém pojišťovna nebo zajišťovna z členského státu působí na základě práva zakládat pobočky (dále jen „členský stát pobočky“), pojišťovací činnost provozována, předá Česká národní banka tyto informace tuzemské pojišťovně, která hodlá v členském státě zřídit pobočku, a to bez zbytečného odkladu. Tuzemská pojišťovna může v hostitelském členském státě zahájit svoji činnost na základě práva zřídit svoji pobočku dnem obdržení této informace nebo uplynutím 2 měsíců ode dne, kdy obdržela informaci České národní banky podle odstavce 2.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 15
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f98b645415e360d556d8 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=cd467132d11ff8596fc2 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 21 — Zřízení pobočky tuzemské pojišťovny na území třetího státu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Tuzemská pojišťovna, která hodlá zřídit svoji pobočku na území třetího státu, je povinna před zahájením její činnosti informovat Českou národní banku o
+>
+> - a) třetím státě, na jehož území zamýšlí zřídit pobočku,
+>
+> - b) plánu činnosti pobočky a změnách obchodního plánu podle [[#§ 15|§ 15]], včetně výčtu pojistných odvětví pojišťovací činnosti, která mají být provozována na území třetího státu, organizační struktuře pobočky, popisu a metodách aplikovaných pro zajištění funkčnosti a efektivnosti řídicího a kontrolního systému, včetně řízení rizik, a o výpočtu, ze kterého bude zřejmé, že pojišťovna bude i nadále splňovat solventnostní a minimální kapitálový požadavek podle tohoto zákona,
+>
+> - c) adrese pobočky na území třetího státu,
+>
+> - d) jménu, popřípadě jménech, a příjmení osoby navrhované do funkce vedoucího pobočky pověřeného zastupováním této pojišťovny při jednání s třetími osobami, úřady a soudy třetího státu, kde se nachází pobočka.
+>
+> (2) Česká národní banka informace uvedené v odstavci 1 posoudí s ohledem na přiměřenost organizační struktury, finanční situaci tuzemské pojišťovny, zajištění funkčního a efektivního řídicího a kontrolního systému, důvěryhodnost a způsobilost fyzické osoby navrhované do funkce vedoucího pobočky. Pokud Česká národní banka nemá námitek k předpokládanému zřízení pobočky na území třetího státu, sdělí písemně do 3 měsíců ode dne obdržení všech informací uvedených v odstavci 1 žádající pojišťovně své souhlasné stanovisko. Nevyjádří-li se Česká národní banka v této lhůtě, má se za to, že se zřízením pobočky na území třetího státu souhlasí.
+>
+> (3) Nejsou-li s ohledem na přiměřenost organizační struktury, finanční situaci tuzemské pojišťovny, zajištění jejího funkčního a efektivního řídicího a kontrolního systému, důvěryhodnost a způsobilost fyzické osoby navrhované do funkce vedoucího pobočky splněny podmínky pro zřízení pobočky tuzemské pojišťovny na území třetího státu nebo, má-li být pobočka zřízena na území třetího státu, jehož právní předpisy nebo potíže související s jejich uplatňováním brání řádnému výkonu dohledu, Česká národní banka ve lhůtě uvedené v odstavci 2 zřízení pobočky zamítne.
+>
+> (4) V případě tuzemské pojišťovny, která hodlá provozovat nebo provozuje na území Švýcarské konfederace pojišťovací činnost podle jednoho nebo více pojistných odvětví neživotního pojištění, se Česká národní banka a tato pojišťovna řídí tímto zákonem, pokud Dohoda mezi Evropským hospodářským společenstvím a Švýcarskou konfederací o přímém pojištění jiném než životním nestanoví jinak15).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 15
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cd467132d11ff8596fc2 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=675868b722fd66b709ba generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 22 — Svoboda dočasně poskytovat služby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Má-li být činnost tuzemské pojišťovny rozšířena mimo území České republiky na území jednoho nebo více jiných členských států na základě svobody dočasně poskytovat služby, je tato pojišťovna povinna informovat Českou národní banku o tomto záměru a sdělit jí rozsah pojišťovací činnosti, která má být touto formou provozována.
+>
+> (2) Česká národní banka ve lhůtě do 1 měsíce ode dne doručení informace o rozsahu pojištění, které má být touto formou provozováno, orgánu dohledu v jiném členském státě, na jehož území má být činnost tuzemské pojišťovny rozšířena na základě svobody dočasně poskytovat služby,
+>
+> - a) potvrdí, že pojišťovna, která hodlá rozšířit svoji činnost ve smyslu odstavce 1, splňuje solventností a minimální kapitálový požadavek,
+>
+> - b) sdělí rozsah pojišťovací činnosti podle pojistných odvětví, kterou je tato pojišťovna oprávněna provozovat,
+>
+> - c) sdělí rozsah pojišťovací činnosti podle pojistných odvětví, které hodlá pojišťovna provozovat na území jiného členského státu.
+>
+> (3) Česká národní banka informuje pojišťovnu o datu odeslání informace ve smyslu odstavce 2, a to bez zbytečného odkladu. Tato pojišťovna může zahájit svoji činnost na území hostitelského členského státu dnem obdržení této informace.
+>
+> (4) Pokud pojišťovna nedisponuje kapitálem ve výši solventnostního kapitálového požadavku, Česká národní banka rozhodne o odmítnutí sdělit orgánu dohledu informace uvedené v odstavci 2 a své rozhodnutí oznámí pojišťovně ve lhůtě uvedené v odstavci 2. Podání rozkladu proti tomuto rozhodnutí nemá odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=675868b722fd66b709ba -->
+
 ### § 23 — Informační povinnosti tuzemské pojišťovny
 
 > **§ 23**
@@ -2592,6 +4537,70 @@ Pojišťovna je v trvalém notifikačním dialogu s ČNB: změny účastí, stan
 **Typicky rozhodné důkazy / podklady:** evidence akcionářské struktury a oznámení o účastech, znění stanov s vyznačením změn, doklady o jmenování klíčových osob (fit & proper), smlouvy o převzetí kmene, interní compliance evidence notifikačních událostí.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=957627d9d1fbc5aa3d21 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 23 — Informační povinnosti tuzemské pojišťovny v souvislosti se změnami v její činnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Tuzemská pojišťovna předloží České národní bance bez zbytečného odkladu
+>
+> - a) seznam osob, jejichž kvalifikovaná účast v této pojišťovně překročí nebo klesne pod 10 %, přehled změn v účastech v této pojišťovně uvedených v § 24 odst. 1 a v § 27 odst. 1 a nejpozději do 31. prosince kalendářního roku zprávu o osobách s těmito účastmi včetně její výše,
+>
+> - b) informaci o změnách v údajích, které byly obsahem žádosti o udělení povolení a jejích příloh s výjimkou informací, které může Česká národní banka získat podle zákona upravujícího základní registry; změna stanov se předkládá v úplném znění s vyznačením provedených změn,
+>
+> - c) doklad o tom, že se tuzemská pojišťovna stala členem národní kanceláře pojistitelů a garančního fondu jiného členského státu, ve kterém má umístěnu pobočku, pokud má být v tomto jiném členském státě provozováno pojištění podle pojistného odvětví uvedeného v části B bodě 10 písm. a) přílohy č. 1 k tomuto zákonu,
+>
+> - d) informaci o změně ve své činnosti, jiné než podle [[#§ 19|§ 19]], a změně ve svém právním postavení a o dalších změnách, které brání nebo mohou bránit řádnému a obezřetnému provozování činnosti tuzemské pojišťovny nebo zajišťovny nebo výkonu dohledu v pojišťovnictví podle tohoto zákona,
+>
+> - e) informaci o změnách v údajích uvedených v § 20 odst. 1 písm. b), c) a d), § 21 odst. 1 písm. b), c) a d) a v § 22 odst. 1,
+>
+> - f) informaci o převzetí pojistného kmene od pojišťovny z jiného členského státu nebo třetího státu, anebo o převzetí kmene zajišťovacích smluv od pojišťovny nebo zajišťovny z jiného členského státu nebo třetího státu, a
+>
+> - g) informace související s její činností podle tohoto zákona vyžádané Českou národní bankou.
+>
+> (2) Česká národní banka po obdržení informací podle odstavce 1 písm. e) postupuje podle § 20 odst. 2 a [[#§ 3|3]] nebo podle § 21 odst. 2 a [[#§ 3|3.]] Tuzemská pojišťovna oznámí změnu v údajích podle § 20 odst. 1 písm. b), c) a d) také orgánu dohledu jiného členského státu pobočky, a to nejpozději 30 dnů přede dnem, ke kterému má být změna uskutečněna.
+>
+> (3) Jestliže některá ze změn uvedených v odstavci 1 nebyla provedena v souladu s podmínkami stanovenými tímto zákonem, Česká národní banka uloží tuzemské pojišťovně odstranit bez zbytečného odkladu zjištěné nedostatky. Podání rozkladu proti tomuto rozhodnutí nemá odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 24, § 27, § 19, § 20, § 21, § 22, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=957627d9d1fbc5aa3d21 -->
 
 ### §§ 24–27 — Změny v kvalifikované účasti
 
@@ -2719,6 +4728,226 @@ Nabytí (či zvýšení) kvalifikované účasti přes prahy 20 %, 30 %, 50 % ne
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=16e29267eb4f8a4ac9ef generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 24
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Osoba nebo osoby jednající ve shodě před nabytím kvalifikované účasti v tuzemské pojišťovně nebo před jejím zvýšením tak, že její nebo jejich podíl na základním kapitálu nebo podíl na hlasovacích právech dosáhne nebo překročí 20 %, 30 % nebo 50 %, nebo tak, že se tuzemská pojišťovna stane jejich ovládanou osobou, jsou povinny Českou národní banku písemně požádat o předchozí souhlas s nabytím nebo zvýšením této účasti. Česká národní banka bez zbytečného odkladu, nejpozději však do 2 pracovních dnů ode dne obdržení úplné žádosti nebo obdržení dalších údajů podle § 25 odst. 3, písemně žadateli potvrdí její přijetí a uvědomí jej o dni, na který připadá konec běhu lhůty pro posouzení žádosti stanovené v § 25 odst. 2 nebo jejího prodloužení podle § 25 odst. 3. O této skutečnosti žadatel současně písemně informuje pojišťovnu, na které hodlá nabýt nebo zvýšit svoji účast.
+>
+> (2) Je-li žadatelem podle odstavce 1 jiná pojišťovna, zajišťovna, banka, obchodník s cennými papíry nebo investiční společnost, kterým bylo uděleno povolení k činnosti v jiném členském státě, nebo zahraniční ovládající osoba takové pojišťovny, zajišťovny, banky, obchodníka s cennými papíry nebo investiční společnosti a má-li být výsledkem takového nabytí účasti to, že se žadatel stane ovládající osobou tuzemské pojišťovny, Česká národní banka bez zbytečného odkladu po obdržení žádosti konzultuje tento záměr s orgánem dohledu nebo jiným orgánem vykonávajícím dohled nad takovou bankou, obchodníkem s cennými papíry nebo investiční společností.
+>
+> (3) Náležitosti žádosti, včetně příloh prokazujících splnění podmínek podle § 25 odst. 1, její formáty a další technické náležitosti stanoví prováděcí právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 25
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=16e29267eb4f8a4ac9ef -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=c5f55c9962482a2b8a9d generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 25
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka posuzuje žádost podle § 24 odst. 1 s ohledem na možný vliv žadatele na tuzemskou pojišťovnu a schválí ji, pokud
+>
+> - a) osoba nebo osoby, které žádají o souhlas s nabytím účasti, splňují podmínky důvěryhodnosti,
+>
+> - b) osoba, která má působit jako osoba podle § 7a odst. 1, splňuje podmínku způsobilosti a důvěryhodnosti,
+>
+> - c) pojišťovna bude nadále schopna plnit obezřetnostní požadavky podle tohoto zákona nebo podle zákona upravujícího doplňkový dohled nad osobami ve finančních konglomerátech,
+>
+> - d) struktura skupiny, jejíž součástí se má tuzemská pojišťovna stát, umožňuje výkon účinného dohledu, účinnou výměnu informací mezi orgány dohledu a nebrání uplatňování vymezené působnosti mezi těmito orgány,
+>
+> - e) je splněna podmínka finančního zdraví žadatele s ohledem na činnosti, které pojišťovna, ve které je navrhováno nabytí nebo zvýšení účasti, provozuje nebo hodlá provozovat a
+>
+> - f) ve spojení s navrhovaným nabytím neexistuje důvodné podezření, že dochází nebo by mohlo dojít k legalizaci výnosů z trestné činnosti nebo k financování terorismu nebo k pokusům o ně anebo, že by navrhované nabytí mohlo zvýšit riziko takového jednání.
+>
+> (2) O žádosti podle § 24 odst. 1 Česká národní banka rozhodne ve lhůtě do 60 pracovních dnů ode dne odeslání písemného potvrzení o jejím obdržení. Česká národní banka je oprávněna tímto rozhodnutím určit lhůtu pro nabytí nebo zvýšení požadované účasti v tuzemské pojišťovně, která nesmí být kratší než 30 dnů ode dne nabytí právní moci tohoto rozhodnutí a kterou lze na písemnou žádost nabyvatele prodloužit. Pokud v takto určené nebo prodloužené lhůtě nedojde k nabytí nebo zvýšení požadované účasti, souhlas udělený Českou národní bankou zaniká dnem uplynutí této lhůty.
+>
+> (3) Je-li pro posouzení žádosti podle § 24 odst. 1 nezbytné doplnit další informace, Česká národní banka bez zbytečného odkladu, nejpozději však 50. den běhu lhůty stanovené v odstavci 2, písemně vyzve žadatele k předložení dalších informací nezbytných pro posouzení žádosti. Dnem odeslání této výzvy se běh lhůty stanovené v odstavci 2 přerušuje, a to nejdéle na dobu 20 pracovních dnů. Přerušení lhůty může Česká národní banka prodloužit až na dobu 30 pracovních dnů, pokud žadatel
+>
+> - a) má sídlo nebo bydliště ve třetím státu,
+>
+> - b) podléhá dohledu orgánu dohledu nebo jiného orgánu dohledu vykonávajícího dohled nad bankou nebo obchodníkem s cennými papíry třetího státu, nebo
+>
+> - c) nepodléhá žádnému dohledu nad finančním trhem.
+>
+> (4) Přerušení lhůty nelze při posuzování žádosti opakovat. Tím není dotčeno právo České národní banky vyžádat si kdykoliv v průběhu běhu lhůty uvedené v odstavci 2 pro posouzení žádosti další potřebná objasnění a informace. Přijetí vyžádaných informací Česká národní banka písemně potvrdí žadateli ve lhůtě uvedené v § 24 odst. 1.
+>
+> (5) Jestliže Česká národní banka o žádosti uvedené v odstavci 1 nerozhodne ve lhůtách stanovených pro posouzení žádosti v odstavci 2 nebo [[#§ 3|3]], považuje se žádost o nabytí nebo zvýšení účasti za schválenou uplynutím posledního dne lhůty. Pokud Česká národní banka uvedenou žádost zamítne, zašle písemné vyhotovení rozhodnutí žadateli do 2 pracovních dnů ode dne jeho vyhotovení, a to před uplynutím lhůty pro vydání rozhodnutí o žádosti stanovené v odstavci 2 nebo [[#§ 3|3.]] Důvody neudělení tohoto souhlasu Česká národní banka na žádost žadatele uveřejní způsobem umožňujícím dálkový přístup.
+>
+> (6) Obdržela-li Česká národní banka 2 nebo více žádostí o souhlas s nabytím nebo zvýšením kvalifikované účasti ve smyslu § 24 odst. 1 ve stejné tuzemské pojišťovně, přistupuje k těmto žádostem nediskriminačním způsobem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 24, § 7a, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c5f55c9962482a2b8a9d -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=abf8aa1b910214613c85 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 26
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Osoba nebo osoby jednající ve shodě, které nabyly kvalifikovanou účast nebo zvýšily svoji účast způsobem uvedeným v § 24 odst. 1 bez souhlasu České národní banky, nemohou vykonávat hlasovací práva spojená s takto nabytou účastí, a to do doby udělení tohoto souhlasu.
+>
+> (2) Česká národní banka podá návrh na vyslovení neplatnosti usnesení valné hromady tuzemské pojišťovny, jestliže je v rozporu se zákonem, ohrožuje finanční stabilitu tuzemské pojišťovny nebo jinak poškozuje účastníky pojištění, zaměstnance tuzemské pojišťovny, její věřitele nebo menšinové akcionáře, a to ve lhůtě 30 dnů ode dne jejího konání. Česká národní banka není povinna podat návrh na vyslovení neplatnosti usnesení valné hromady tuzemské pojišťovny, pokud hlasování osob uvedených v odstavci 1 nemohlo ovlivnit přijetí usnesení valné hromady nebo takto přijaté usnesení není v rozporu se zákonem, neohrožuje finanční stabilitu tuzemské pojišťovny ani jinak nepoškozuje účastníky pojištění, zaměstnance tuzemské pojišťovny, její věřitele nebo menšinové akcionáře.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 24
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=abf8aa1b910214613c85 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=01a548a414364ea46dd5 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 27
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Osoba nebo osoby jednající ve shodě, které hodlají pozbýt svou kvalifikovanou účast v tuzemské pojišťovně nebo snížit svoji kvalifikovanou účast tak, že klesne pod 20 %, 30 % nebo 50 %, nebo tak, že tuzemská pojišťovna přestane být jejich ovládanou osobou, jsou povinny tuto skutečnost písemně oznámit České národní bance, a to nejpozději 30 dnů přede dnem, ke kterému má být tato účast snížena. Tuzemská pojišťovna informuje Českou národní banku o těchto skutečnostech, jakmile se o nich dozví.
+>
+> (2) Oznámení uvedené v odstavci 1 obsahuje údaje o osobě nebo osobách, které hodlají pozbýt nebo snížit svoji účast, údaje o tuzemské pojišťovně, ve které je držena účast a výši účasti této osoby nebo osob v tuzemské pojišťovně po jejím snížení. V oznámení se též uvede osoba nebo osoby, na které má být kvalifikovaná účast převedena.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=01a548a414364ea46dd5 -->
+
 ### Díl 3 — Pojišťovna z jiného členského státu
 
 ### §§ 28–31a — Single licence příchozí strany
@@ -2818,6 +5047,278 @@ Pojišťovna z EHP vstupuje do ČR na základě pasu a notifikace home reguláto
 **Typicky rozhodné důkazy / podklady:** notifikace home regulátora, sdělení podmínek obecného zájmu ČNB, doklad o sdělení/členství v České kanceláři pojistitelů, identifikace claims representative, dokumentace upisovacího řetězce Lloyd's.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b68b26e1f41e48884a41 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 28 — Činnost pojišťovny z jiného členského státu na území České republiky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Pojišťovna z jiného členského státu je oprávněna provozovat na území České republiky pojišťovací činnost na základě práva zřizovat své pobočky nebo na základě svobody dočasně poskytovat služby, a to v rozsahu, v jakém jí bylo uděleno povolení k provozování pojišťovací činnosti v zemi jejího sídla a po splnění informační povinnosti podle tohoto zákona.
+>
+> (2) Pojišťovna z jiného členského státu, která hodlá na území České republiky provozovat pojištění odpovědnosti za újmu způsobenou provozem vozidla podle pojistného odvětví uvedeného v části B bodu 10 písm. a) přílohy č. 1 k tomuto zákonu, zašle bez zbytečného odkladu České národní bance kopii sdělení České kanceláři pojistitelů (dále jen „Kancelář“), kterým jí v souladu se zákonem upravujícím pojištění odpovědnosti za újmu způsobenou provozem vozidla oznamuje
+>
+> - a) den předpokládaného zahájení činnosti v pojištění odpovědnosti za újmu způsobenou provozem vozidla na území České republiky prostřednictvím pobočky zřízené na území České republiky a jméno, popřípadě jména, příjmení, datum narození a adresu pro doručování osoby oprávněné jednat jménem pojistitele s Kanceláří, jde-li o fyzickou osobu, a obchodní firmu nebo název a sídlo, jde-li o právnickou osobu,
+>
+> - b) den předpokládaného zahájení činnosti v pojištění odpovědnosti za újmu způsobenou provozem vozidla na území České republiky na základě svobody dočasně poskytovat služby a jméno, popřípadě jména, příjmení, datum narození a adresu pro doručování osoby oprávněné jednat jménem pojistitele s Kanceláří, jde-li o fyzickou osobu, a obchodní firmu nebo název a sídlo, jde-li o právnickou osobu,
+>
+> - c) den skutečného zahájení, den ukončení činnosti v pojištění odpovědnosti za újmu způsobenou provozem vozidla na území České republiky, nebo
+>
+> - d) změnu v osobě s jednatelským oprávněním vůči Kanceláři.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b68b26e1f41e48884a41 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=d2dd7b82c4b628a4534a generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 29 — Povinnosti pojišťovny z jiného členského státu provozující pojišťovací činnost na území České republiky na základě práva zřídit pobočku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Před zřízením pobočky pojišťovny z jiného členského státu na území České republiky musí být Česká národní banka v souladu s právem Evropské unie informována orgánem dohledu domovského členského státu o
+>
+> - a) obchodním plánu, rozsahu pojišťovací činnosti podle pojistných odvětví, která má být provozována na území České republiky, a o organizační struktuře pobočky,
+>
+> - b) adrese pobočky na území České republiky,
+>
+> - c) jménu, popřípadě jménech, a příjmení osoby jmenované do funkce vedoucího pobočky pověřené zastupováním pojišťovny při jednání s třetími osobami, úřady a soudy v České republice a
+>
+> - d) tom, že tato pojišťovna splňuje solventností a minimální kapitálový požadavek.
+>
+> (2) Před zahájením činnosti pobočky pojišťovny z jiného členského státu Česká národní banka informuje ve lhůtě do 2 měsíců ode dne obdržení informací uvedených v odstavci 1 orgán dohledu domovského členského státu o podmínkách přijatých z důvodu veřejného zájmu, za kterých může být činnost pobočky vykonávána na území České republiky.
+>
+> (3) Pobočka pojišťovny z jiného členského státu může být zřízena a zahájit svoji činnost, jakmile pojišťovna z jiného členského státu, která hodlá zřídit na území České republiky svoji pobočku, obdržela prostřednictvím orgánu dohledu domovského členského státu informaci České národní banky o podmínkách činnosti pobočky na území České republiky, nebo marným uplynutím lhůty 2 měsíců ode dne doručení informace uvedené v odstavci 1 České národní bance. Tím není dotčena povinnost zápisu do obchodního rejstříku.
+>
+> (4) Má-li dojít ke změně údajů uvedených v odstavci 1 písm. a), b) nebo c), pojišťovna z jiného členského státu oznámí tuto změnu orgánu dohledu domovského členského státu a České národní bance, a to nejpozději 30 dnů přede dnem, ke kterému má být změna provedena. Nesplnění požadavku uvedeného v odstavci 1 písm. d) oznámí tato pojišťovna České národní bance bez zbytečného odkladu, jakmile taková skutečnost nastane.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d2dd7b82c4b628a4534a -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=f4459b0aa02b92c15cc1 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 30 — Povinnosti pojišťovny z jiného členského státu, týkající se provozování pojišťovací činnosti na území České republiky na základě svobody dočasně poskytovat služby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Pojišťovna z jiného členského státu je oprávněna provozovat svoji činnost na území České republiky na základě svobody dočasně poskytovat služby za podmínky, že
+>
+> - a) před zahájením této činnosti informuje orgán dohledu domovského členského státu a sdělí mu rozsah pojišťovací činnosti podle pojistných odvětví, která hodlá na území České republiky provozovat,
+>
+> - b) Česká národní banka obdrží v souladu s právem Evropské unie informace uvedené v odstavci 2.
+>
+> (2) Před zahájením činnosti na území České republiky pojišťovnou z jiného členského státu na základě svobody dočasně poskytovat služby musí být v souladu s právem Evropské unie České národní bance sděleny nebo předloženy orgánem dohledu domovského členského státu tyto informace nebo doklady:
+>
+> - a) potvrzení, že pojišťovna z jiného členského státu splňuje solventnostní a minimální kapitálový požadavek,
+>
+> - b) rozsah pojišťovací činnosti podle pojistných odvětví, která je pojišťovna z jiného členského státu oprávněna nabízet v souladu s povolením uděleným jí orgánem dohledu domovského členského státu,
+>
+> - c) rozsah pojišťovací činnosti podle pojistných odvětví, která hodlá pojišťovna z jiného členského státu nabízet na území České republiky,
+>
+> - d) jméno, popřípadě jména, příjmení, datum narození a adresu bydliště, jedná-li se o fyzickou osobu, nebo obchodní firmu nebo název a sídlo, jedná-li se o právnickou osobu, škodního zástupce v České republice ustanoveného pro vyřizování nároků z pojištění, má-li být provozováno pojištění podle pojistného odvětví uvedeného v části B bodě 10 písm. a) přílohy č. 1 k tomuto zákonu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f4459b0aa02b92c15cc1 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=82a7fd14edde8c3a052f generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 31 — Další povinnosti pojišťovny z jiného členského státu provozující pojišťovací činnost na území České republiky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Pojišťovna z jiného členského státu, která provozuje na území České republiky svoji pojišťovací činnost na základě práva zřizovat pobočky nebo na základě svobody poskytovat služby, shromažďuje údaje o své činnosti na území České republiky týkající se souhrnu předepsaného pojistného a souhrnu pojistných plnění za kalendářní rok, a to v členění podle přílohy č. 2 k tomuto zákonu. Tyto informace poskytuje České národní bance prostřednictvím orgánu dohledu domovského členského státu.
+>
+> (2) Pojišťovna z jiného členského státu, která provozuje pojišťovací činnost na území České republiky na základě práva zřizovat pobočky nebo na základě svobody dočasně poskytovat služby, na písemné vyžádání předloží České národní bance pojistné podmínky, uzavírá-li pojistné smlouvy podle zákona upravujícího pojistnou smlouvu, a případně sazebníky pojistného a formuláře, které pojišťovna používá při provozování své pojišťovací činnosti na území České republiky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=82a7fd14edde8c3a052f -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=ddbbeb073c3d667034ff generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 31a — Zvláštní ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Společenství upisovatelů Lloyd's se pro účely tohoto zákona považuje za pojišťovnu a zajišťovnu z jiného členského státu.
+>
+> (2) Osoba, která uzavřela pojistnou smlouvu se společenstvím upisovatelů Lloyd's, má v případě sporu vyplývajícího z právních poměrů v souvislosti s uzavřeným pojištěním stejné postavení jako osoba, která uzavřela takovou smlouvu s pojišťovnou obvyklého typu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ddbbeb073c3d667034ff -->
 
 ### Díl 4 — Pojišťovna ze třetího státu
 
@@ -2920,6 +5421,86 @@ Pojišťovna ze třetího státu smí v ČR působit jen přes pobočku (odště
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=fcb6b26e8d99819bb6c4 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 32 — Povolení k provozování pojišťovací činnosti pojišťovnou z třetího státu na území České republiky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Pojišťovna z třetího státu je oprávněna na území České republiky provozovat pojišťovací činnost pouze prostřednictvím pobočky jako svého odštěpného závodu zřízeného na území České republiky, a to na základě povolení uděleného Českou národní bankou. Tím není dotčena povinnost zápisu do obchodního rejstříku. Povolení České národní banky je pojišťovna z třetího státu povinna si vyžádat také před změnou rozsahu pojišťovací činnosti, pokud podle tohoto zákona taková změna nepodléhá pouze informační povinnosti. Při splnění podmínek podle § 49 odst. 3 může pojišťovna z třetího státu provozovat na území České republiky i zajišťovací činnost.
+>
+> (2) Pokud se jedná o pobočku pojišťovny se sídlem ve Švýcarské konfederaci, která hodlá na území České republiky provozovat pojišťovací činnost podle jednoho nebo více pojistných odvětví neživotního pojištění, řídí se Česká národní banka a tato pobočka pojišťovny tímto zákonem, pokud Dohoda mezi Evropským hospodářským společenstvím a Švýcarskou konfederací o přímém pojištění jiném než životním nebo jiná mezinárodní smlouva, která je součástí právního řádu, nestanoví jinak15).
+>
+> (3) Povolení k provozování pojišťovací činnosti uděluje Česká národní banka pojišťovně z třetího státu podle pojistných odvětví životních pojištění, podle pojistných odvětví neživotních pojištění nebo podle skupin neživotních pojištění uvedených v části C přílohy č. 1 k tomuto zákonu. Povolení se vztahuje na provozování pojišťovací činnosti pro všechna rizika spadající do těchto odvětví, pokud není výslovně požadováno povolení k provozování pojišťovací činnosti pro určitá rizika spadající do těchto odvětví. Česká národní banka může provozování požadovaného rozsahu činnosti omezit, jestliže shledá, že pojišťovna z třetího státu není schopna bezpečně provozovat činnosti v rozsahu uvedeném v žádosti.
+>
+> (4) Povolení uvedené v odstavci 1 uděluje Česká národní banka na základě žádosti pojišťovny z třetího státu podané elektronicky, ke které žadatel přiloží doklady prokazující splnění podmínek uvedených v odstavci 6. O této žádosti rozhodne Česká národní banka nejpozději do 6 měsíců ode dne, kdy jí byla doručena. Náležitosti žádosti, včetně příloh prokazujících splnění podmínek podle odstavce 6, její formáty a další technické náležitosti stanoví prováděcí právní předpis.
+>
+> (5) Při rozhodování o udělení povolení k provozování pojišťovací činnosti pojišťovně z třetího státu může Česká národní banka požadovat potřebné informace přímo od orgánu dohledu země sídla této pojišťovny a na požádání tohoto orgánu dohledu mu poskytovat údaje o činnosti její pobočky na území České republiky. Nevyplývá-li výměna informací mezi orgány dohledu z vyhlášených mezinárodních smluv, je pojišťovna z třetího státu povinna na žádost České národní banky zabezpečit získávání potřebných informací od orgánu dohledu země jejího sídla.
+>
+> (6) Povolení podle odstavce 1 Česká národní banka udělí, pokud to není v rozporu s vyhlášenými mezinárodními smlouvami, a pokud pojišťovna z třetího státu
+>
+> - a) s ohledem na požadovaný rozsah a povahu její činnosti dává předpoklady splnění podmínek provozování pojišťovací činnosti stanovených tímto zákonem nebo přímo použitelným předpisem Evropské unie, zejména její finanční stability, dostatečnosti personálních, technických a organizačních předpokladů,
+>
+> - b) může podle právních předpisů v zemi jejího sídla provozovat pojišťovací činnost podle pojistných odvětví životních nebo neživotních pojištění a požadovaný rozsah činnosti není v rozporu s tímto oprávněním,
+>
+> - c) založí na území České republiky svoji pobočku,
+>
+> - d) navrhla na vedoucího pobočky osobu, která splňuje podmínky způsobilosti a důvěryhodnosti,
+>
+> - e) má na území České republiky aktiva, jejichž hodnota se rovná nejméně jedné polovině spodní hranice minimálního kapitálového požadavku podle [[#§ 79a|§ 79a]] a vloží nejméně jednu čtvrtinu těchto aktiv jako jistinu na účet zvlášť k tomu zřízený u banky se sídlem na území České republiky nebo u pobočky zahraniční banky umístěné na území České republiky, se kterým nelze nakládat bez souhlasu České národní banky, a prokáže jejich původ,
+>
+> - f) se zaváže k plnění solventnostního kapitálového požadavku podle [[#§ 73|§ 73]] a minimálního kapitálového požadavku podle [[#§ 79|§ 79]] a [[#§ 79a|79a]], přičemž při jejich výpočtu se zohledňují pouze činnosti vykonávané na území České republiky,
+>
+> - g) předloží obchodní plán pobočky podle [[#§ 34|§ 34]] vztahující se k její činnosti, která má být provozována na území České republiky, podložený reálnými ekonomickými výpočty,
+>
+> - h) má funkční a efektivní řídicí a kontrolní systém,
+>
+> - i) ustanoví škodní zástupce v České republice a v ostatních členských státech pověřené vyřizováním nároků z pojištění, jestliže má být provozováno pojištění podle pojistného odvětví uvedeného v části B bodě 10 písm. a) přílohy č. 1 k tomuto zákonu,
+>
+> - j) není úzce propojena s dalšími osobami takovým způsobem, který by bránil účinnému výkonu dohledu v pojišťovnictví podle tohoto zákona,
+>
+> - k) se sama nebo jedna nebo více osob s ní úzce propojených neřídí právními předpisy třetího státu, které by bránily účinnému výkonu dohledu v pojišťovnictví podle tohoto zákona nebo by vedly k obtížné vynutitelnosti povinností podle tohoto zákona, a
+>
+> - l) uvedla v žádosti pravdivé údaje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 49, § 79a, § 73, § 79, § 34
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fcb6b26e8d99819bb6c4 -->
+
 ### § 33 — Souběh life + non-life u pobočky z třetího státu
 
 > **§ 33**
@@ -2968,6 +5549,54 @@ Jedna pobočka pojišťovny ze třetího státu nesmí kombinovat životní a ne
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=908ef153b006bc8e0723 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 33 — Podmínky provozování pojišťovací činnosti pojišťovnou z třetího státu na území České republiky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Bylo-li pojišťovně z třetího státu v zemi jejího sídla uděleno povolení k souběžnému provozování pojišťovací činnosti podle pojistných odvětví životního a neživotního pojištění, nemůže tato pojišťovna prostřednictvím své jedné pobočky na území České republiky nabízet současně životní i neživotní pojištění. Současně se životním pojištěním však může nabízet i pojištění úrazu a nemoci podle pojistných odvětví uvedených v části B bodech 1 a 2 přílohy č. 1 k tomuto zákonu, pokud bylo k takovému souběhu uděleno povolení orgánem dohledu státu jejího sídla.
+>
+> (2) Pojišťovna z třetího státu, které bylo uděleno povolení k provozování pojišťovací činnosti podle jednoho nebo více pojistných odvětví neživotních pojištění, může uzavřít pojistnou smlouvu i pro pojistné riziko spadající do odvětví, pro které jí nebylo uděleno povolení, za podmínek uvedených v [[#§ 14|§ 14]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 14
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=908ef153b006bc8e0723 -->
+
 ### § 34 — Obchodní plán pobočky z třetího státu
 
 § 34 reflektuje § 15 — vyžaduje obdobný obchodní plán pro pobočku pojišťovny ze třetího státu (rozsah odvětví, metody pojistné matematiky, technické rezervy, pasivní zajištění, použitelný kapitál, projekce, atd.).
@@ -3011,6 +5640,78 @@ Obchodní plán pobočky ze třetího státu musí obsahovat tytéž okruhy jako
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b67328eb2e0bc3143cec generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 34 — Obchodní plán pobočky pojišťovny z třetího státu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> V obchodním plánu pobočky pojišťovny z třetího státu podle § 32 odst. 6 písm. g) žadatel uvede
+>
+> - a) jedno nebo více pojistných odvětví, popřípadě rizika spadající do těchto odvětví, pokud nemají být pojištěna všechna rizika daného odvětví, nebo skupiny odvětví, pro které má být povolení uděleno,
+>
+> - b) metody výpočtu pojistného; u životních pojištění včetně statistických dat, na kterých je tento výpočet založen,
+>
+> - c) metody výpočtu technických rezerv,
+>
+> - d) základní principy pasivního zajištění,
+>
+> - e) výši použitelného kapitálu a použitelného primárního kapitálu pojišťovny podle [[#§ 63|§ 63]] v porovnání se solventnostním kapitálovým požadavkem a minimálním kapitálovým požadavkem podle [[#§ 73|§ 73]] a [[#§ 79|79]] a odhad budoucího solventnostního kapitálového požadavku a budoucího minimálního kapitálového požadavku založený na předpokládané rozvaze včetně metody výpočtu použitého k odvození těchto odhadů,
+>
+> - f) předpokládané náklady na zřízení provozního systému a organizaci obchodní sítě a způsob krytí těchto nákladů; v případě provozování pojištění podle odvětví neživotního pojištění uvedeného v části B bodě 18 přílohy č. 1 k tomuto zákonu také finanční a technické zdroje určené na zabezpečení asistenčních služeb,
+>
+> - g) pro první 3 účetní období
+>
+>   - 1. v případě provozování pojištění podle odvětví neživotních pojištění odhad výnosů a nákladů v členění na náklady spojené se zavedením činnosti a na běžné náklady, zejména režijní náklady a náklady na odměny pojišťovacím zprostředkovatelům, a odhad hrubého pojistného a nákladů na pojistná plnění,
+>
+>   - 2. v případě provozování pojištění podle odvětví životních pojištění odhad předpokládaných příjmů a výdajů z provozované pojišťovací činnosti s ohledem na přímé pojištění a postoupené zajištění,
+>
+>   - 3. přehled aktiv a pasiv, ve kterém budou oceněna aktiva a pasiva podle [[#§ 51|§ 51]],
+>
+>   - 4. odhad budoucího solventnostního kapitálového požadavku podle [[#§ 73|§ 73]] a budoucího minimálního kapitálového požadavku podle [[#§ 79|§ 79]] na předpokládané rozvaze, ve které budou oceněna aktiva a pasiva podle [[#§ 51|§ 51]], včetně metody výpočtu použité k odvození těchto odhadů, a
+>
+>   - 5. odhad finančních zdrojů určených k vyrovnání závazků z pojišťovací činnosti provozované na území České republiky a k plnění solventnostního a minimálního kapitálového požadavku a
+>
+> - h) návrhy nebo základní zásady pro přemístění činnosti, má-li být některá z činností po udělení povolení přemístěna mimo území České republiky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 32, § 63, § 73, § 79, § 51
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b67328eb2e0bc3143cec -->
+
 ### § 34a — Změny v činnosti pobočky z třetího státu
 
 § 34a stanoví **notifikační režim** pro změny u pobočky ze třetího státu — analogicky § 19 a § 23 pro tuzemské pojišťovny. Změna v osobě vedoucího pobočky vyžaduje **předchozí souhlas ČNB**. Změna rozsahu pojišťovací činnosti vyžaduje **samostatné povolení ČNB**.
@@ -3053,6 +5754,66 @@ U pobočky ze třetího státu vyžaduje změna vedoucího předchozí souhlas �
 **Typicky rozhodné důkazy / podklady:** doklady o způsobilosti a důvěryhodnosti vedoucího pobočky, žádost o změnu rozsahu a upravený obchodní plán, evidence dat nástupu a zahájení nových odvětví.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=cc78a86d42b973c12af7 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 34a — Změny v činnosti pojišťovny z třetího státu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Změny v údajích, které byly obsahem žádosti o udělení povolení a jejích příloh, s výjimkou změny rozsahu povolené činnosti podle odstavce 2 a informací, které může Česká národní banka získat podle zákona upravujícího základní registry, je pojišťovna z třetího státu povinna bez zbytečného odkladu oznámit České národní bance; změna stanov nebo jiného obdobného dokumentu se předkládá v úplném znění s vyznačením provedených změn. Změna v osobě vedoucího pobočky pojišťovny z třetího státu podléhá předchozímu souhlasu České národní banky na základě žádosti podané elektronicky, která obsahuje údaje o osobě nově navrhované do funkce vedoucího pobočky. Česká národní banka tuto žádost posuzuje podle § 32 odst. 6 písm. d).
+>
+> (2) Změna v rozsahu pojišťovací činnosti pojišťovny z třetího státu podléhá předchozímu schválení Českou národní bankou na základě žádosti podané elektronicky, o které rozhodne ve lhůtě podle § 32 odst. 4; Česká národní banka změnu povolí, pokud pojišťovna
+>
+> - a) prokázala, že disponuje použitelným kapitálem ve výši solventnostního kapitálového požadavku podle [[#§ 73|§ 73]] a minimálního kapitálového požadavku podle [[#§ 79|§ 79]] a [[#§ 79a|79a]],
+>
+> - b) předložila upravený obchodní plán podle [[#§ 34|§ 34]], ve kterém promítne požadované změny,
+>
+> - c) ustanovila škodní zástupce podle § 32 odst. 6 písm. i), má-li být provozována pojišťovací činnost podle pojistného odvětví uvedeného v části B bodě 10 písm. a) přílohy č. 1 k tomuto zákonu,
+>
+> - d) předložila upravenou koncepci řídicího a kontrolního systému podle [[#§ 7|§ 7]] s promítnutím požadované změny a
+>
+> - e) uvedla v žádosti pravdivé údaje.
+>
+> (3) Náležitosti žádosti podle odstavců 1 a [[#§ 2|2]], včetně příloh prokazujících splnění podmínek podle těchto odstavců, její formáty a další technické náležitosti stanoví prováděcí právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 32, § 73, § 79, § 79a, § 34, § 7, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cc78a86d42b973c12af7 -->
 
 ### § 35 — Zvýhodnění pojišťovny ze třetího státu s pobočkami ve více členských státech
 
@@ -3122,6 +5883,64 @@ Pojišťovna ze třetího státu s pobočkami ve více členských státech mů�
 **Typicky rozhodné důkazy / podklady:** žádosti podané jednotlivým orgánům dohledu, odůvodnění volby lead supervisora, doklady o umístění aktiv a jistiny, podklady o činnosti všech poboček v EHP.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=dac18019487a00fc63fb generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 35 — Zvýhodnění
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Pojišťovna z třetího státu, která požádala ve více než jednom členském státě o povolení k provozování pojišťovací činnosti prostřednictvím svých poboček nebo toto povolení již získala od více než jednoho členského státu, může požádat orgány dohledu členských států, ve kterých má být nebo je pojišťovací činnost provozována, o zvýhodnění spočívající v tom, že
+>
+> - a) solventnostní kapitálový požadavek podle [[#§ 73|§ 73]] se vypočítá ve vztahu k celému rozsahu provozované činnosti v rámci členských států; v tomto případě se pro účely tohoto výpočtu přihlíží pouze k činnostem realizovaným všemi pobočkami zřízenými v rámci členských států,
+>
+> - b) aktiva ve výši uvedené v § 32 odst. 6 písm. e) jako jistina se budou nacházet pouze v tom členském státě, jehož orgán dohledu bude dohlížet na dodržování podmínek solventnosti,
+>
+> - c) aktiva ve výši minimálního kapitálového požadavku podle [[#§ 79|§ 79]], se mohou nacházet v libovolném členském státě, ve kterém pojišťovna z třetího státu provozuje svoji pojišťovací činnost.
+>
+> (2) Zvýhodnění uvedená v odstavci 1 lze udělit pouze všechna současně. Žádost o udělení zvýhodnění pojišťovna z třetího státu podá orgánům dohledu členských států, ve kterých má být pojišťovací činnost provozována. V žádosti musí být uveden orgán dohledu členského státu, který bude dohlížet na dodržování podmínek solventnosti pojišťovny z třetího státu prostřednictvím jejích poboček zřízených v rámci členských států. Volbu daného orgánu dohledu musí tato pojišťovna odůvodnit.
+>
+> (3) Zvýhodnění mohou být udělena pouze v případě, že orgány dohledu všech členských států, ve kterých byla žádost podána, s nimi souhlasí. Zvýhodnění platí ode dne odeslání informace ostatním orgánům dohledu o tom, že orgán dohledu zvolený ve smyslu odstavce 2 bude dohlížet na stav solventnosti za veškerou provozovanou pojišťovací činnost prostřednictvím poboček pojišťovny z třetího státu zřízených v členských státech.
+>
+> (4) Orgán dohledu zvolený ve smyslu odstavce 2 obdrží od ostatních členských států informace potřebné pro výkon dohledové činnosti nad celkovou solventností poboček pojišťovny z třetího státu zřízených na jejich území. Na žádost jednoho nebo více dotčených orgánů členských států budou zvýhodnění udělená všemi zúčastněnými členskými státy odejmuta18).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 73, § 32, § 79
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dac18019487a00fc63fb -->
 
 ### Hlava III — Provozování zajišťovací činnosti (§§ 36–38)
 
@@ -3220,6 +6039,86 @@ Tuzemská zajišťovna musí být akciovou společností se sídlem v ČR; smí 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=32d37e903cccd232616d generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 36 — Povolení k provozování zajišťovací činnosti tuzemskou zajišťovnou
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka uděluje povolení k provozování zajišťovací činnosti pro neživotní zajištění, životní zajištění nebo pro oba typy zajišťovací činnosti. Česká národní banka může požadovaný rozsah činnosti omezit, jestliže není dostatečně prokázána schopnost žadatele finančně a provozně zabezpečit zajišťovací činnost v rozsahu uvedeném v žádosti.
+>
+> (2) Tuzemská zajišťovna je oprávněna provozovat zajišťovací činnost na základě a v rozsahu povolení uděleného Českou národní bankou jako akciová společnost a je-li její sídlo na území České republiky.
+>
+> (3) Povolení udělené Českou národní bankou za podmínek stanovených tímto zákonem tuzemské zajišťovně je platné pro všechny členské státy a opravňuje ji za podmínek stanovených tímto zákonem k provozování zajišťovací činnosti na území jiného členského státu, a to buď prostřednictvím pobočky nebo na základě svobody dočasně poskytovat služby.
+>
+> (4) Povolení České národní banky je tuzemská zajišťovna povinna si vyžádat také před změnou rozsahu zajišťovací činnosti, pokud podle tohoto zákona taková změna nepodléhá pouze informační povinnosti.
+>
+> (5) Česká národní banka uděluje založené tuzemské zajišťovně povolení k provozování zajišťovací činnosti na základě žádosti podané elektronicky, ke které žadatel přiloží doklady prokazující splnění podmínek uvedených v odstavci 6, a to přede dnem jejího zápisu do obchodního rejstříku. O této žádosti rozhodne Česká národní banka nejpozději do 6 měsíců ode dne, kdy jí byla doručena. Oprávnění k provozování zajišťovací činnosti vznikne tuzemské zajišťovně dnem jejího zápisu do obchodního rejstříku. Náležitosti žádosti, včetně příloh prokazujících splnění podmínek podle odstavce 6, její formáty a další technické náležitosti stanoví prováděcí právní předpis.
+>
+> (6) Česká národní banka udělí povolení podle odstavce 5, pokud
+>
+> - a) je splněna podmínka sídla podle odstavce 2,
+>
+> - b) jsou s ohledem na požadovaný rozsah a povahu činnosti zajišťovny dány předpoklady splnění podmínek provozování zajišťovací činnosti stanovených tímto zákonem nebo přímo použitelným předpisem Evropské unie, zejména její finanční stability, dostatečnost personálních, technických a organizačních předpokladů,
+>
+> - c) byly sděleny identifikační údaje ke každé osobě, která má mít kvalifikovanou účast na zajišťovně, a tato dává předpoklad řádného a obezřetného řízení zajišťovny,
+>
+> - d) každá osoba, která má působit jako osoba podle § 7a odst. 1, splňuje podmínky způsobilosti a důvěryhodnosti,
+>
+> - e) úzké propojení mezi zajišťovnou a dalšími osobami nebrání účinnému výkonu dohledu v pojišťovnictví podle tohoto zákona,
+>
+> - f) účinnému výkonu dohledu v pojišťovnictví podle tohoto zákona nebrání právní předpisy třetího státu, kterými se řídí jedna nebo více osob, s nimiž má mít zajišťovna úzké propojení, ani obtížná vymahatelnost práva v tomto státě,
+>
+> - g) výše základního kapitálu zajišťovny splňuje podmínky podle [[#§ 39|§ 39]],
+>
+> - h) aktiva zajišťovny nepocházejí z trestné činnosti nebo z neidentifikovatelných zdrojů a je prokázán původ kapitálu a dalších finančních zdrojů,
+>
+> - i) navrhovaný řídicí a kontrolní systém včetně systému řízení rizik dává předpoklad své funkčnosti a efektivnosti,
+>
+> - j) je prokázána schopnost držet použitelný kapitál ve výši solventnostního kapitálového požadavku podle [[#§ 73|§ 73]] a minimálního kapitálového požadavku podle [[#§ 79|§ 79]] a [[#§ 79a|79a]],
+>
+> - k) žadatel předložil obchodní plán zajišťovny podle [[#§ 37|§ 37]] podložený reálnými ekonomickými výpočty a
+>
+> - l) žadatel uvedl v žádosti pravdivé údaje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7a, § 39, § 73, § 79, § 79a, § 37
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=32d37e903cccd232616d -->
+
 ### § 37 — Obchodní plán tuzemské zajišťovny
 
 § 37 vymezuje obsah obchodního plánu pro zajišťovnu (analog § 15):
@@ -3273,6 +6172,76 @@ Obchodní plán zajišťovny musí obsahovat povahu rizik, druhy zajišťovacíc
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=164022907e4bb2d3e4a8 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 37 — Obchodní plán tuzemské zajišťovny
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> V obchodním plánu podle § 36 odst. 6 písm. k) žadatel uvede
+>
+> - a) popis povahy pojistných nebo zajistných rizik, pro které má být povolení uděleno,
+>
+> - b) druhy zajišťovacích smluv, které zajišťovna hodlá uzavírat v rámci přebírání pojistných nebo zajistných rizik do zajištění,
+>
+> - c) popis tvorby a užití technických rezerv, včetně metody výpočtu jejich výše, a popis základních zásad předávání převzatých rizik do zajištění,
+>
+> - d) položky primárního kapitálu ve výši spodní hranice minimálního kapitálového požadavku podle [[#§ 79a|§ 79a]],
+>
+> - e) předpokládané náklady na zřízení provozního systému a organizaci obchodní sítě a způsob krytí těchto nákladů,
+>
+> - f) pro první 3 účetní období
+>
+>   - 1. odhad výnosů a nákladů v členění na náklady spojené se zavedením činnosti a na běžné náklady, zejména režijní náklady a náklady na odměny zajišťovacím zprostředkovatelům, a odhad hrubého zajistného, provizí a nákladů na plnění ze zajišťovacích smluv,
+>
+>   - 2. odhad předpokládaných příjmů a výdajů z provozované zajišťovací činnosti s ohledem na převzaté a postoupené zajištění,
+>
+>   - 3. přehled aktiv a pasiv, ve kterém budou oceněna aktiva a pasiva podle [[#§ 51|§ 51]],
+>
+>   - 4. odhad budoucího solventnostního kapitálového požadavku podle [[#§ 73|§ 73]] a budoucího minimálního kapitálového požadavku podle [[#§ 79|§ 79]] založený na předpokládané rozvaze, ve které budou oceněna aktiva a pasiva podle [[#§ 51|§ 51]], včetně metody výpočtu použité k odvození těchto odhadů, a
+>
+>   - 5. odhad finančních zdrojů určených k vyrovnání závazků z provozované zajišťovací činnosti a k plnění solventnostního a minimálního kapitálového požadavku a
+>
+> - g) návrhy nebo základní zásady pro přemístění činnosti, má-li být některá z činností po udělení povolení přemístěna.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 36, § 79a, § 51, § 73, § 79
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=164022907e4bb2d3e4a8 -->
+
 ### § 38 — Udělení povolení zajišťovně ve skupině
 
 § 38 zrcadlí § 16 — povinnost ČNB **konzultovat** orgán dohledu jiného členského státu při udělování povolení zajišťovně, která se má stát součástí přeshraniční pojišťovací nebo finanční skupiny.
@@ -3315,6 +6284,72 @@ Stane-li se nová zajišťovna součástí přeshraniční skupiny, je konzultac
 **Typicky rozhodné důkazy / podklady:** schéma vlastnické a ovládací struktury skupiny, stanovisko zahraničního orgánu dohledu, podklady o důvěryhodnosti ovládajících osob, doklady o úzkém propojení a o případných mezičláncích ve třetích státech.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c29412965e6dc9798002 generator=2026-07-17.4 source_sha256=aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0 -->
+#### Revizní doplnění k § 38 — Udělení povolení tuzemské zajišťovně ve skupině
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/277-2009 Zákon o pojišťovnictví.md`; identifikátor verze: `SB-2009-00277_2025-07-01`; SHA-256: `aa1e1b06c3aa984e4a23bd69b360c29ea3caa9f206d3e3f35d27b0f6c900efe0`.
+
+##### Znění ustanovení
+
+> (1) Před udělením povolení k provozování zajišťovací činnosti tuzemské zajišťovně, která se má stát
+>
+> - a) ovládanou osobou pojišťovny nebo zajišťovny z jiného členského státu, nebo
+>
+> - b) ovládanou osobou jiné osoby, která je ovládající osobou pojišťovny nebo zajišťovny z jiného členského státu,
+>
+> si Česká národní banka vyžádá stanovisko orgánu dohledu dotčeného jiného členského státu.
+>
+> (2) Před udělením povolení k provozování zajišťovací činnosti tuzemské zajišťovně, která se má stát
+>
+> - a) ovládanou osobou banky nebo obchodníka s cennými papíry z jiného členského státu, nebo
+>
+> - b) ovládanou osobou jiné osoby, která je ovládající osobou banky nebo obchodníka s cennými papíry z jiného členského státu,
+>
+> si Česká národní banka vyžádá stanovisko orgánu dohledu, který vykonává dohled nad činností takové banky nebo obchodníka s cennými papíry.
+>
+> (3) Česká národní banka se s orgány dohledu uvedenými v odstavcích 1 a [[#§ 2|2]] vzájemně informuje zejména o důvěryhodnosti a způsobilosti osob ovládajících posuzovanou právnickou osobu, osob s klíčovými funkcemi právnické osoby podléhající dohledu a průběžně si s nimi vyměňuje informace důležité při udělování povolení k činnosti a při kontrole provozování povolené činnosti.
+>
+> (4) Tuzemská zajišťovna, která je osobou ve finančním konglomerátu, nemůže mít účast v kaptivní pojišťovně nebo v kaptivní zajišťovně.
+>
+> (5) Odstavce 1 až 4 se v případě, kdy se má tuzemská zajišťovna stát ovládanou osobou osoby s bydlištěm nebo sídlem na území třetího státu, použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c29412965e6dc9798002 -->
 
 ## Shrnutí kapitoly
 
